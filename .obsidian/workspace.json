@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c459169216d802ec",
@@ -158,17 +157,17 @@
   },
   "active": "12def0f8ae3f7494",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20240102132319.png",
+    "readme.assets/Pasted image 20240102132235.png",
+    "readme.assets/Pasted image 20240102132218.png",
+    "readme.assets/Pasted image 20240102132140.png",
+    "readme.assets/Pasted image 20240102132125.png",
+    "readme.assets/Pasted image 20240102132118.png",
+    "readme.assets/Pasted image 20240102132034.png",
+    "readme.assets/Pasted image 20240102131925.png",
+    "readme.assets/Pasted image 20240102131902.png",
     "readme.assets/640.gif",
     "readme.assets/Pasted image 20231227174413.png",
-    "readme.assets/Pasted image 20231227174323.png",
-    "readme.assets/Pasted image 20231227174244.png",
-    "readme.assets/Pasted image 20231227174216.png",
-    "readme.assets/Pasted image 20231227174157.png",
-    "readme.assets/Pasted image 20231227174151.png",
-    "readme.assets/Pasted image 20231227174144.png",
-    "readme.assets/Pasted image 20231227174106.png",
-    "readme.assets/Pasted image 20231227173938.png",
-    "readme.assets/Pasted image 20231227173835.png",
     "README.md",
     "readme.assets"
   ]
