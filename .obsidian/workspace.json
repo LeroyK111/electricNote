@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MCU/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c459169216d802ec",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MCU/readme.md"
               }
             }
           },
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MCU/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MCU/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MCU/readme.md"
               }
             }
           }
@@ -158,6 +157,10 @@
   },
   "active": "12def0f8ae3f7494",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20240422194702.png",
+    "readme.assets/Pasted image 20240422194650.png",
+    "readme.assets/Pasted image 20240422194602.png",
+    "README.md",
     "readme.assets/Pasted image 20230730213824.png",
     "readme.assets/Pasted image 20230730210640.png",
     "readme.assets/Pasted image 20230730210300.png",
@@ -166,9 +169,6 @@
     "readme.assets/Pasted image 20230730204207.png",
     "readme.assets/Pasted image 20230730201150.png",
     "readme.assets/Pasted image 20230730200937.png",
-    "readme.assets/Pasted image 20230730192521.png",
-    "readme.assets/Pasted image 20230730131135.png",
-    "README.md",
     "readme.assets"
   ]
 }
