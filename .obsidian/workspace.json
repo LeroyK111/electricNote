@@ -11,8 +11,12 @@
             "id": "d6bf68c5f6168e4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -145,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eb2e8fbbe6e2dacb",
+  "active": "d6bf68c5f6168e4a",
   "lastOpenFiles": [
     "readme.assets/Pasted image 20240509222228.png",
     "readme.assets/Pasted image 20240509221859.png",
