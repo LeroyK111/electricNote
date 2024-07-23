@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPU/认识GPU.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPU/认识GPU.md"
+                "file": "README.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GPU/认识GPU.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GPU/认识GPU.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GPU/认识GPU.md"
+                "file": "README.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "12def0f8ae3f7494",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20240723192345.png",
+    "readme.assets/Pasted image 20240723192329.png",
+    "GPU/认识GPU.md",
     "readme.assets/Pasted image 20240509222228.png",
     "readme.assets/Pasted image 20240509221859.png",
     "readme.assets/Pasted image 20240509221744.png",
@@ -166,10 +169,7 @@
     "readme.assets/Pasted image 20240509221521.png",
     "readme.assets/Pasted image 20240509221508.png",
     "readme.assets/Pasted image 20240509221420.png",
-    "readme.assets/Pasted image 20240509221416.png",
-    "readme.assets/Pasted image 20240509221110.png",
     "README.md",
-    "GPU/认识GPU.md",
     "GPU",
     "MCU/readme.md",
     "readme.assets"
