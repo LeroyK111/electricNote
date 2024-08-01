@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e20d6de42b9e33a",
+        "id": "bba40827f28a7382",
         "type": "tabs",
         "children": [
           {
-            "id": "d6bf68c5f6168e4a",
+            "id": "1638074058e36d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +145,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6bf68c5f6168e4a",
+  "active": "1638074058e36d11",
   "lastOpenFiles": [
+    "README.md",
     "readme.assets/Pasted image 20240509222228.png",
     "readme.assets/Pasted image 20240509221859.png",
     "readme.assets/Pasted image 20240509221744.png",
@@ -167,12 +158,10 @@
     "readme.assets/Pasted image 20240509221508.png",
     "readme.assets/Pasted image 20240509221420.png",
     "readme.assets/Pasted image 20240509221416.png",
-    "readme.assets/Pasted image 20240509221110.png",
     "MCU/readme.md",
     "MCU",
     "GPU/认识GPU.md",
     "GPU",
-    "README.md",
     "readme.assets"
   ]
 }
