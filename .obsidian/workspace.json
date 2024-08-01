@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bba40827f28a7382",
+        "id": "9cf1943d613bd694",
         "type": "tabs",
         "children": [
           {
-            "id": "1638074058e36d11",
+            "id": "12def0f8ae3f7494",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -145,9 +149,8 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1638074058e36d11",
+  "active": "d6bf68c5f6168e4a",
   "lastOpenFiles": [
-    "README.md",
     "readme.assets/Pasted image 20240509222228.png",
     "readme.assets/Pasted image 20240509221859.png",
     "readme.assets/Pasted image 20240509221744.png",
@@ -158,10 +161,12 @@
     "readme.assets/Pasted image 20240509221508.png",
     "readme.assets/Pasted image 20240509221420.png",
     "readme.assets/Pasted image 20240509221416.png",
+    "readme.assets/Pasted image 20240509221110.png",
     "MCU/readme.md",
     "MCU",
     "GPU/认识GPU.md",
     "GPU",
+    "README.md",
     "readme.assets"
   ]
 }
