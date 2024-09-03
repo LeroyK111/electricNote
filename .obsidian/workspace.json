@@ -84,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +149,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "12def0f8ae3f7494",
+  "active": "d6bf68c5f6168e4a",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "readme.assets/Pasted image 20240903131503.png",
     "readme.assets/Pasted image 20240903131457.png",
     "readme.assets/Pasted image 20240903131451.png",
@@ -171,7 +166,24 @@
     "GPU/认识GPU.md",
     "README.md",
     "GPU",
+=======
+    "readme.assets/Pasted image 20240509222228.png",
+    "readme.assets/Pasted image 20240509221859.png",
+    "readme.assets/Pasted image 20240509221744.png",
+    "readme.assets/Pasted image 20240509221736.png",
+    "readme.assets/Pasted image 20240509221734.png",
+    "readme.assets/Pasted image 20240509221609.png",
+    "readme.assets/Pasted image 20240509221521.png",
+    "readme.assets/Pasted image 20240509221508.png",
+    "readme.assets/Pasted image 20240509221420.png",
+    "readme.assets/Pasted image 20240509221416.png",
+    "readme.assets/Pasted image 20240509221110.png",
+>>>>>>> df6a191083e6162b5bef6d732e856398aa87125d
     "MCU/readme.md",
+    "MCU",
+    "GPU/认识GPU.md",
+    "GPU",
+    "README.md",
     "readme.assets"
   ]
 }
