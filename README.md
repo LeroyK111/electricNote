@@ -1,4 +1,4 @@
-# 电气工程
+# 电气电子工程
 
 **电气工程**是以[电子学](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E5%AD%B8 "电子学")、[电磁学](https://zh.wikipedia.org/wiki/%E9%9B%BB%E7%A3%81%E5%AD%B8 "电磁学")等[物理学](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E5%AD%A6 "物理学")分支为基础，涵盖[电子学](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E5%AD%B8 "电子学")、[电子计算机](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%AD%90%E8%A8%88%E7%AE%97%E6%A9%9F "电子计算机")、[电力工程](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%8A%9B%E5%B7%A5%E7%A8%8B "电力工程")、[电信](https://zh.wikipedia.org/wiki/%E7%94%B5%E4%BF%A1 "电信")、[控制工程](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B "控制工程")、[讯号处理](https://zh.wikipedia.org/wiki/%E8%A8%8A%E8%99%9F%E8%99%95%E7%90%86 "讯号处理")、[机械电子学](https://zh.wikipedia.org/wiki/%E6%9C%BA%E6%A2%B0%E7%94%B5%E5%AD%90%E5%AD%A6 "机械电子学")等子领域的一门[工程学](https://zh.wikipedia.org/wiki/%E5%B7%A5%E7%A8%8B%E5%AD%B8 "工程学")。十九世纪后半期以来，随著[电报](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%A0%B1 "电报")、[电话](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%A9%B1 "电话")、[电能](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%83%BD "电能")在供应与使用方面的商业化，该学科逐渐发展为相对独立的专业领域。
 

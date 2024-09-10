@@ -4,5 +4,6 @@
   "useMarkdownLinks": true,
   "showInlineTitle": false,
   "defaultViewMode": "preview",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

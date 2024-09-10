@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCU/readme.md",
+                "file": "存储设备/存储卡.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU/readme.md"
+                "file": "存储设备/存储卡.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCU/readme.md",
+                "file": "存储设备/存储卡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCU/readme.md",
+                "file": "存储设备/存储卡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU/readme.md"
+                "file": "存储设备/存储卡.md"
               }
             }
           }
@@ -157,21 +157,27 @@
   },
   "active": "12def0f8ae3f7494",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20240910173312.png",
+    "存储设备/存储设备.md",
+    "存储设备/存储卡.md",
+    "readme.assets/Pasted image 20240910173118.png",
+    "readme.assets/Pasted image 20240910172837.png",
+    "readme.assets/Pasted image 20240910172740.png",
+    "readme.assets/Pasted image 20240910172725.png",
+    "readme.assets/Pasted image 20240910172705.png",
+    "存储设备/存储盘.md",
+    "存储设备/存储.md",
+    "未命名.md",
+    "README.md",
+    "存储设备",
+    "MCU/readme.md",
     "readme.assets/Pasted image 20240903131503.png",
     "readme.assets/Pasted image 20240903131457.png",
     "readme.assets/Pasted image 20240903131451.png",
     "readme.assets/Pasted image 20240903131335.png",
     "readme.assets/Pasted image 20240903131153.png",
-    "readme.assets/Pasted image 20240903131108.png",
-    "README.md",
     "CPU/readme.md",
     "GPU/认识GPU.md",
-    "readme.assets/Pasted image 20240910103332.png",
-    "readme.assets/Pasted image 20240910103223.png",
-    "readme.assets/Pasted image 20240910103129.png",
-    "readme.assets/Pasted image 20240910103053.png",
-    "readme.assets/Pasted image 20240910103039.png",
-    "MCU/readme.md",
     "MCU",
     "GPU",
     "readme.assets"
