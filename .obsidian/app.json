@@ -3,5 +3,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }
