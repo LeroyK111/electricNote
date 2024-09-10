@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MCU/readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MCU/readme.md"
+              }
             }
           },
           {
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MCU/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MCU/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MCU/readme.md"
+              }
             }
           }
         ]
@@ -149,24 +155,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6bf68c5f6168e4a",
+  "active": "12def0f8ae3f7494",
   "lastOpenFiles": [
+    "README.md",
+    "CPU/readme.md",
+    "GPU/认识GPU.md",
+    "readme.assets/Pasted image 20240910103332.png",
+    "readme.assets/Pasted image 20240910103223.png",
+    "readme.assets/Pasted image 20240910103129.png",
+    "readme.assets/Pasted image 20240910103053.png",
+    "readme.assets/Pasted image 20240910103039.png",
+    "readme.assets/Pasted image 20240910103028.png",
     "readme.assets/Pasted image 20240509222228.png",
     "readme.assets/Pasted image 20240509221859.png",
     "readme.assets/Pasted image 20240509221744.png",
     "readme.assets/Pasted image 20240509221736.png",
-    "readme.assets/Pasted image 20240509221734.png",
-    "readme.assets/Pasted image 20240509221609.png",
-    "readme.assets/Pasted image 20240509221521.png",
-    "readme.assets/Pasted image 20240509221508.png",
-    "readme.assets/Pasted image 20240509221420.png",
-    "readme.assets/Pasted image 20240509221416.png",
-    "readme.assets/Pasted image 20240509221110.png",
     "MCU/readme.md",
     "MCU",
-    "GPU/认识GPU.md",
     "GPU",
-    "README.md",
     "readme.assets"
   ]
 }
