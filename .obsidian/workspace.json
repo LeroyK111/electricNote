@@ -16,10 +16,27 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "91cd1de96fc9af27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEMS/无线数字地震检波器.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "无线数字地震检波器"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -84,7 +107,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEMS/无线数字地震检波器.md"
+              },
+              "icon": "lucide-list",
+              "title": "无线数字地震检波器 的大纲"
             }
           },
           {
@@ -93,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEMS/无线数字地震检波器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "无线数字地震检波器 的反向链接列表"
             }
           },
           {
@@ -109,9 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MEMS/无线数字地震检波器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "无线数字地震检波器 的出链列表"
             }
           },
           {
@@ -122,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -130,7 +165,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEMS/无线数字地震检波器.md"
+              },
+              "icon": "lucide-list",
+              "title": "无线数字地震检波器 的大纲"
             }
           }
         ]
@@ -149,41 +188,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6bf68c5f6168e4a",
+  "active": "91cd1de96fc9af27",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "readme.assets/Pasted image 20240903131503.png",
-    "readme.assets/Pasted image 20240903131457.png",
-    "readme.assets/Pasted image 20240903131451.png",
-    "readme.assets/Pasted image 20240903131335.png",
-    "readme.assets/Pasted image 20240903131153.png",
-    "readme.assets/Pasted image 20240903131108.png",
-    "readme.assets/Pasted image 20240731193922.png",
-    "readme.assets/Pasted image 20240731193900.png",
-    "readme.assets/Pasted image 20240731193831.png",
-    "readme.assets/Pasted image 20240731193542.png",
-    "readme.assets/Pasted image 20240731193147.png",
-    "GPU/认识GPU.md",
+    "readme.assets/Pasted image 20241026104706.png",
+    "readme.assets/Pasted image 20241026104657.png",
+    "readme.assets/Pasted image 20241026104633.png",
+    "readme.assets/Pasted image 20241026104608.png",
+    "readme.assets/Pasted image 20241026104551.png",
+    "readme.assets/Pasted image 20241026104532.png",
+    "readme.assets/Pasted image 20241026104518.png",
+    "readme.assets/Pasted image 20241026104503.png",
+    "readme.assets/Pasted image 20241026104446.png",
+    "readme.assets/Pasted image 20241026104434.png",
+    "readme.assets/Pasted image 20241026104348.png",
     "README.md",
+    "MEMS/无线数字地震检波器.md",
+    "MEMS",
+    "GPU/认识GPU.md",
     "GPU",
-=======
-    "readme.assets/Pasted image 20240509222228.png",
-    "readme.assets/Pasted image 20240509221859.png",
-    "readme.assets/Pasted image 20240509221744.png",
-    "readme.assets/Pasted image 20240509221736.png",
-    "readme.assets/Pasted image 20240509221734.png",
-    "readme.assets/Pasted image 20240509221609.png",
-    "readme.assets/Pasted image 20240509221521.png",
-    "readme.assets/Pasted image 20240509221508.png",
-    "readme.assets/Pasted image 20240509221420.png",
-    "readme.assets/Pasted image 20240509221416.png",
-    "readme.assets/Pasted image 20240509221110.png",
->>>>>>> df6a191083e6162b5bef6d732e856398aa87125d
     "MCU/readme.md",
-    "MCU",
-    "GPU/认识GPU.md",
-    "GPU",
-    "README.md",
     "readme.assets"
   ]
 }
