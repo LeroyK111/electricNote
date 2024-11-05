@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "a8d8a5c934e0db6b",
+    "id": "9f8730b17ef49698",
     "type": "split",
     "children": [
       {
-        "id": "9cf1943d613bd694",
+        "id": "7ee1b5ac4d5b8547",
         "type": "tabs",
         "children": [
           {
-            "id": "12def0f8ae3f7494",
+            "id": "46c962d868d650e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "存储设备/存储卡.md",
+                "file": "ADC芯片/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "91cd1de96fc9af27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEMS/无线数字地震检波器.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无线数字地震检波器"
+              "title": "readme"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "220e2c3ca1ab6035",
+    "id": "e793ab31405097da",
     "type": "split",
     "children": [
       {
-        "id": "ccb3079fa094031a",
+        "id": "e4be546e07dd75b0",
         "type": "tabs",
         "children": [
           {
-            "id": "eb2e8fbbe6e2dacb",
+            "id": "a5b24748232a5187",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "0e3adf8ab09bb7d4",
+            "id": "d211c9bc20d0d9a9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "65d9c65fbbfeb503",
+            "id": "f4389d02e38f8041",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,45 +80,34 @@
     "width": 200
   },
   "right": {
-    "id": "c459169216d802ec",
+    "id": "a226f315a9433315",
     "type": "split",
     "children": [
       {
-        "id": "89241f4db19c50ff",
+        "id": "0f1f213f70009ce6",
         "type": "tabs",
         "children": [
           {
-            "id": "7f431602584446d9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "MEMS/无线数字地震检波器.md"
-              },
-              "icon": "lucide-list",
-              "title": "无线数字地震检波器 的大纲"
-            }
-          },
-          {
-            "id": "82a2e3bf69083316",
+            "id": "3b6a416cf47e4725",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPU/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "无线数字地震检波器 的反向链接列表"
+              "title": "readme 的反向链接列表"
             }
           },
           {
-            "id": "e6dcce24f4877657",
+            "id": "3bc48958e7f7b84a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -142,11 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "无线数字地震检波器 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "0243c33ddbeaa3fd",
+            "id": "b54830dd0407942e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -159,14 +133,19 @@
             }
           },
           {
-            "id": "15d6ac6272bce734",
+            "id": "2cba5223363b6169",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ADC芯片/readme.md"
+              },
+              "icon": "lucide-list",
+              "title": "readme 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,41 +161,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d6bf68c5f6168e4a",
+  "active": "46c962d868d650e7",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "readme.assets/Pasted image 20240903131503.png",
-    "readme.assets/Pasted image 20240903131457.png",
-    "readme.assets/Pasted image 20240903131451.png",
-    "readme.assets/Pasted image 20240903131335.png",
-    "readme.assets/Pasted image 20240903131153.png",
-    "readme.assets/Pasted image 20240903131108.png",
-    "readme.assets/Pasted image 20240731193922.png",
-    "readme.assets/Pasted image 20240731193900.png",
-    "readme.assets/Pasted image 20240731193831.png",
-    "readme.assets/Pasted image 20240731193542.png",
-    "readme.assets/Pasted image 20240731193147.png",
-    "GPU/认识GPU.md",
-    "README.md",
-    "GPU",
-=======
-    "readme.assets/Pasted image 20240509222228.png",
-    "readme.assets/Pasted image 20240509221859.png",
-    "readme.assets/Pasted image 20240509221744.png",
-    "readme.assets/Pasted image 20240509221736.png",
-    "readme.assets/Pasted image 20240509221734.png",
-    "readme.assets/Pasted image 20240509221609.png",
-    "readme.assets/Pasted image 20240509221521.png",
-    "readme.assets/Pasted image 20240509221508.png",
-    "readme.assets/Pasted image 20240509221420.png",
-    "readme.assets/Pasted image 20240509221416.png",
-    "readme.assets/Pasted image 20240509221110.png",
->>>>>>> df6a191083e6162b5bef6d732e856398aa87125d
-    "MCU/readme.md",
-    "MCU",
-    "GPU/认识GPU.md",
-    "GPU",
-    "README.md",
-    "readme.assets"
+    "readme.assets/Pasted image 20241105114242.png",
+    "readme.assets/Pasted image 20241105114236.png",
+    "readme.assets/Pasted image 20241105114229.png",
+    "readme.assets/Pasted image 20241105114209.png",
+    "readme.assets/Pasted image 20241105114141.png",
+    "readme.assets/Pasted image 20241105114052.png",
+    "ADC芯片/未命名.md",
+    "MEMS/无线数字地震检波器.md",
+    "CPU/readme.md",
+    "ADC芯片/readme.md"
   ]
 }

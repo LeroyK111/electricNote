@@ -3,7 +3,9 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showRibbon": true,
+  "promptDelete": false
 }
