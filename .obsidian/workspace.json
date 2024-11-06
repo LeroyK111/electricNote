@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADC芯片/readme.md",
+                "file": "CarSystem/汽车电压平台.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "汽车电压平台"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADC芯片/readme.md"
+                "file": "CarSystem/汽车电压平台.md"
               },
               "icon": "lucide-list",
-              "title": "readme 的大纲"
+              "title": "汽车电压平台 的大纲"
             }
           }
         ],
@@ -163,15 +163,20 @@
   },
   "active": "46c962d868d650e7",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20241106120046.png",
+    "readme.assets/Pasted image 20241106120037.png",
+    "readme.assets/Pasted image 20241106120022.png",
+    "readme.assets/Pasted image 20241106120011.png",
+    "readme.assets/Pasted image 20241106115936.png",
+    "readme.assets/Pasted image 20241106115920.png",
+    "readme.assets/Pasted image 20241106115907.png",
+    "readme.assets/Pasted image 20241106115821.png",
+    "readme.assets/Pasted image 20241106115807.png",
+    "ADC芯片/readme.md",
     "readme.assets/Pasted image 20241105114242.png",
     "readme.assets/Pasted image 20241105114236.png",
-    "readme.assets/Pasted image 20241105114229.png",
-    "readme.assets/Pasted image 20241105114209.png",
-    "readme.assets/Pasted image 20241105114141.png",
-    "readme.assets/Pasted image 20241105114052.png",
     "ADC芯片/未命名.md",
     "MEMS/无线数字地震检波器.md",
-    "CPU/readme.md",
-    "ADC芯片/readme.md"
+    "CPU/readme.md"
   ]
 }
