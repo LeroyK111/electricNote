@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/LDO低压差线稳压器.md",
+                "file": "常见芯片/二极管钳位电路：原理与应用详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LDO低压差线稳压器"
+              "title": "二极管钳位电路：原理与应用详解"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/LDO低压差线稳压器.md"
+                "file": "常见芯片/二极管钳位电路：原理与应用详解.md"
               },
               "icon": "lucide-list",
-              "title": "LDO低压差线稳压器 的大纲"
+              "title": "二极管钳位电路：原理与应用详解 的大纲"
             }
           }
         ],
@@ -163,21 +163,21 @@
   },
   "active": "46c962d868d650e7",
   "lastOpenFiles": [
-    "readme.assets/Pasted image 20241107164826.png",
-    "readme.assets/Pasted image 20241107164759.png",
-    "readme.assets/Pasted image 20241107164320.png",
-    "readme.assets/Pasted image 20241107164301.png",
-    "readme.assets/Pasted image 20241107164245.png",
-    "readme.assets/Pasted image 20241107164225.png",
-    "CarSystem/汽车电压平台.md",
+    "readme.assets/Pasted image 20241108111921.png",
+    "readme.assets/Pasted image 20241108111903.png",
+    "readme.assets/Pasted image 20241108111810.png",
+    "readme.assets/Pasted image 20241108111757.png",
+    "readme.assets/Pasted image 20241108111745.png",
+    "readme.assets/Pasted image 20241108111735.png",
+    "readme.assets/Pasted image 20241108111708.png",
+    "readme.assets/Pasted image 20241108111648.png",
+    "readme.assets/Pasted image 20241108111631.png",
+    "readme.assets/Pasted image 20241108111622.png",
+    "readme.assets/Pasted image 20241108111612.png",
     "常见芯片/LDO低压差线稳压器.md",
+    "CarSystem/汽车电压平台.md",
     "LDO/未命名.md",
     "常见芯片",
-    "readme.assets/Pasted image 20241106120046.png",
-    "readme.assets/Pasted image 20241106120037.png",
-    "readme.assets/Pasted image 20241106120022.png",
-    "readme.assets/Pasted image 20241106120011.png",
-    "readme.assets/Pasted image 20241106115936.png",
     "ADC芯片/readme.md",
     "ADC芯片/未命名.md",
     "MEMS/无线数字地震检波器.md",
