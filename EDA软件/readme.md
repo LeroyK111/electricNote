@@ -2,6 +2,24 @@
 
 ![](../readme.assets/Pasted%20image%2020241110201652.png)
 
+![](../readme.assets/Pasted%20image%2020241110202302.png)
+![](../readme.assets/Pasted%20image%2020241110202709.png)
+![](../readme.assets/Pasted%20image%2020241110204037.png)
+![](../readme.assets/Pasted%20image%2020241110204519.png)
+
+## 杠杆
+![](../readme.assets/Pasted%20image%2020241110205843.png)
+
+## 学习计划?
+
+### 电器安装
+[Electrical电气工程](Electrical电气工程.md)
+### PCB设计
+[AltiumDesigner电路板](AltiumDesigner电路板.md)
+### IC芯片设计?
+
+待定... 这里需要的知识太多. 积累和兴趣都不可缺少.
+
 | 阶段            | 学习目标                   | 推荐工具                                            | 学习顺序                                           |
 | ------------- | ---------------------- | ----------------------------------------------- | ---------------------------------------------- |
 | 规格定义          | 了解芯片的基本要求和设计目标         | 文档工具 (Word, Excel, Google Docs)                 | 编写芯片规格文档                                       |
@@ -14,5 +32,13 @@
 | 功耗和信号完整性分析    | 分析功耗和信号完整性             | Synopsys PrimePower, ANSYS RedHawk              | 使用 PrimePower 进行功耗分析，使用 RedHawk 进行信号完整性分析      |
 | 最终仿真          | 布线后对设计进行仿真             | Synopsys VCS, Mentor Questa                     | 使用 VCS 或 Questa 进行门级仿真                         |
 | GDSII 导出和制造支持 | 生成 GDSII 文件并进行最终验证     | Cadence Virtuoso, Mentor Calibre                | 使用 Virtuoso 生成 GDSII，使用 Calibre 进行最终验证         |
+![](../readme.assets/Pasted%20image%2020241110211333.png)
+
+#### 岗位
+![](../readme.assets/Pasted%20image%2020241110223610.png)
+![](../readme.assets/Pasted%20image%2020241110223806.png)
+![](../readme.assets/Pasted%20image%2020241110223924.png)
+
+
 
 
