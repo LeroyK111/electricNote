@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCU/NPU64bit.md",
+                "file": "MCU/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPU64bit"
+              "title": "readme"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU/NPU64bit.md"
+                "file": "MCU/readme.md"
               },
               "icon": "lucide-list",
-              "title": "NPU64bit 的大纲"
+              "title": "readme 的大纲"
             }
           }
         ],
@@ -163,20 +163,20 @@
   },
   "active": "52561b2618d8d07d",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20241115022314.png",
+    "readme.assets/Pasted image 20241115022232.png",
+    "readme.assets/Pasted image 20241115022212.png",
+    "readme.assets/Pasted image 20241115022201.png",
+    "readme.assets/Pasted image 20241115022146.png",
+    "readme.assets/Pasted image 20241115022139.png",
+    "readme.assets/Pasted image 20241115022129.png",
+    "readme.assets/Pasted image 20241115022115.png",
+    "MCU/NPU64bit.md",
     "readme.assets/Pasted image 20241114112359.png",
     "readme.assets/Pasted image 20241114112348.png",
     "readme.assets/Pasted image 20241114112334.png",
-    "readme.assets/Pasted image 20241114112323.png",
-    "readme.assets/Pasted image 20241114112300.png",
-    "readme.assets/Pasted image 20241114112037.png",
-    "readme.assets/Pasted image 20241114112020.png",
     "MCU/readme.md",
-    "MCU/NPU64bit.md",
     "常见芯片/5v to 3.3v.md",
-    "readme.assets/Pasted image 20241112203916.png",
-    "readme.assets/Pasted image 20241112203905.png",
-    "readme.assets/Pasted image 20241112203855.png",
-    "readme.assets/Pasted image 20241112203837.png",
     "EDA软件/readme.md",
     "EDA软件/Electrical电气工程.md",
     "EDA软件/MentorCalibre.md",
