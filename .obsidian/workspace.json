@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/5v to 3.3v.md",
+                "file": "常见芯片/恒流源电路模块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5v to 3.3v"
+              "title": "恒流源电路模块"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/5v to 3.3v.md"
+                "file": "常见芯片/恒流源电路模块.md"
               },
               "icon": "lucide-list",
-              "title": "5v to 3.3v 的大纲"
+              "title": "恒流源电路模块 的大纲"
             }
           }
         ],
@@ -163,19 +163,20 @@
   },
   "active": "52561b2618d8d07d",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20241119171442.png",
+    "readme.assets/Pasted image 20241119171418.png",
+    "readme.assets/Pasted image 20241119171358.png",
+    "readme.assets/Pasted image 20241119171334.png",
+    "readme.assets/Pasted image 20241119171252.png",
+    "常见芯片/5v to 3.3v.md",
+    "常见芯片/恒流源电路模块.md",
     "readme.assets/Pasted image 20241112203916.png",
     "readme.assets/Pasted image 20241112203905.png",
     "readme.assets/Pasted image 20241112203855.png",
     "readme.assets/Pasted image 20241112203837.png",
     "readme.assets/Pasted image 20241112203830.png",
     "readme.assets/Pasted image 20241112203820.png",
-    "readme.assets/Pasted image 20241112203808.png",
-    "readme.assets/Pasted image 20241112203744.png",
-    "readme.assets/Pasted image 20241112203734.png",
-    "readme.assets/Pasted image 20241112203609.png",
-    "readme.assets/Pasted image 20241112203523.png",
     "EDA软件/readme.md",
-    "常见芯片/5v to 3.3v.md",
     "EDA软件/Electrical电气工程.md",
     "EDA软件/MentorCalibre.md",
     "EDA软件/AltiumDesigner电路板.md",
