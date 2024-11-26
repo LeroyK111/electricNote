@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChipInstructionSet/RISC-V.md",
+                "file": "常见芯片/深入浅出讲解多谐振荡器电路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RISC-V"
+              "title": "深入浅出讲解多谐振荡器电路"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChipInstructionSet/RISC-V.md"
+                "file": "常见芯片/深入浅出讲解多谐振荡器电路.md"
               },
               "icon": "lucide-list",
-              "title": "RISC-V 的大纲"
+              "title": "深入浅出讲解多谐振荡器电路 的大纲"
             }
           }
         ],
@@ -163,8 +163,18 @@
   },
   "active": "88b6d4b3de386dea",
   "lastOpenFiles": [
-    "readme.assets/Pasted image 20241123203804.png",
+    "readme.assets/Pasted image 20241126223005.png",
+    "readme.assets/640 2.gif",
+    "readme.assets/Pasted image 20241126221634.png",
+    "readme.assets/Pasted image 20241126221248.png",
+    "readme.assets/Pasted image 20241126221233.png",
+    "readme.assets/Pasted image 20241126221051.png",
+    "readme.assets/640 1.gif",
+    "readme.assets/Pasted image 20241126221029.png",
+    "readme.assets/Pasted image 20241126221025.png",
     "ChipInstructionSet/RISC-V.md",
+    "常见芯片/深入浅出讲解多谐振荡器电路.md",
+    "readme.assets/Pasted image 20241123203804.png",
     "README.md",
     "ChipInstructionSet",
     "Chip/RISC-V.md",
@@ -176,15 +186,6 @@
     "CarSystem/汽车电压平台.md",
     "常见芯片/恒流源电路模块.md",
     "readme.assets/Pasted image 20241115113849.png",
-    "readme.assets/Pasted image 20241115113840.png",
-    "readme.assets/Pasted image 20241115113833.png",
-    "readme.assets/Pasted image 20241115113747.png",
-    "readme.assets/Pasted image 20241115113739.png",
-    "readme.assets/Pasted image 20241115113727.png",
-    "readme.assets/Pasted image 20241115113657.png",
-    "readme.assets/Pasted image 20241115113642.png",
-    "readme.assets/Pasted image 20241115113633.png",
-    "readme.assets/Pasted image 20241115113629.png",
     "MCU/NPU64bit.md",
     "InterestingQuestion/电感啸叫.md",
     "InterestingQuestion",
@@ -201,7 +202,6 @@
     "EDA软件/ModelSim.md",
     "EDA软件/Vivado.md",
     "EDA软件/CadenceVirtuoso.md",
-    "常见芯片/二极管钳位电路：原理与应用详解.md",
     "EDA软件",
     "BOM图纸",
     "常见芯片"
