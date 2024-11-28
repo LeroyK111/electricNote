@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/带软开启功能的MOS管电源开关电路.md",
+                "file": "Power/技术大神手把手教你DIY实验电源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "带软开启功能的MOS管电源开关电路"
+              "title": "技术大神手把手教你DIY实验电源"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/带软开启功能的MOS管电源开关电路.md"
+                "file": "Power/技术大神手把手教你DIY实验电源.md"
               },
               "icon": "lucide-list",
-              "title": "带软开启功能的MOS管电源开关电路 的大纲"
+              "title": "技术大神手把手教你DIY实验电源 的大纲"
             }
           }
         ],
@@ -163,20 +163,28 @@
   },
   "active": "3d3eec9eb6a3730c",
   "lastOpenFiles": [
-    "readme.assets/Pasted image 20241128225906.png",
-    "readme.assets/Pasted image 20241128224912.png",
-    "常见芯片/二极管钳位电路：原理与应用详解.md",
+    "readme.assets/Pasted image 20241128231713.png",
+    "readme.assets/Pasted image 20241128231707.png",
+    "readme.assets/Pasted image 20241128231643.png",
+    "readme.assets/Pasted image 20241128231631.png",
+    "readme.assets/Pasted image 20241128231618.png",
+    "readme.assets/Pasted image 20241128231606.png",
+    "readme.assets/Pasted image 20241128231556.png",
+    "readme.assets/Pasted image 20241128231537.png",
+    "readme.assets/Pasted image 20241128231525.png",
+    "readme.assets/Pasted image 20241128231514.png",
+    "readme.assets/Pasted image 20241128231502.png",
+    "InterestingQuestion/电感啸叫.md",
+    "Power/技术大神手把手教你DIY实验电源.md",
+    "Power",
+    "CarSystem/汽车电压平台.md",
+    "ADC芯片/ADC是如何影响EVM指标的.md",
+    "ADC芯片/readme.md",
+    "功率半导体/氮化镓功率分立器件.md",
+    "功率半导体",
     "常见芯片/带软开启功能的MOS管电源开关电路.md",
+    "常见芯片/二极管钳位电路：原理与应用详解.md",
     "常见芯片/深入浅出讲解多谐振荡器电路.md",
-    "readme.assets/Pasted image 20241126223005.png",
-    "readme.assets/640 2.gif",
-    "readme.assets/Pasted image 20241126221634.png",
-    "readme.assets/Pasted image 20241126221248.png",
-    "readme.assets/Pasted image 20241126221233.png",
-    "readme.assets/Pasted image 20241126221051.png",
-    "readme.assets/640 1.gif",
-    "readme.assets/Pasted image 20241126221029.png",
-    "readme.assets/Pasted image 20241126221025.png",
     "ChipInstructionSet/RISC-V.md",
     "README.md",
     "ChipInstructionSet",
@@ -184,12 +192,9 @@
     "Chip",
     "MEMS/无线数字地震检波器.md",
     "GPU/认识GPU.md",
-    "ADC芯片/readme.md",
     "BOM图纸/点位图纸获取.md",
-    "CarSystem/汽车电压平台.md",
     "常见芯片/恒流源电路模块.md",
     "MCU/NPU64bit.md",
-    "InterestingQuestion/电感啸叫.md",
     "InterestingQuestion",
     "常见芯片/5v to 3.3v.md",
     "EDA软件/readme.md",
@@ -199,9 +204,6 @@
     "EDA软件/SynopsysDesignCompiler.md",
     "EDA软件/SynopsysVCS.md",
     "EDA软件/SynopsysPrimePower.md",
-    "EDA软件/CadenceInnovus.md",
-    "EDA软件/SynopsysPrimeTime.md",
-    "EDA软件/ModelSim.md",
     "EDA软件",
     "BOM图纸",
     "常见芯片"
