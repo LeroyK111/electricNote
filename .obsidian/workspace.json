@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20255750e229dad0",
+        "id": "ac7a3c69f67c34cc",
         "type": "tabs",
         "children": [
           {
-            "id": "e7b3981b398ff07e",
+            "id": "634ae213cf101c85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/测试工具/CMW500 WLAN测试指引.md",
+                "file": "CarSystem/汽车电压平台.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CMW500 WLAN测试指引"
+              "title": "汽车电压平台"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/测试工具/CMW500 WLAN测试指引.md"
+                "file": "CarSystem/汽车电压平台.md"
               },
               "icon": "lucide-list",
-              "title": "CMW500 WLAN测试指引 的大纲"
+              "title": "汽车电压平台 的大纲"
             }
           }
         ],
@@ -161,53 +161,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e7b3981b398ff07e",
+  "active": "634ae213cf101c85",
   "lastOpenFiles": [
+    "PLC/PLC通信详解.md",
+    "MEMS/无线数字地震检波器.md",
+    "InterestingQuestion/电感啸叫.md",
+    "README.md",
+    "CarSystem/汽车电压平台.md",
+    "EDA软件/MentorGraphics电路板.md",
+    "EDA软件/CadenceAllegro电路板.md",
+    "EDA软件/readme.md",
+    "EDA软件/AltiumDesigner电路板.md",
+    "EDA软件/ModelSim.md",
+    "EDA软件/CadenceInnovus.md",
+    "EDA软件/CadenceVirtuoso.md",
+    "EDA软件/Electrical电气工程.md",
+    "电气/继电器.md",
+    "readme.assets/Pasted image 20241203224003.png",
+    "Power/变频器深度解析：15 个关键知识点助你成为高手.md",
+    "射频方案/射频基础—时域和频域的区别.md",
+    "PLC",
+    "readme.assets/Pasted image 20241203221225.png",
+    "readme.assets/Pasted image 20241203220705.png",
+    "射频方案/射频收发设计和systemvue仿真课程.md",
+    "电气/接头接法.md",
     "电气/电气图纸绘制原则与技巧详解.md",
     "射频方案/测试工具/CMW500 WLAN测试指引.md",
     "射频方案/测试工具",
-    "射频方案/未命名.md",
     "电气/电气二次回路图的阅读与理解.md",
     "readme.assets/Pasted image 20241201224812.png",
     "电气/电气接线图.md",
     "FPGA/readme.md",
-    "README.md",
     "FPGA",
     "MCU/readme.md",
     "MCU/NPU64bit.md",
     "ADC芯片/ADC是如何影响EVM指标的.md",
-    "射频方案/射频基础知识及入门.md",
-    "射频方案/射频收发设计和systemvue仿真课程.md",
-    "射频方案/TDD和FDD射频方案的设计区别.md",
     "readme.assets/Pasted image 20241201125030.png",
-    "存储设备/嵌入式非易失性存储器.md",
     "射频方案",
     "readme.assets/Pasted image 20241201123325.png",
-    "EDA软件/Electrical电气工程.md",
     "电气",
-    "Power/技术大神手把手教你DIY实验电源.md",
     "readme.assets/Pasted image 20241128231713.png",
     "readme.assets/Pasted image 20241128231707.png",
     "readme.assets/Pasted image 20241128231643.png",
     "readme.assets/Pasted image 20241128231631.png",
-    "readme.assets/Pasted image 20241128231618.png",
-    "readme.assets/Pasted image 20241128231606.png",
-    "readme.assets/Pasted image 20241128231556.png",
-    "InterestingQuestion/电感啸叫.md",
     "Power",
-    "CarSystem/汽车电压平台.md",
-    "ADC芯片/readme.md",
-    "功率半导体/氮化镓功率分立器件.md",
     "功率半导体",
-    "常见芯片/带软开启功能的MOS管电源开关电路.md",
-    "常见芯片/二极管钳位电路：原理与应用详解.md",
-    "常见芯片/深入浅出讲解多谐振荡器电路.md",
-    "ChipInstructionSet/RISC-V.md",
     "ChipInstructionSet",
-    "Chip/RISC-V.md",
     "Chip",
-    "MEMS/无线数字地震检波器.md",
-    "InterestingQuestion",
-    "EDA软件"
+    "InterestingQuestion"
   ]
 }
