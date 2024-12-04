@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CarSystem/汽车电压平台.md",
+                "file": "MEMS/无线数字地震检波器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汽车电压平台"
+              "title": "无线数字地震检波器"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CarSystem/汽车电压平台.md"
+                "file": "MEMS/无线数字地震检波器.md"
               },
               "icon": "lucide-list",
-              "title": "汽车电压平台 的大纲"
+              "title": "无线数字地震检波器 的大纲"
             }
           }
         ],
@@ -163,11 +163,13 @@
   },
   "active": "634ae213cf101c85",
   "lastOpenFiles": [
+    "CarSystem/汽车电压平台.md",
+    "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
+    "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
     "PLC/PLC通信详解.md",
     "MEMS/无线数字地震检波器.md",
     "InterestingQuestion/电感啸叫.md",
     "README.md",
-    "CarSystem/汽车电压平台.md",
     "EDA软件/MentorGraphics电路板.md",
     "EDA软件/CadenceAllegro电路板.md",
     "EDA软件/readme.md",
@@ -195,7 +197,6 @@
     "FPGA",
     "MCU/readme.md",
     "MCU/NPU64bit.md",
-    "ADC芯片/ADC是如何影响EVM指标的.md",
     "readme.assets/Pasted image 20241201125030.png",
     "射频方案",
     "readme.assets/Pasted image 20241201123325.png",
@@ -206,8 +207,6 @@
     "readme.assets/Pasted image 20241128231631.png",
     "Power",
     "功率半导体",
-    "ChipInstructionSet",
-    "Chip",
-    "InterestingQuestion"
+    "ChipInstructionSet"
   ]
 }
