@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b069677d8d2fe607",
+        "id": "d81669195c5c0f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed6f43c68f2e8e9",
+            "id": "ea13e46d723453f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power/隔离电源和非隔离电源.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "隔离电源和非隔离电源"
+              "title": "新标签页"
             }
           }
         ]
@@ -137,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Power/隔离电源和非隔离电源.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "隔离电源和非隔离电源 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -161,8 +155,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ed6f43c68f2e8e9",
+  "active": "ea13e46d723453f6",
   "lastOpenFiles": [
+    "常见芯片/带软开启功能的MOS管电源开关电路.md",
+    "常见芯片/电池电压侦测电路设计.md",
+    "常见芯片/二极管钳位电路：原理与应用详解.md",
+    "电气/变压器.md",
+    "readme.assets/Pasted image 20241207210638.png",
+    "射频方案/什么是阻抗匹配.md",
+    "readme.assets/Pasted image 20241207175242.png",
+    "射频方案/什么是负载牵引.md",
+    "readme.assets/Pasted image 20241207174716.png",
+    "ADC芯片/ADC是如何影响EVM指标的.md",
+    "电气/电气控制原理图.md",
     "Power/隔离电源和非隔离电源.md",
     "Power/变频器深度解析：15 个关键知识点助你成为高手.md",
     "MEMS/无线数字地震检波器.md",
@@ -187,25 +192,14 @@
     "readme.assets/Pasted image 20241203221225.png",
     "readme.assets/Pasted image 20241203220705.png",
     "射频方案/射频收发设计和systemvue仿真课程.md",
-    "电气/接头接法.md",
-    "电气/电气图纸绘制原则与技巧详解.md",
-    "射频方案/测试工具/CMW500 WLAN测试指引.md",
     "射频方案/测试工具",
-    "电气/电气二次回路图的阅读与理解.md",
     "readme.assets/Pasted image 20241201224812.png",
-    "电气/电气接线图.md",
-    "FPGA/readme.md",
     "FPGA",
-    "MCU/readme.md",
-    "MCU/NPU64bit.md",
     "readme.assets/Pasted image 20241201125030.png",
     "射频方案",
     "readme.assets/Pasted image 20241201123325.png",
     "电气",
     "readme.assets/Pasted image 20241128231713.png",
-    "readme.assets/Pasted image 20241128231707.png",
-    "readme.assets/Pasted image 20241128231643.png",
-    "readme.assets/Pasted image 20241128231631.png",
     "Power",
     "功率半导体",
     "ChipInstructionSet"
