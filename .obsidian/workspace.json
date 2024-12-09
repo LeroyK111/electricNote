@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d81669195c5c0f4f",
+        "id": "f3e7f64621e17d35",
         "type": "tabs",
         "children": [
           {
-            "id": "ea13e46d723453f6",
+            "id": "0af6beeb4dc5aa1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,12 +155,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea13e46d723453f6",
+  "active": "0af6beeb4dc5aa1e",
   "lastOpenFiles": [
+    "射频方案/GNSS 天线.md",
+    "射频方案/射频收发设计和systemvue仿真课程.md",
+    "电气/判断电线电缆断点的新方法.md",
+    "电气/电工学.md",
+    "电气/变压器.md",
+    "常见芯片/恒流源电路模块.md",
     "常见芯片/带软开启功能的MOS管电源开关电路.md",
     "常见芯片/电池电压侦测电路设计.md",
     "常见芯片/二极管钳位电路：原理与应用详解.md",
-    "电气/变压器.md",
     "readme.assets/Pasted image 20241207210638.png",
     "射频方案/什么是阻抗匹配.md",
     "readme.assets/Pasted image 20241207175242.png",
@@ -183,15 +188,10 @@
     "EDA软件/AltiumDesigner电路板.md",
     "EDA软件/ModelSim.md",
     "EDA软件/CadenceInnovus.md",
-    "EDA软件/CadenceVirtuoso.md",
-    "EDA软件/Electrical电气工程.md",
-    "电气/继电器.md",
     "readme.assets/Pasted image 20241203224003.png",
-    "射频方案/射频基础—时域和频域的区别.md",
     "PLC",
     "readme.assets/Pasted image 20241203221225.png",
     "readme.assets/Pasted image 20241203220705.png",
-    "射频方案/射频收发设计和systemvue仿真课程.md",
     "射频方案/测试工具",
     "readme.assets/Pasted image 20241201224812.png",
     "FPGA",
