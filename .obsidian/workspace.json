@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "05ae6c239bd1b204",
+        "id": "990fbe4c5f894afb",
         "type": "tabs",
         "children": [
           {
-            "id": "763b209fa1de68f1",
+            "id": "e5ecf3c34d614cae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "常见芯片/基本电子元器件.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "基本电子元器件"
+              "title": "新标签页"
             }
           }
         ]
@@ -137,11 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "常见芯片/基本电子元器件.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "基本电子元器件 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -161,8 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "763b209fa1de68f1",
+  "active": "e5ecf3c34d614cae",
   "lastOpenFiles": [
+    "电气/三段式过电流保护机制详解.md",
+    "电气/电气设备故障诊断的八步策略.md",
+    "电气/家庭线路.md",
+    "readme.assets/Pasted image 20241221204534.png",
+    "readme.assets/Pasted image 20241221204336.png",
+    "readme.assets/Pasted image 20241221204220.png",
     "常见芯片/基本电子元器件.md",
     "readme.assets/Pasted image 20241212213939.png",
     "电气/电气接线图.md",
@@ -192,18 +192,13 @@
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
     "PLC/PLC通信详解.md",
-    "InterestingQuestion/电感啸叫.md",
-    "README.md",
     "readme.assets/Pasted image 20241203224003.png",
     "PLC",
     "readme.assets/Pasted image 20241203221225.png",
     "readme.assets/Pasted image 20241203220705.png",
     "射频方案/测试工具",
-    "readme.assets/Pasted image 20241201224812.png",
     "FPGA",
-    "readme.assets/Pasted image 20241201125030.png",
     "射频方案",
-    "readme.assets/Pasted image 20241201123325.png",
     "电气",
     "Power",
     "功率半导体",
