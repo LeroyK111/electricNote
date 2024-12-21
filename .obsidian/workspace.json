@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "990fbe4c5f894afb",
+        "id": "ce6592c99aa1c33e",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ecf3c34d614cae",
+            "id": "7cf63791a6cb1921",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,19 +156,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5ecf3c34d614cae",
+  "active": "7cf63791a6cb1921",
   "lastOpenFiles": [
+    "射频方案/非线性.md",
+    "readme.assets/Pasted image 20241221211814.png",
+    "readme.assets/Pasted image 20241221211757.png",
+    "readme.assets/Pasted image 20241221211745.png",
+    "readme.assets/Pasted image 20241221211736.png",
+    "readme.assets/Pasted image 20241221211725.png",
+    "readme.assets/Pasted image 20241221211716.png",
+    "readme.assets/Pasted image 20241221211703.png",
+    "PLC/简易PLC编程.md",
+    "readme.assets/Pasted image 20241221211617.png",
+    "readme.assets/Pasted image 20241221211607.png",
+    "readme.assets/Pasted image 20241221211552.png",
+    "电气/四种图.md",
+    "电气/电机选型.md",
+    "电气/电工学.md",
+    "常见芯片/555定时器芯片内部电路分析.md",
+    "电气/13个常用公式.md",
+    "README.md",
+    "PLC/PLC对模拟量如何转换.md",
     "电气/三段式过电流保护机制详解.md",
     "电气/电气设备故障诊断的八步策略.md",
     "电气/家庭线路.md",
-    "readme.assets/Pasted image 20241221204534.png",
-    "readme.assets/Pasted image 20241221204336.png",
-    "readme.assets/Pasted image 20241221204220.png",
     "常见芯片/基本电子元器件.md",
-    "readme.assets/Pasted image 20241212213939.png",
     "电气/电气接线图.md",
     "电气/继电器.md",
-    "电气/电工学.md",
     "射频方案/射频噪音.md",
     "PLC/三大变量.md",
     "射频方案/GNSS 天线.md",
@@ -178,24 +193,9 @@
     "常见芯片/带软开启功能的MOS管电源开关电路.md",
     "常见芯片/电池电压侦测电路设计.md",
     "常见芯片/二极管钳位电路：原理与应用详解.md",
-    "readme.assets/Pasted image 20241207210638.png",
-    "射频方案/什么是阻抗匹配.md",
-    "readme.assets/Pasted image 20241207175242.png",
-    "射频方案/什么是负载牵引.md",
-    "readme.assets/Pasted image 20241207174716.png",
-    "ADC芯片/ADC是如何影响EVM指标的.md",
-    "电气/电气控制原理图.md",
-    "Power/隔离电源和非隔离电源.md",
-    "Power/变频器深度解析：15 个关键知识点助你成为高手.md",
-    "MEMS/无线数字地震检波器.md",
-    "CarSystem/汽车电压平台.md",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
-    "PLC/PLC通信详解.md",
-    "readme.assets/Pasted image 20241203224003.png",
     "PLC",
-    "readme.assets/Pasted image 20241203221225.png",
-    "readme.assets/Pasted image 20241203220705.png",
     "射频方案/测试工具",
     "FPGA",
     "射频方案",
