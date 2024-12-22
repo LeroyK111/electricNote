@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc69507ac9a5733",
+        "id": "564e4b6597ef7e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "2a897246512b6c2a",
+            "id": "3e2e60dc5c7f12c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电气/13个常用公式.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "13个常用公式"
+              "title": "新标签页"
             }
           }
         ]
@@ -162,8 +158,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a897246512b6c2a",
+  "active": "3e2e60dc5c7f12c7",
   "lastOpenFiles": [
+    "电气/送电核相测相量(电压核相).pdf",
+    "电气/电工手册.pdf",
+    "射频方案/噪声功率比怎么测试.md",
+    "readme.assets/Pasted image 20241222103531.png",
+    "readme.assets/Pasted image 20241222103502.png",
+    "readme.assets/Pasted image 20241222103410.png",
+    "readme.assets/Pasted image 20241222103356.png",
+    "电气/电气工程师.md",
+    "readme.assets/Pasted image 20241222103008.png",
+    "电气/13个常用公式.md",
     "PCB/PCB分层堆叠控制EMI辐射.md",
     "readme.assets/Pasted image 20241222084109.png",
     "射频方案/锁相环常见问题.md",
@@ -172,11 +178,6 @@
     "readme.assets/Pasted image 20241222083930.png",
     "readme.assets/Pasted image 20241222083922.png",
     "readme.assets/Pasted image 20241222083914.png",
-    "readme.assets/Pasted image 20241222083907.png",
-    "readme.assets/Pasted image 20241222083858.png",
-    "readme.assets/Pasted image 20241222083848.png",
-    "readme.assets/Pasted image 20241222083839.png",
-    "readme.assets/Pasted image 20241222083830.png",
     "InterestingQuestion/BUCK：电感计算公式推导.md",
     "InterestingQuestion/电感啸叫.md",
     "常见芯片/5V过压保护电路的原理分析.md",
@@ -193,21 +194,17 @@
     "电气/电机选型.md",
     "电气/电工学.md",
     "常见芯片/555定时器芯片内部电路分析.md",
-    "电气/13个常用公式.md",
     "README.md",
     "PLC/PLC对模拟量如何转换.md",
     "电气/三段式过电流保护机制详解.md",
     "电气/电气设备故障诊断的八步策略.md",
     "电气/家庭线路.md",
-    "常见芯片/基本电子元器件.md",
-    "电气/电气接线图.md",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
     "PLC",
     "射频方案/测试工具",
     "FPGA",
     "射频方案",
-    "电气",
-    "Power"
+    "电气"
   ]
 }
