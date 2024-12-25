@@ -11,10 +11,14 @@
             "id": "3e2e60dc5c7f12c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "常见芯片/自举电阻和电容的选取.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "自举电阻和电容的选取"
             }
           }
         ]
@@ -160,24 +164,27 @@
   },
   "active": "3e2e60dc5c7f12c7",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20241225092040.png",
+    "readme.assets/Pasted image 20241225092033.png",
+    "readme.assets/Pasted image 20241225092024.png",
+    "readme.assets/Pasted image 20241225092005.png",
+    "readme.assets/Pasted image 20241225092000.png",
+    "readme.assets/Pasted image 20241225091954.png",
+    "readme.assets/Pasted image 20241225091947.png",
+    "readme.assets/Pasted image 20241225091938.png",
+    "readme.assets/Pasted image 20241225091919.png",
+    "芯片封装/简单聊聊WB劈刀选型及参数调试经验——2nd Bond相关劈刀参数介绍.md",
+    "常见芯片/自举电阻和电容的选取.md",
+    "readme.assets/Pasted image 20241225091827.png",
+    "readme.assets/Pasted image 20241225091820.png",
     "电气/送电核相测相量(电压核相).pdf",
     "电气/电工手册.pdf",
     "射频方案/噪声功率比怎么测试.md",
-    "readme.assets/Pasted image 20241222103531.png",
-    "readme.assets/Pasted image 20241222103502.png",
-    "readme.assets/Pasted image 20241222103410.png",
-    "readme.assets/Pasted image 20241222103356.png",
     "电气/电气工程师.md",
-    "readme.assets/Pasted image 20241222103008.png",
     "电气/13个常用公式.md",
     "PCB/PCB分层堆叠控制EMI辐射.md",
-    "readme.assets/Pasted image 20241222084109.png",
     "射频方案/锁相环常见问题.md",
     "PCB",
-    "readme.assets/Pasted image 20241222083937.png",
-    "readme.assets/Pasted image 20241222083930.png",
-    "readme.assets/Pasted image 20241222083922.png",
-    "readme.assets/Pasted image 20241222083914.png",
     "InterestingQuestion/BUCK：电感计算公式推导.md",
     "InterestingQuestion/电感啸叫.md",
     "常见芯片/5V过压保护电路的原理分析.md",
@@ -197,14 +204,11 @@
     "README.md",
     "PLC/PLC对模拟量如何转换.md",
     "电气/三段式过电流保护机制详解.md",
-    "电气/电气设备故障诊断的八步策略.md",
-    "电气/家庭线路.md",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
     "PLC",
     "射频方案/测试工具",
     "FPGA",
-    "射频方案",
-    "电气"
+    "射频方案"
   ]
 }
