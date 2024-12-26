@@ -5,10 +5,12 @@
     "children": [
       {
         "id": "b9d721cc8c764f81",
+        "id": "564e4b6597ef7e1d",
         "type": "tabs",
         "children": [
           {
             "id": "91a12b7bf2f235c3",
+            "id": "3e2e60dc5c7f12c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,8 +19,14 @@
                 "mode": "source",
                 "source": false
               },
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/SINAD下的灵敏度是什么意思.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "电气二次回路的标号时的注意事项"
+              "title": "SINAD下的灵敏度是什么意思"
             }
           }
         ]
@@ -138,10 +146,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电气/电气二次回路的标号时的注意事项.md"
+                "file": "电气/13个常用公式.md"
               },
               "icon": "lucide-list",
-              "title": "电气二次回路的标号时的注意事项 的大纲"
+              "title": "13个常用公式 的电气二次回路的标号时的注意事项 的大纲"
             }
           }
         ],
@@ -149,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,53 +170,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5b24748232a5187",
+  "active": "3e2e60dc5c7f12c7",
   "lastOpenFiles": [
-    "电气/电气二次回路图的阅读与理解.md",
-    "电气/电气二次回路的标号时的注意事项.md",
-    "readme.assets/Pasted image 20241226225657.png",
-    "常见芯片/基本电子元器件.md",
-    "常见芯片/深入浅出讲解多谐振荡器电路.md",
-    "常见芯片/恒流源电路模块.md",
-    "readme.assets/Pasted image 20241212213939.png",
-    "电气/电气接线图.md",
-    "电气/继电器.md",
+    "readme.assets/Pasted image 20241225213926.png",
+    "readme.assets/Pasted image 20241225213851.png",
+    "readme.assets/Pasted image 20241225213840.png",
+    "射频方案/射频基础知识及入门.md",
+    "射频方案/SINAD下的灵敏度是什么意思.md",
+    "常见芯片/自举电阻和电容的选取.md",
+    "readme.assets/Pasted image 20241225092040.png",
+    "readme.assets/Pasted image 20241225092033.png",
+    "readme.assets/Pasted image 20241225092024.png",
+    "readme.assets/Pasted image 20241225092005.png",
+    "readme.assets/Pasted image 20241225092000.png",
+    "readme.assets/Pasted image 20241225091954.png",
+    "readme.assets/Pasted image 20241225091947.png",
+    "readme.assets/Pasted image 20241225091938.png",
+    "芯片封装/简单聊聊WB劈刀选型及参数调试经验——2nd Bond相关劈刀参数介绍.md",
+    "电气/送电核相测相量(电压核相).pdf",
+    "电气/电工手册.pdf",
+    "射频方案/噪声功率比怎么测试.md",
+    "电气/电气工程师.md",
+    "电气/13个常用公式.md",
+    "PCB/PCB分层堆叠控制EMI辐射.md",
+    "射频方案/锁相环常见问题.md",
+    "PCB",
+    "InterestingQuestion/BUCK：电感计算公式推导.md",
+    "InterestingQuestion/电感啸叫.md",
+    "常见芯片/5V过压保护电路的原理分析.md",
+    "PLC/三大流派.md",
+    "芯片封装/Wire Bonding.md",
+    "芯片封装/Dear Shear推力标准.md",
+    "CarSystem/800v平台.md",
+    "CarSystem/12v_48v汽车系统.md",
+    "电气/变频器主电路中整流电路的方法.md",
+    "芯片封装",
+    "射频方案/非线性.md",
+    "PLC/简易PLC编程.md",
+    "电气/四种图.md",
+    "电气/电机选型.md",
     "电气/电工学.md",
-    "射频方案/射频噪音.md",
-    "PLC/三大变量.md",
-    "射频方案/GNSS 天线.md",
-    "射频方案/射频收发设计和systemvue仿真课程.md",
-    "电气/判断电线电缆断点的新方法.md",
-    "电气/变压器.md",
-    "常见芯片/带软开启功能的MOS管电源开关电路.md",
-    "常见芯片/电池电压侦测电路设计.md",
-    "常见芯片/二极管钳位电路：原理与应用详解.md",
-    "readme.assets/Pasted image 20241207210638.png",
-    "射频方案/什么是阻抗匹配.md",
-    "readme.assets/Pasted image 20241207175242.png",
-    "射频方案/什么是负载牵引.md",
-    "readme.assets/Pasted image 20241207174716.png",
-    "ADC芯片/ADC是如何影响EVM指标的.md",
-    "电气/电气控制原理图.md",
-    "Power/隔离电源和非隔离电源.md",
-    "Power/变频器深度解析：15 个关键知识点助你成为高手.md",
-    "MEMS/无线数字地震检波器.md",
-    "CarSystem/汽车电压平台.md",
+    "常见芯片/555定时器芯片内部电路分析.md",
+    "README.md",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
-    "PLC/PLC通信详解.md",
-    "readme.assets/Pasted image 20241203224003.png",
     "PLC",
-    "readme.assets/Pasted image 20241203221225.png",
-    "readme.assets/Pasted image 20241203220705.png",
     "射频方案/测试工具",
-    "readme.assets/Pasted image 20241201224812.png",
     "FPGA",
-    "readme.assets/Pasted image 20241201125030.png",
-    "射频方案",
-    "电气",
-    "Power",
-    "功率半导体",
-    "ChipInstructionSet"
+    "射频方案"
   ]
 }
