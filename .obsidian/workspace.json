@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9d721cc8c764f81",
         "id": "564e4b6597ef7e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "91a12b7bf2f235c3",
             "id": "3e2e60dc5c7f12c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电气/电气二次回路的标号时的注意事项.md",
-                "mode": "source",
-                "source": false
-              },
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/SINAD下的灵敏度是什么意思.md",
+                "file": "射频方案/电磁波基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SINAD下的灵敏度是什么意思"
+              "title": "电磁波基础"
             }
           }
         ]
@@ -172,20 +164,21 @@
   },
   "active": "3e2e60dc5c7f12c7",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20241228120107.png",
+    "readme.assets/Pasted image 20241228120052.png",
+    "readme.assets/Pasted image 20241228120034.png",
+    "射频方案/SINAD下的灵敏度是什么意思.md",
+    "射频方案/电磁波基础.md",
     "readme.assets/Pasted image 20241225213926.png",
     "readme.assets/Pasted image 20241225213851.png",
     "readme.assets/Pasted image 20241225213840.png",
     "射频方案/射频基础知识及入门.md",
-    "射频方案/SINAD下的灵敏度是什么意思.md",
     "常见芯片/自举电阻和电容的选取.md",
     "readme.assets/Pasted image 20241225092040.png",
     "readme.assets/Pasted image 20241225092033.png",
     "readme.assets/Pasted image 20241225092024.png",
     "readme.assets/Pasted image 20241225092005.png",
     "readme.assets/Pasted image 20241225092000.png",
-    "readme.assets/Pasted image 20241225091954.png",
-    "readme.assets/Pasted image 20241225091947.png",
-    "readme.assets/Pasted image 20241225091938.png",
     "芯片封装/简单聊聊WB劈刀选型及参数调试经验——2nd Bond相关劈刀参数介绍.md",
     "电气/送电核相测相量(电压核相).pdf",
     "电气/电工手册.pdf",
@@ -211,7 +204,6 @@
     "电气/电机选型.md",
     "电气/电工学.md",
     "常见芯片/555定时器芯片内部电路分析.md",
-    "README.md",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
     "PLC",
