@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "564e4b6597ef7e1d",
+        "id": "b170da8d4c75950a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e2e60dc5c7f12c7",
+            "id": "7e0b2504de3ad53d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/电磁波基础.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "电磁波基础"
+              "title": "新标签页"
             }
           }
         ]
@@ -162,13 +158,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e2e60dc5c7f12c7",
+  "active": "7e0b2504de3ad53d",
   "lastOpenFiles": [
+    "PLC/西门子九个案例.pdf",
+    "PLC/三大变量.md",
+    "PLC/简易PLC编程.md",
+    "PLC/九个经典的西门子PLC编程.md",
+    "芯片封装/CPK.md",
+    "常见芯片/电压掉电侦测.md",
+    "PCB/电路分析/电路分析1.md",
+    "readme.assets/Pasted image 20241228220615.png",
+    "readme.assets/微信图片_20241228095141.png",
+    "射频方案/电磁波基础.md",
+    "PCB/未命名.md",
+    "PCB/电路分析",
+    "未命名",
     "readme.assets/Pasted image 20241228120107.png",
     "readme.assets/Pasted image 20241228120052.png",
     "readme.assets/Pasted image 20241228120034.png",
     "射频方案/SINAD下的灵敏度是什么意思.md",
-    "射频方案/电磁波基础.md",
     "readme.assets/Pasted image 20241225213926.png",
     "readme.assets/Pasted image 20241225213851.png",
     "readme.assets/Pasted image 20241225213840.png",
@@ -176,9 +184,6 @@
     "常见芯片/自举电阻和电容的选取.md",
     "readme.assets/Pasted image 20241225092040.png",
     "readme.assets/Pasted image 20241225092033.png",
-    "readme.assets/Pasted image 20241225092024.png",
-    "readme.assets/Pasted image 20241225092005.png",
-    "readme.assets/Pasted image 20241225092000.png",
     "芯片封装/简单聊聊WB劈刀选型及参数调试经验——2nd Bond相关劈刀参数介绍.md",
     "电气/送电核相测相量(电压核相).pdf",
     "电气/电工手册.pdf",
@@ -196,19 +201,9 @@
     "芯片封装/Dear Shear推力标准.md",
     "CarSystem/800v平台.md",
     "CarSystem/12v_48v汽车系统.md",
-    "电气/变频器主电路中整流电路的方法.md",
     "芯片封装",
-    "射频方案/非线性.md",
-    "PLC/简易PLC编程.md",
-    "电气/四种图.md",
-    "电气/电机选型.md",
-    "电气/电工学.md",
-    "常见芯片/555定时器芯片内部电路分析.md",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作",
     "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作",
-    "PLC",
-    "射频方案/测试工具",
-    "FPGA",
-    "射频方案"
+    "PLC"
   ]
 }
