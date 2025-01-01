@@ -1,3 +1,16 @@
+![](../readme.assets/Pasted%20image%2020250101021016.png)
+![](../readme.assets/Pasted%20image%2020250101021028.png)
+设备公差我们都知道，是±2.5um，最难以评估的就是这个挤铝，与铝层厚度、材质以及Fab厂工艺关系巨大，因此只能根据相似产品的调试经验去评估。如果对要调试的产品挤铝没概念，也可以在范围内选一个常用的尺寸去做尝试，毕竟这玩意试错成本很低，大不了换一个。如果之前完全没接触过WB，也可直接参考下图SPT给出的参考公式：
+![](../readme.assets/Pasted%20image%2020250101021056.png)
+
+
+
+
+
+
+
+
+
 T：Tip Diameter
 
 [Wire Bonding封装Design Rule——BPP定义](https://mp.weixin.qq.com/s?__biz=MzkxNDcxMjMyNA==&mid=2247484432&idx=1&sn=5b9a97ab7c1da72602013cc9971196ac&scene=21#wechat_redirect)一文中也有过相关介绍，Tip的尺寸对鱼尾长度起着主要决定作用，Tip越大，鱼尾同键合面的结合力越强，也越容易调试，因此通常Tip在满足BPP限制的情况下越大越好。
