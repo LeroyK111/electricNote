@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "95efeaa65b4e240f",
+        "id": "1836ef15d356cbcd",
         "type": "tabs",
         "children": [
           {
-            "id": "89b93e943dfd9f66",
+            "id": "5b303e20e215445e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/什么是调制.md",
+                "file": "射频方案/锁相环常见问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "什么是调制"
+              "title": "锁相环常见问题"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/什么是调制.md"
+                "file": "射频方案/锁相环常见问题.md"
               },
               "icon": "lucide-list",
-              "title": "什么是调制 的大纲"
+              "title": "锁相环常见问题 的大纲"
             }
           }
         ],
@@ -161,12 +161,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "89b93e943dfd9f66",
+  "active": "5b303e20e215445e",
   "lastOpenFiles": [
+    "芯片封装/封装设计.md",
+    "射频方案/锁相环常见问题.md",
+    "射频方案/ADI电调谐滤波器的革命性创新.md",
+    "PCB/电路分析/反相输入放大器的坑.md",
+    "readme.assets/Pasted image 20250108220055.png",
+    "射频方案/什么是调制.md",
     "readme.assets/Pasted image 20250107224535.png",
     "readme.assets/Pasted image 20250107224531.png",
     "射频方案/smith圆图的奥秘.md",
-    "射频方案/什么是调制.md",
     "射频方案/峰均比：你了解多少？.md",
     "射频方案/电磁波基础.md",
     "射频方案/非线性.md",
@@ -188,8 +193,6 @@
     "芯片封装/IMC.md",
     "芯片封装/Dear Shear推力标准.md",
     "芯片封装/封装设计小技巧——如何将IC设计工程师提供的芯片pad location文件快速转换为CAD图形.md",
-    "readme.assets/Pasted image 20250101123854.png",
-    "readme.assets/Pasted image 20250101123838.png",
     "芯片封装/键合金丝的寄生电感估算.md",
     "PLC/西门子九个案例.pdf",
     "PLC/三大变量.md",
@@ -197,11 +200,8 @@
     "PLC/九个经典的西门子PLC编程.md",
     "芯片封装/CPK.md",
     "常见芯片/电压掉电侦测.md",
-    "PCB/电路分析/电路分析1.md",
-    "PCB/未命名.md",
     "PCB/电路分析",
     "未命名",
-    "射频方案/SINAD下的灵敏度是什么意思.md",
     "电气/送电核相测相量(电压核相).pdf",
     "电气/电工手册.pdf",
     "PCB",
