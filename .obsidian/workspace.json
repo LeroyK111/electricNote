@@ -11,10 +11,14 @@
             "id": "30ade8cc083dbc7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/功率放大器的阻抗计算.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "功率放大器的阻抗计算"
             }
           }
         ]
@@ -158,6 +162,7 @@
   },
   "active": "30ade8cc083dbc7e",
   "lastOpenFiles": [
+    "射频方案/功率放大器的阻抗计算.md",
     "电气/常用的电气图形符号.md",
     "射频方案/什么是码间串扰.md",
     "射频方案/什么是负载牵引.md",
@@ -194,7 +199,6 @@
     "芯片封装/键合金丝的寄生电感估算.md",
     "PLC/西门子九个案例.pdf",
     "PLC/三大变量.md",
-    "PLC/简易PLC编程.md",
     "PCB/电路分析",
     "未命名",
     "电气/送电核相测相量(电压核相).pdf",
