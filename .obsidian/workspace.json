@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "73540567b87bc6d6",
+        "id": "db3ca39fcc33be3e",
         "type": "tabs",
         "children": [
           {
-            "id": "fdd741c20bf30de4",
+            "id": "8bb759955790867d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/耗散功率.md",
+                "file": "常见芯片/4—20mA的电流来传输模拟量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "耗散功率"
+              "title": "4—20mA的电流来传输模拟量"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/耗散功率.md"
+                "file": "常见芯片/4—20mA的电流来传输模拟量.md"
               },
               "icon": "lucide-list",
-              "title": "耗散功率 的大纲"
+              "title": "4—20mA的电流来传输模拟量 的大纲"
             }
           }
         ],
@@ -161,10 +161,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fdd741c20bf30de4",
+  "active": "8bb759955790867d",
   "lastOpenFiles": [
-    "电气/继电器.md",
+    "电气/什么是远动、保信、录波接线？.md",
+    "常见芯片/4—20mA的电流来传输模拟量.md",
+    "readme.assets/Pasted image 20250112221104.png",
+    "readme.assets/Pasted image 20250112221000.png",
+    "射频方案/未命名.md",
+    "射频方案/峰均比：你了解多少？.md",
     "射频方案/耗散功率.md",
+    "电气/继电器.md",
     "射频方案/功率放大器的阻抗计算.md",
     "电气/常用的电气图形符号.md",
     "射频方案/什么是码间串扰.md",
@@ -178,7 +184,6 @@
     "readme.assets/Pasted image 20250107224535.png",
     "readme.assets/Pasted image 20250107224531.png",
     "射频方案/smith圆图的奥秘.md",
-    "射频方案/峰均比：你了解多少？.md",
     "射频方案/电磁波基础.md",
     "射频方案/非线性.md",
     "射频方案/我们常说频率合成器常被比作电子系统的.md",
@@ -193,12 +198,7 @@
     "readme.assets/Pasted image 20250101124214.png",
     "readme.assets/Pasted image 20250101124202.png",
     "readme.assets/Pasted image 20250101124039.png",
-    "readme.assets/Pasted image 20250101124033.png",
-    "readme.assets/Pasted image 20250101124021.png",
     "芯片封装/Wire Bonding.md",
-    "芯片封装/IMC.md",
-    "芯片封装/Dear Shear推力标准.md",
-    "芯片封装/封装设计小技巧——如何将IC设计工程师提供的芯片pad location文件快速转换为CAD图形.md",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
     "未命名",
