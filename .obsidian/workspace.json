@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1dfd756b91e8dfd",
+        "id": "89a1f52bcb470f64",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6910ced96b81ed",
+            "id": "d78911742039f032",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,8 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d6910ced96b81ed",
+  "active": "d78911742039f032",
   "lastOpenFiles": [
+    "射频方案/相控阵天线技术：原理、应用与发展.md",
+    "readme.assets/Pasted image 20250114232135.png",
     "芯片封装/封装遇到异常时应如何正确抽样验证？.md",
     "射频方案/四分之一波长微带线原理及应用.md",
     "射频方案/什么是阻抗匹配.md",
@@ -188,11 +190,8 @@
     "readme.assets/Pasted image 20250101124540.png",
     "芯片封装/键合金丝安全电流分析.md",
     "芯片封装/简单聊聊WB劈刀选型及参数调试经验——劈刀参数介绍.md",
-    "芯片封装/集成电路封装设备介绍——减薄与划片工序.md",
-    "芯片封装/IC设计公司封装岗位介绍——封装设计工程师需具备哪些能力.md",
     "readme.assets/Pasted image 20250101124214.png",
     "readme.assets/Pasted image 20250101124202.png",
-    "readme.assets/Pasted image 20250101124039.png",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
     "未命名",
