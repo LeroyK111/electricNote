@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/雷达.md",
+                "file": "射频方案/振荡器中的抖动和相位噪声.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雷达"
+              "title": "振荡器中的抖动和相位噪声"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/雷达.md"
+                "file": "射频方案/振荡器中的抖动和相位噪声.md"
               },
               "icon": "lucide-list",
-              "title": "雷达 的大纲"
+              "title": "振荡器中的抖动和相位噪声 的大纲"
             }
           }
         ],
@@ -163,10 +163,13 @@
   },
   "active": "e04f05500f85367f",
   "lastOpenFiles": [
+    "射频方案/什么是调制.md",
+    "射频方案/振荡器中的抖动和相位噪声.md",
+    "射频方案/射频收发设计和systemvue仿真课程.md",
+    "射频方案/雷达.md",
     "readme.assets/Pasted image 20250119205913.png",
     "readme.assets/Pasted image 20250119205817.png",
     "readme.assets/Pasted image 20250119205747.png",
-    "射频方案/雷达.md",
     "电气/工具品牌.md",
     "射频方案/功率放大器的类型与理论.pdf",
     "射频方案/功率放大器的类型与理论.md",
@@ -193,13 +196,10 @@
     "射频方案/什么是阻抗匹配.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
     "电气/什么是远动、保信、录波接线？.md",
-    "readme.assets/Pasted image 20250112221104.png",
     "射频方案/峰均比：你了解多少？.md",
     "射频方案/耗散功率.md",
     "电气/继电器.md",
     "射频方案/功率放大器的阻抗计算.md",
-    "电气/常用的电气图形符号.md",
-    "射频方案/什么是码间串扰.md",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
     "未命名",
