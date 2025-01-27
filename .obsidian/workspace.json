@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2bd6648763bb625",
+        "id": "946a30a5a0f069d3",
         "type": "tabs",
         "children": [
           {
-            "id": "a5a3ba0cd2da9344",
+            "id": "3a375b954fcec299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电气/控制回路断线原理及故障分析.md",
+                "file": "射频方案/单兵波形的介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "控制回路断线原理及故障分析"
+              "title": "单兵波形的介绍"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电气/控制回路断线原理及故障分析.md"
+                "file": "射频方案/单兵波形的介绍.md"
               },
               "icon": "lucide-list",
-              "title": "控制回路断线原理及故障分析 的大纲"
+              "title": "单兵波形的介绍 的大纲"
             }
           }
         ],
@@ -161,8 +161,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5a3ba0cd2da9344",
+  "active": "3a375b954fcec299",
   "lastOpenFiles": [
+    "射频方案/单兵波形的介绍.md",
     "电气/控制回路断线原理及故障分析.md",
     "MCU/如何启动并测试RK3562J处理器的MCU？.md",
     "射频方案/射频设计关注什么.md",
@@ -200,7 +201,6 @@
     "电气/老电工经验.md",
     "PLC/2025年主流PLC.md",
     "射频方案/自动增益控制（AGC）在接收机中的应用和设计要点.md",
-    "PCB/用3个IO口控制6个LED灯.md",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
     "未命名",
