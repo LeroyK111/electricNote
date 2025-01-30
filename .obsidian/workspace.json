@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/单兵波形的介绍.md",
+                "file": "PCB/射频微波PCB设计基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单兵波形的介绍"
+              "title": "射频微波PCB设计基础"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/单兵波形的介绍.md"
+                "file": "PCB/射频微波PCB设计基础.md"
               },
               "icon": "lucide-list",
-              "title": "单兵波形的介绍 的大纲"
+              "title": "射频微波PCB设计基础 的大纲"
             }
           }
         ],
@@ -164,6 +164,7 @@
   "active": "3a375b954fcec299",
   "lastOpenFiles": [
     "射频方案/单兵波形的介绍.md",
+    "PCB/射频微波PCB设计基础.md",
     "电气/控制回路断线原理及故障分析.md",
     "MCU/如何启动并测试RK3562J处理器的MCU？.md",
     "射频方案/射频设计关注什么.md",
@@ -200,7 +201,6 @@
     "PLC/15个PLC必备的基础知识！.md",
     "电气/老电工经验.md",
     "PLC/2025年主流PLC.md",
-    "射频方案/自动增益控制（AGC）在接收机中的应用和设计要点.md",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
     "未命名",
