@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba0ee96fd544fcc",
+        "id": "926be47f26b4e254",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3541751ad05c93",
+            "id": "c0f14bce268e8adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握.md",
+                "file": "射频方案/宽带匹配&窄带匹配.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握"
+              "title": "宽带匹配&窄带匹配"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "四遥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握.md",
+                "file": "射频方案/宽带匹配&窄带匹配.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握 的大纲"
+              "title": "宽带匹配&窄带匹配 的大纲"
             }
           }
         ],
@@ -165,8 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a3541751ad05c93",
+  "active": "c0f14bce268e8adb",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20250205214108.png",
+    "射频方案/宽带匹配&窄带匹配.md",
+    "电气/一文搞懂什么是“四遥”.md",
+    "电气/什么是远动、保信、录波接线？.md",
+    "射频方案/噪声功率比怎么测试.md",
     "常见芯片/外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握.md",
     "readme.assets/Pasted image 20250202190616.png",
     "readme.assets/640 3.gif",
@@ -200,10 +205,6 @@
     "射频方案/功率放大器的类型与理论.pdf",
     "射频方案/功率放大器的类型与理论.md",
     "readme.assets/Pasted image 20250117234817.png",
-    "README.md",
-    "未命名.md",
-    "常见芯片/高频压控振荡器（VCO）设计.md",
-    "常见芯片/恒流源电路模块.md",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
     "未命名",
