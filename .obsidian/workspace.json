@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PLC/PLC编程入门从简单到复杂的程序积累.md",
+                "file": "射频方案/什么是码间串扰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PLC编程入门从简单到复杂的程序积累"
+              "title": "什么是码间串扰"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLC/PLC编程入门从简单到复杂的程序积累.md",
+                "file": "射频方案/什么是码间串扰.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PLC编程入门从简单到复杂的程序积累 的大纲"
+              "title": "什么是码间串扰 的大纲"
             }
           }
         ],
@@ -167,8 +167,9 @@
   },
   "active": "21abf235988a689c",
   "lastOpenFiles": [
-    "readme.assets/Pasted image 20250206222723.png",
     "PLC/PLC编程入门从简单到复杂的程序积累.md",
+    "射频方案/未命名.md",
+    "readme.assets/Pasted image 20250206222723.png",
     "PCB/射频电路的PCB设计原则.md",
     "PCB/射频微波PCB设计基础.md",
     "射频方案/四分之一波长微带线原理及应用.md",
