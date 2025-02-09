@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDA软件/电子系统通信协议动态图解.md",
+                "file": "ChipInstructionSet/电子系统通信协议动态图解.md",
                 "mode": "source",
                 "source": false
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PCB",
+                "query": "risc-v",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDA软件/电子系统通信协议动态图解.md",
+                "file": "ChipInstructionSet/电子系统通信协议动态图解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,6 +167,9 @@
   },
   "active": "7c43d8f5eb240b34",
   "lastOpenFiles": [
+    "ChipInstructionSet/RISC-V.md",
+    "ChipInstructionSet/电子系统通信协议动态图解.md",
+    "EDA软件/电子系统通信协议动态图解.md",
     "readme.assets/640 20.gif",
     "readme.assets/640 19.gif",
     "readme.assets/640 18.gif",
@@ -177,8 +180,6 @@
     "readme.assets/640 13.gif",
     "readme.assets/640 12.gif",
     "readme.assets/640 11.gif",
-    "readme.assets/640 10.gif",
-    "EDA软件/电子系统通信协议动态图解.md",
     "射频方案/什么是码间串扰.md",
     "PLC/PLC编程入门从简单到复杂的程序积累.md",
     "射频方案/未命名.md",
@@ -203,7 +204,6 @@
     "射频方案/FM 解调：技术、斜率检测器以及优缺点.md",
     "电气/电工基础知识.md",
     "射频方案/阻抗匹配的类型.md",
-    "电气/接地电阻为何常被限制在4Ω以内？.md",
     "射频方案/功率放大器的类型与理论.pdf",
     "PLC/西门子九个案例.pdf",
     "PCB/电路分析",
