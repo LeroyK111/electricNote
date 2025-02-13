@@ -1,10 +1,7 @@
 {
-  "attachmentFolderPath": "readme.assets",
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "showInlineTitle": false,
-  "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "promptDelete": false
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "readme.assets",
+  "showInlineTitle": false
 }

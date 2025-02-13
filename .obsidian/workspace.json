@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9f8730b17ef49698",
+    "id": "f8e2e6b16dd88a6b",
     "type": "split",
     "children": [
       {
-        "id": "016ca82f5db51495",
+        "id": "75e2c71e3a3617ed",
         "type": "tabs",
         "children": [
           {
-            "id": "27480d1ecce48f69",
+            "id": "1d2ee4838d83161a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/通信中的IQ不平衡.md",
+                "file": "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通信中的IQ不平衡"
+              "title": "拆解晶圆厂里的FFU控制面板与变频器控制面板"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e793ab31405097da",
+    "id": "3bcca64213eb2bf7",
     "type": "split",
     "children": [
       {
-        "id": "e4be546e07dd75b0",
+        "id": "feec2e4a604c4c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b24748232a5187",
+            "id": "f3bd0b87fd539ec8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "d211c9bc20d0d9a9",
+            "id": "d56f3a09b80099ad",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "risc-v",
+                "query": "四遥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f4389d02e38f8041",
+            "id": "0c897d6d8cd27cb1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,35 @@
     "width": 200
   },
   "right": {
-    "id": "a226f315a9433315",
+    "id": "a5c16a0334a145a3",
     "type": "split",
     "children": [
       {
-        "id": "0f1f213f70009ce6",
+        "id": "354f9bb7b3e5f14a",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6a416cf47e4725",
+            "id": "eacc3b72278cd020",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "拆解晶圆厂里的FFU控制面板与变频器控制面板 的大纲"
+            }
+          },
+          {
+            "id": "79a172b261cbb7bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/readme.md",
+                "file": "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +119,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "拆解晶圆厂里的FFU控制面板与变频器控制面板 的反向链接列表"
             }
           },
           {
-            "id": "3bc48958e7f7b84a",
+            "id": "852ee2eb949d3e98",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,35 +136,21 @@
             }
           },
           {
-            "id": "b54830dd0407942e",
+            "id": "823a27ad75e23a07",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "2cba5223363b6169",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "射频方案/通信中的IQ不平衡.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "通信中的IQ不平衡 的大纲"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,53 +166,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "27480d1ecce48f69",
+  "active": "1d2ee4838d83161a",
   "lastOpenFiles": [
+    "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
     "芯片封装/Wire Bonding封装设计中最短线长该如何评估？.md",
-    "射频方案/通信中的IQ不平衡.md",
-    "芯片封装/简单聊聊WB劈刀选型及参数调试经验——劈刀参数介绍.md",
-    "常见芯片/高频压控振荡器（VCO）设计.md",
-    "常见芯片/外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握.md",
-    "常见芯片/基本电子元器件.md",
-    "Power/驱动电路设计（一）—— 驱动器的功能综述.md",
-    "芯片封装/量产异常.md",
-    "readme.assets/Pasted image 20250210120954.png",
-    "ChipInstructionSet/电子系统通信协议动态图解.md",
-    "ChipInstructionSet/RISC-V.md",
-    "EDA软件/电子系统通信协议动态图解.md",
-    "readme.assets/640 20.gif",
-    "readme.assets/640 19.gif",
-    "readme.assets/640 18.gif",
-    "readme.assets/640 17.gif",
-    "readme.assets/640 16.gif",
-    "readme.assets/640 15.gif",
-    "readme.assets/640 14.gif",
-    "readme.assets/640 13.gif",
-    "readme.assets/640 12.gif",
-    "射频方案/什么是码间串扰.md",
-    "PLC/PLC编程入门从简单到复杂的程序积累.md",
-    "PCB/射频电路的PCB设计原则.md",
-    "PCB/射频微波PCB设计基础.md",
-    "射频方案/四分之一波长微带线原理及应用.md",
-    "射频方案/宽带匹配&窄带匹配.md",
+    "芯片封装/未命名.md",
+    "芯片封装/Wire Bonding封装设计时，如何评估劈刀是否会撞击芯片？.md",
+    "射频方案/什么是正交调制？什么是正交信号.md",
+    "readme.assets/Pasted image 20250213122449.png",
+    "射频方案/I2C基础（一）--概述与数据传输.md",
+    "readme.assets/Pasted image 20250213121053.png",
     "电气/一文搞懂什么是“四遥”.md",
-    "电气/什么是远动、保信、录波接线？.md",
-    "射频方案/噪声功率比怎么测试.md",
-    "射频方案/射频基础—杂散是什么？.md",
-    "射频方案/什么是频谱泄露？.md",
-    "射频方案/单兵波形的介绍.md",
-    "电气/控制回路断线原理及故障分析.md",
-    "MCU/如何启动并测试RK3562J处理器的MCU？.md",
-    "射频方案/射频设计关注什么.md",
-    "射频方案/未命名",
-    "射频方案/功率放大器的类型与理论.pdf",
-    "PLC/西门子九个案例.pdf",
-    "PCB/电路分析",
-    "未命名",
-    "电气/送电核相测相量(电压核相).pdf",
-    "电气/电工手册.pdf",
-    "PCB",
-    "芯片封装",
-    "Tutorials/01-Altium Designer 24 四层声源跟踪小车设计课程资料（会员专享）/00-课程介绍及准备工作/00-课程介绍及准备工作"
+    "射频方案/射频基础知识及入门.md",
+    "射频方案/什么是负载牵引.md"
   ]
 }
