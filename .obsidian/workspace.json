@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75e2c71e3a3617ed",
+        "id": "98a23d67db64ca3e",
         "type": "tabs",
         "children": [
           {
-            "id": "1d2ee4838d83161a",
+            "id": "0613f4ce297b1bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
+                "file": "射频方案/射频基础—时域和频域的区别.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拆解晶圆厂里的FFU控制面板与变频器控制面板"
+              "title": "射频基础—时域和频域的区别"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
+                "file": "射频方案/射频基础—时域和频域的区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拆解晶圆厂里的FFU控制面板与变频器控制面板 的大纲"
+              "title": "射频基础—时域和频域的区别 的大纲"
             }
           },
           {
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "拆解晶圆厂里的FFU控制面板与变频器控制面板 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -166,18 +165,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d2ee4838d83161a",
+  "active": "0613f4ce297b1bec",
   "lastOpenFiles": [
+    "射频方案/宽带匹配&窄带匹配.md",
+    "射频方案/未命名.md",
+    "射频方案/射频基础知识及入门.md",
+    "Power/电源芯片的静态电流来自哪里？.md",
+    "射频方案/什么是电磁兼容，电磁兼容策略有哪些.md",
+    "射频方案/什么是频谱泄露？.md",
+    "射频方案/什么是正交调制？什么是正交信号.md",
+    "射频方案/I2C基础（一）--概述与数据传输.md",
+    "芯片封装/THB(双85)、BHAST、UHAST.md",
+    "芯片封装/如何根据芯片面积快速评估QFN封装尺寸(Wire Bonding 工艺)？.md",
+    "PCB/示波器使用.md",
+    "PLC/2025年主流PLC.md",
+    "PLC/简易PLC编程.md",
+    "PLC/三大流派.md",
+    "PLC/三大变量.md",
+    "PLC/西门子九个案例.pdf",
+    "PLC/PLC编程入门从简单到复杂的程序积累.md",
+    "PLC/PLC对模拟量如何转换.md",
+    "PLC/PLC通信详解.md",
     "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
     "芯片封装/Wire Bonding封装设计中最短线长该如何评估？.md",
-    "芯片封装/未命名.md",
     "芯片封装/Wire Bonding封装设计时，如何评估劈刀是否会撞击芯片？.md",
-    "射频方案/什么是正交调制？什么是正交信号.md",
     "readme.assets/Pasted image 20250213122449.png",
-    "射频方案/I2C基础（一）--概述与数据传输.md",
     "readme.assets/Pasted image 20250213121053.png",
     "电气/一文搞懂什么是“四遥”.md",
-    "射频方案/射频基础知识及入门.md",
     "射频方案/什么是负载牵引.md"
   ]
 }
