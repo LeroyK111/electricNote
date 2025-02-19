@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98a23d67db64ca3e",
+        "id": "b2b6438a14446b18",
         "type": "tabs",
         "children": [
           {
-            "id": "0613f4ce297b1bec",
+            "id": "1dd9de4faa7a7c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/射频基础—时域和频域的区别.md",
+                "file": "射频方案/过采样增加 ADC 的动态范围.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "射频基础—时域和频域的区别"
+              "title": "过采样增加 ADC 的动态范围"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/射频基础—时域和频域的区别.md",
+                "file": "射频方案/过采样增加 ADC 的动态范围.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "射频基础—时域和频域的区别 的大纲"
+              "title": "过采样增加 ADC 的动态范围 的大纲"
             }
           },
           {
@@ -165,10 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0613f4ce297b1bec",
+  "active": "1dd9de4faa7a7c26",
   "lastOpenFiles": [
+    "射频方案/过采样增加 ADC 的动态范围.md",
+    "ChipInstructionSet/开源处理器 Rocket的异构SoC原型验证设计.md",
+    "readme.assets/Pasted image 20250219181509.png",
+    "ChipInstructionSet/RISC-V.md",
+    "射频方案/射频基础—时域和频域的区别.md",
     "射频方案/宽带匹配&窄带匹配.md",
-    "射频方案/未命名.md",
     "射频方案/射频基础知识及入门.md",
     "Power/电源芯片的静态电流来自哪里？.md",
     "射频方案/什么是电磁兼容，电磁兼容策略有哪些.md",
@@ -191,7 +195,6 @@
     "芯片封装/Wire Bonding封装设计时，如何评估劈刀是否会撞击芯片？.md",
     "readme.assets/Pasted image 20250213122449.png",
     "readme.assets/Pasted image 20250213121053.png",
-    "电气/一文搞懂什么是“四遥”.md",
-    "射频方案/什么是负载牵引.md"
+    "电气/一文搞懂什么是“四遥”.md"
   ]
 }
