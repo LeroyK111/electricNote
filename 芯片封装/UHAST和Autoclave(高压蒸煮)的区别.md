@@ -19,7 +19,3 @@
 最后我也查了下AEC_Q100，其实文件中也并没有定义非要做Autoclave实验，而是Autoclave、UHAST、THB(无偏压)三选一，并且推荐做UHAST而非Autoclave；对于高温高压敏感器件，推荐双85
 ![](https://raw.githubusercontent.com/LeroyK111/pictureBed/master/20250220132751.png)
 
-
-
-
-
