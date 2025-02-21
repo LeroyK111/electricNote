@@ -165,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36c9644ed4a91365",
+  "active": "f3bd0b87fd539ec8",
   "lastOpenFiles": [
+    "射频方案/射频常用公式.pdf",
     "芯片封装/UHAST和Autoclave(高压蒸煮)的区别.md",
     "射频方案/射频面试/2025射频面试.md",
     "射频方案/射频面试",
@@ -195,7 +196,6 @@
     "PLC/PLC通信详解.md",
     "常见芯片/拆解晶圆厂里的FFU控制面板与变频器控制面板.md",
     "芯片封装/Wire Bonding封装设计中最短线长该如何评估？.md",
-    "芯片封装/Wire Bonding封装设计时，如何评估劈刀是否会撞击芯片？.md",
     "readme.assets/Pasted image 20250213122449.png",
     "readme.assets/Pasted image 20250213121053.png"
   ]
