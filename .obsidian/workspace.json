@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0588cfb3384557aa",
+        "id": "4012591dd1dfe05a",
         "type": "tabs",
         "children": [
           {
-            "id": "36c9644ed4a91365",
+            "id": "0e66616a31638f25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/射频面试/2025射频面试.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025射频面试"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/射频面试/2025射频面试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025射频面试 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,11 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f3bd0b87fd539ec8",
+  "active": "0e66616a31638f25",
   "lastOpenFiles": [
     "射频方案/射频常用公式.pdf",
-    "芯片封装/UHAST和Autoclave(高压蒸煮)的区别.md",
     "射频方案/射频面试/2025射频面试.md",
+    "芯片封装/UHAST和Autoclave(高压蒸煮)的区别.md",
     "射频方案/射频面试",
     "射频方案/过采样增加 ADC 的动态范围.md",
     "ChipInstructionSet/开源处理器 Rocket的异构SoC原型验证设计.md",
