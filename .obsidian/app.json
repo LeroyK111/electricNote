@@ -3,5 +3,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "readme.assets",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
