@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "470c85344f09f01e",
+        "id": "22e06bc20b5f63fc",
         "type": "tabs",
         "children": [
           {
-            "id": "ab75fea061a7857b",
+            "id": "5d834392fd801c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChipInstructionSet/RISC-V指令集及其微控制处理器的开发应用.md",
+                "file": "射频方案/为什么要采用IQ调制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RISC-V指令集及其微控制处理器的开发应用"
+              "title": "为什么要采用IQ调制"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChipInstructionSet/RISC-V指令集及其微控制处理器的开发应用.md",
+                "file": "射频方案/为什么要采用IQ调制.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RISC-V指令集及其微控制处理器的开发应用 的大纲"
+              "title": "为什么要采用IQ调制 的大纲"
             }
           },
           {
@@ -165,8 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ab75fea061a7857b",
+  "active": "5d834392fd801c75",
   "lastOpenFiles": [
+    "射频方案/为什么要采用IQ调制.md",
+    "芯片封装/我们常说的Low-K指的是什么？为什么要用Low-k材料？它对封装有什么影响？.md",
     "ChipInstructionSet/RISC-V指令集及其微控制处理器的开发应用.md",
     "ChipInstructionSet/RISC-V.md",
     "ChipInstructionSet/电子系统通信协议动态图解.md",
@@ -199,9 +201,7 @@
     "readme.assets/Pasted image 20250225094935.png",
     "EDA软件/电子系统通信协议动态图解.md",
     "芯片封装/如何理解UHAST实验中铝焊盘的电化学腐蚀？.md",
-    "芯片封装/UHAST和Autoclave(高压蒸煮)的区别.md",
     "射频方案/射频常用公式.pdf",
-    "射频方案/射频面试/2025射频面试.md",
     "射频方案/射频面试",
     "readme.assets/Pasted image 20250219181509.png",
     "PLC/西门子九个案例.pdf",
