@@ -11,10 +11,14 @@
             "id": "1d6ad52f670473c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -160,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f3bd0b87fd539ec8",
+  "active": "1d6ad52f670473c0",
   "lastOpenFiles": [
     "射频方案/测试工具/射频实用计算小工具分享.md",
     "芯片封装/为什么键合金丝会产生寄生电感？自感、互感又是怎么理解？.md",
