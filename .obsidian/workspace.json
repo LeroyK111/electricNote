@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c735d95055307ab5",
+        "id": "c244bd2ab7b97f3d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6ad52f670473c0",
+            "id": "7e88cedf3a4e1ae5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "risc",
+                "query": "常见",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,12 +160,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d6ad52f670473c0",
+  "active": "7e88cedf3a4e1ae5",
   "lastOpenFiles": [
+    "射频方案/射频进阶—如何选择合适的中频.md",
+    "PCB/常见器件——模拟开关（2） 性能参数.md",
+    "PCB/模拟开关.md",
+    "PCB/射频电路的PCB设计原则.md",
+    "射频方案/通信中的IQ不平衡.md",
+    "射频方案/射频器件的偏置电路.md",
+    "射频方案/镜像抑制的计算和仿真.md",
+    "射频方案/接收机与ADC的矛盾拉扯.md",
+    "常见芯片/5v to 3.3v.md",
+    "Power/驱动电路设计（一）—— 驱动器的功能综述.md",
+    "README.md",
     "射频方案/测试工具/射频实用计算小工具分享.md",
     "芯片封装/为什么键合金丝会产生寄生电感？自感、互感又是怎么理解？.md",
     "射频方案/跳频是怎么同步的.md",
-    "PCB/模拟开关.md",
     "射频方案/细数IQ不平衡的原因.md",
     "射频方案/为什么要采用IQ调制.md",
     "芯片封装/我们常说的Low-K指的是什么？为什么要用Low-k材料？它对封装有什么影响？.md",
@@ -184,22 +189,12 @@
     "电气/电工手册.pdf",
     "芯片封装/封装设计小技巧——如何将IC设计工程师提供的芯片pad location文件快速转换为CAD图形.md",
     "芯片封装/封装裸露型散热焊盘EPAD厚度对热阻的影响.md",
-    "射频方案/什么是共址？共址怎么解决？.md",
     "readme.assets/Pasted image 20250305175146.png",
     "readme.assets/Pasted image 20250305175142.png",
-    "射频方案/什么是负载牵引.md",
-    "射频方案/镜像抑制的计算和仿真.md",
-    "芯片封装/射频器件封装时，键合金丝间距为什么会对其性能产生影响.md",
-    "射频方案/是.md",
-    "射频方案/接收机与ADC的矛盾拉扯.md",
     "readme.assets/Pasted image 20250302223540.png",
     "readme.assets/Pasted image 20250302223249.png",
     "readme.assets/Pasted image 20250302223230.png",
     "readme.assets/Pasted image 20250302223019.png",
-    "射频方案/射频器件的偏置电路.md",
-    "常见芯片/外置USB供电与内置锂电池供电自动切换电路，便携电子设备常用，经典电路必须掌握.md",
-    "芯片封装/IMC 在 UHAST 实验中的腐蚀.md",
-    "常见芯片/PCIE6.md",
     "readme.assets/Pasted image 20250225094935.png",
     "射频方案/射频常用公式.pdf",
     "射频方案/射频面试",
