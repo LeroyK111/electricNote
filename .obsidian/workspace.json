@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c244bd2ab7b97f3d",
+        "id": "13b57c439cb70c70",
         "type": "tabs",
         "children": [
           {
-            "id": "7e88cedf3a4e1ae5",
+            "id": "39d9837b7844dd67",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/模拟开关.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "模拟开关"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/模拟开关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "模拟开关 的大纲"
             }
           },
           {
@@ -160,8 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7e88cedf3a4e1ae5",
+  "active": "39d9837b7844dd67",
   "lastOpenFiles": [
+    "射频方案/解密RF信号链：特性和性能指标.md",
+    "芯片封装/Wire Bonding用的金丝和金带，同等截面积下，哪个产生的寄生电感更小？.md",
     "射频方案/射频进阶—如何选择合适的中频.md",
     "PCB/常见器件——模拟开关（2） 性能参数.md",
     "PCB/模拟开关.md",
@@ -187,8 +194,6 @@
     "电气/继电器.md",
     "电气/电工学.md",
     "电气/电工手册.pdf",
-    "芯片封装/封装设计小技巧——如何将IC设计工程师提供的芯片pad location文件快速转换为CAD图形.md",
-    "芯片封装/封装裸露型散热焊盘EPAD厚度对热阻的影响.md",
     "readme.assets/Pasted image 20250305175146.png",
     "readme.assets/Pasted image 20250305175142.png",
     "readme.assets/Pasted image 20250302223540.png",
