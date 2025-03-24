@@ -175,5 +175,3 @@ WCH_V4A的动态预测器对RISC-V32I的跳转指令均进行了检测，并根�
 Dhrystone 和 Coremarks 均是用来测试CPU整数计算性能的基准程序，广泛应用于嵌入式处理器的性能评估。本文对CH32F103（ARMCortex-M3）和WCH_V4A 分别做了 Dhrystone 和 Coremarks 的测试。实验结果如表2所列，对比数据可知，WCH_V4A在跑分测试程序中的表现比CH32F103更为优异，Dhrystone和Coremarks 在Max option（最佳性能）选项下分别提升了11.0％和13.4%，在﹣O3选项下，提升了100.0％和56.2%。实验结果表明，WCH_V4A在多种处理器性能基准测试程序中均比以ARM Cortex-M3为内核的产品的表现更为突出。
 ![](https://raw.githubusercontent.com/LeroyK111/pictureBed/master/20241123203905.png)
 
-
-

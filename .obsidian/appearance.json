@@ -1,6 +1,5 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "theme": "obsidian"
 }
