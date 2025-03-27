@@ -5,24 +5,20 @@
     "children": [
       {
         "id": "3ceb1a37852fe365",
-        "id": "49554fa0187bbdc1",
         "type": "tabs",
         "children": [
           {
             "id": "e5c27faf0e6b3a75",
-            "id": "596f9a755353e609",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
               "type": "markdown",
               "state": {
-                "file": "芯片封装/快闪存储单元的读、写原理.md",
+                "file": "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "新标签页""title": "快闪存储单元的读、写原理"
+              "title": "为什么加了屏蔽罩，效果反而不好？"
             }
           }
         ]
@@ -57,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ECU",
+                "query": "MOS 寄生",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/快闪存储单元的读、写原理.md",
+                "file": "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲""title": "快闪存储单元的读、写原理 的大纲"
+              "title": "为什么加了屏蔽罩，效果反而不好？ 的大纲"
             }
           },
           {
@@ -169,8 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f3bd0b87fd539ec8",
+  "active": "e5c27faf0e6b3a75",
   "lastOpenFiles": [
+    "射频方案/为什么要采用IQ调制.md",
+    "射频方案/我们常说频率合成器常被比作电子系统的.md",
+    "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
+    "射频方案/通信中的IQ不平衡.md",
+    "射频方案/SINAD下的灵敏度是什么意思.md",
+    "射频方案/为什么加了屏蔽罩，效果反而不好？",
     "芯片封装/快闪存储单元的读、写原理.md",
     "芯片封装/Q3D仿真教程——如何提取键合金丝寄生电感.md",
     "常见芯片/座舱芯片.md",
@@ -194,11 +196,6 @@
     "射频方案/射频进阶—如何选择合适的中频.md",
     "PCB/常见器件——模拟开关（2） 性能参数.md",
     "PCB/射频电路的PCB设计原则.md",
-    "射频方案/通信中的IQ不平衡.md",
-    "射频方案/射频器件的偏置电路.md",
-    "射频方案/镜像抑制的计算和仿真.md",
-    "射频方案/接收机与ADC的矛盾拉扯.md",
-    "Power/驱动电路设计（一）—— 驱动器的功能综述.md",
     "电气/电工手册.pdf",
     "readme.assets/Pasted image 20250305175146.png",
     "readme.assets/Pasted image 20250305175142.png",
