@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d320a3ca94854619",
+        "id": "49554fa0187bbdc1",
         "type": "tabs",
         "children": [
           {
-            "id": "233cbfca1c03dfac",
+            "id": "596f9a755353e609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/座舱芯片.md",
+                "file": "芯片封装/快闪存储单元的读、写原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "座舱芯片"
+              "title": "快闪存储单元的读、写原理"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/座舱芯片.md",
+                "file": "芯片封装/快闪存储单元的读、写原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "座舱芯片 的大纲"
+              "title": "快闪存储单元的读、写原理 的大纲"
             }
           },
           {
@@ -167,11 +167,12 @@
   },
   "active": "f3bd0b87fd539ec8",
   "lastOpenFiles": [
+    "芯片封装/快闪存储单元的读、写原理.md",
+    "常见芯片/座舱芯片.md",
     "芯片封装/MOS管封装引入的寄生电感是如何导致芯片异常开启和关断的.md",
     "射频方案/锁相环的杂散怎么优化.md",
     "射频方案/扇形微带线.md",
     "射频方案/Doherty 功率放大器技术解析.md",
-    "常见芯片/座舱芯片.md",
     "README.md",
     "射频方案/发射机的功率与线性化-笛卡尔环技术.md",
     "PCB/示波器使用.md",
@@ -194,7 +195,6 @@
     "ADC芯片/readme.md",
     "射频方案/射频基础—时域和频域的区别.md",
     "射频方案/FM 解调：技术、斜率检测器以及优缺点.md",
-    "射频方案/ADI电调谐滤波器的革命性创新.md",
     "电气/电工手册.pdf",
     "readme.assets/Pasted image 20250305175146.png",
     "readme.assets/Pasted image 20250305175142.png",
