@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d54e59050c8f2e88",
+        "id": "3ceb1a37852fe365",
         "type": "tabs",
         "children": [
           {
-            "id": "939f2f2b3ce340d6",
+            "id": "e5c27faf0e6b3a75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/Doherty 功率放大器技术解析.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Doherty 功率放大器技术解析"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/Doherty 功率放大器技术解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Doherty 功率放大器技术解析 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,7 +160,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "939f2f2b3ce340d6",
+  "active": "f3bd0b87fd539ec8",
   "lastOpenFiles": [
     "射频方案/Doherty 功率放大器技术解析.md",
     "射频方案/扇形微带线.md",
