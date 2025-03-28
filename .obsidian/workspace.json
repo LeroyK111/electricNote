@@ -1,40 +1,20 @@
 {
   "main": {
-    "id": "f8e2e6b16dd88a6b",
+    "id": "171152f2e13792e9",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "d991621e9b35589e",
+        "id": "f34062c8acdfcfd3",
         "type": "tabs",
         "children": [
           {
-            "id": "5c1983d170ef31af",
-=======
-        "id": "3ceb1a37852fe365",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5c27faf0e6b3a75",
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
+            "id": "2e0085f3e1963f28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "常见芯片/单片机IO口驱动.md",
-=======
-                "file": "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "单片机IO口驱动"
-=======
-              "title": "为什么加了屏蔽罩，效果反而不好？"
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
+              "title": "新标签页"
             }
           }
         ]
@@ -43,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3bcca64213eb2bf7",
+    "id": "aaf91ab2c60effd0",
     "type": "split",
     "children": [
       {
-        "id": "feec2e4a604c4c0b",
+        "id": "0a86096068d93765",
         "type": "tabs",
         "children": [
           {
-            "id": "f3bd0b87fd539ec8",
+            "id": "09c001287d52d7d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +44,12 @@
             }
           },
           {
-            "id": "d56f3a09b80099ad",
+            "id": "0fe58518652e245e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "MOS 寄生",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +61,7 @@
             }
           },
           {
-            "id": "0c897d6d8cd27cb1",
+            "id": "43c038dfe2d33dbc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,40 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a5c16a0334a145a3",
+    "id": "6094c6b3aab6135d",
     "type": "split",
     "children": [
       {
-        "id": "354f9bb7b3e5f14a",
+        "id": "3e6c85c518872695",
         "type": "tabs",
         "children": [
           {
-            "id": "eacc3b72278cd020",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< HEAD
-=======
-                "file": "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "大纲"
-=======
-              "title": "为什么加了屏蔽罩，效果反而不好？ 的大纲"
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
-            }
-          },
-          {
-            "id": "79a172b261cbb7bf",
+            "id": "187ac6dc4878908a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -145,7 +103,7 @@
             }
           },
           {
-            "id": "852ee2eb949d3e98",
+            "id": "f0584b8028258db7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -158,7 +116,7 @@
             }
           },
           {
-            "id": "823a27ad75e23a07",
+            "id": "b84c5489e6b51846",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,12 +129,26 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "0635b63ad93bb7d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,60 +161,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5c27faf0e6b3a75",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "常见芯片/单片机IO口驱动.md",
-=======
-    "射频方案/为什么要采用IQ调制.md",
-    "射频方案/我们常说频率合成器常被比作电子系统的.md",
-    "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
-    "射频方案/通信中的IQ不平衡.md",
-    "射频方案/SINAD下的灵敏度是什么意思.md",
-    "射频方案/为什么加了屏蔽罩，效果反而不好？",
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
-    "芯片封装/快闪存储单元的读、写原理.md",
-    "芯片封装/Q3D仿真教程——如何提取键合金丝寄生电感.md",
-    "常见芯片/座舱芯片.md",
-    "射频方案/发射机的功率与线性化-笛卡尔环技术.md",
-    "射频方案/Doherty 功率放大器技术解析.md",
-    "射频方案/扇形微带线.md",
-    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
-    "芯片封装/MOS管封装引入的寄生电感是如何导致芯片异常开启和关断的.md",
-    "射频方案/锁相环的杂散怎么优化.md",
-    "常见芯片/5v to 3.3v.md",
-    "芯片封装/教程/适合封装工程师学习的仿真软件及推荐教程.md",
-    "芯片封装/教程",
-    "芯片封装/封装了那么多年MOS芯片，是不是也应该了解下其基本工作原理.md",
-<<<<<<< HEAD
-    "射频方案/TDD和FDD射频方案的设计区别.md",
-    "ADC芯片/readme.md",
-    "射频方案/射频基础—时域和频域的区别.md",
-=======
-    "PCB/经典MOS管电平转换电路.md",
-    "芯片封装/BGA封装中集成的电容到底起的什么作用？.md",
-    "射频方案/功放与系统——解读功放手册.md",
-    "射频方案/功率放大器的类型与理论.pdf",
-    "PCB/模拟开关.md",
-    "射频方案/解密RF信号链：特性和性能指标.md",
-    "芯片封装/Wire Bonding用的金丝和金带，同等截面积下，哪个产生的寄生电感更小？.md",
-    "射频方案/射频进阶—如何选择合适的中频.md",
-    "PCB/常见器件——模拟开关（2） 性能参数.md",
-    "PCB/射频电路的PCB设计原则.md",
->>>>>>> ea73a16f043f3bcbf526d4b1b45fbfa9234ad1d1
-    "电气/电工手册.pdf",
-    "readme.assets/Pasted image 20250305175146.png",
-    "readme.assets/Pasted image 20250305175142.png",
-    "readme.assets/Pasted image 20250302223540.png",
-    "readme.assets/Pasted image 20250302223249.png",
-    "readme.assets/Pasted image 20250302223230.png",
-    "readme.assets/Pasted image 20250302223019.png",
-    "readme.assets/Pasted image 20250225094935.png",
-    "射频方案/射频常用公式.pdf",
-    "射频方案/射频面试",
-    "readme.assets/Pasted image 20250219181509.png",
-    "PLC/西门子九个案例.pdf",
-    "readme.assets/Pasted image 20250213122449.png",
-    "readme.assets/Pasted image 20250213121053.png"
-  ]
+  "active": "2e0085f3e1963f28",
+  "lastOpenFiles": []
 }
