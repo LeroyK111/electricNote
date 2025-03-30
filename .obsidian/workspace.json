@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "f8e2e6b16dd88a6b",
+    "id": "171152f2e13792e9",
     "type": "split",
     "children": [
       {
-        "id": "3ceb1a37852fe365",
+        "id": "f34062c8acdfcfd3",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c27faf0e6b3a75",
+            "id": "2e0085f3e1963f28",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "射频方案/DDS杂散分析.md",
@@ -19,6 +20,12 @@
               },
               "icon": "lucide-file",
               "title": "DDS杂散分析"
+=======
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+>>>>>>> 1ec972e0e967f567b91381cb93232b1cf6e6e0cd
             }
           }
         ]
@@ -27,15 +34,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3bcca64213eb2bf7",
+    "id": "aaf91ab2c60effd0",
     "type": "split",
     "children": [
       {
-        "id": "feec2e4a604c4c0b",
+        "id": "0a86096068d93765",
         "type": "tabs",
         "children": [
           {
-            "id": "f3bd0b87fd539ec8",
+            "id": "09c001287d52d7d8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +55,12 @@
             }
           },
           {
-            "id": "d56f3a09b80099ad",
+            "id": "0fe58518652e245e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "MOS 寄生",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +72,7 @@
             }
           },
           {
-            "id": "0c897d6d8cd27cb1",
+            "id": "43c038dfe2d33dbc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,17 +85,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a5c16a0334a145a3",
+    "id": "6094c6b3aab6135d",
     "type": "split",
     "children": [
       {
-        "id": "354f9bb7b3e5f14a",
+        "id": "3e6c85c518872695",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "eacc3b72278cd020",
             "type": "leaf",
             "state": {
@@ -105,6 +113,9 @@
           },
           {
             "id": "79a172b261cbb7bf",
+=======
+            "id": "187ac6dc4878908a",
+>>>>>>> 1ec972e0e967f567b91381cb93232b1cf6e6e0cd
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +133,7 @@
             }
           },
           {
-            "id": "852ee2eb949d3e98",
+            "id": "f0584b8028258db7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +146,7 @@
             }
           },
           {
-            "id": "823a27ad75e23a07",
+            "id": "b84c5489e6b51846",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,12 +159,27 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "0635b63ad93bb7d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +191,7 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< HEAD
   "active": "e5c27faf0e6b3a75",
   "lastOpenFiles": [
     "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
@@ -211,4 +238,8 @@
     "readme.assets/Pasted image 20250213122449.png",
     "readme.assets/Pasted image 20250213121053.png"
   ]
+=======
+  "active": "2e0085f3e1963f28",
+  "lastOpenFiles": []
+>>>>>>> 1ec972e0e967f567b91381cb93232b1cf6e6e0cd
 }
