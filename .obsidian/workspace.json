@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "bbcbda8441705677",
         "type": "tabs",
         "children": [
           {
             "id": "a06788097944a4f7",
+=======
+        "id": "d2dc7954703aad9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94168bee8d69914e",
+>>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md",
+=======
+                "file": "射频方案/隔直电容怎么选？.md",
+>>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "双85实验中的1000小时，代表芯片在正常工作条件下使用多久？"
+=======
+              "title": "隔直电容怎么选？"
+>>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
             }
           }
         ]
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "隔直",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +105,11 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "68343f98a78df205",
+=======
+            "id": "187ac6dc4878908a",
+>>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -168,8 +188,16 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< HEAD
   "active": "a06788097944a4f7",
   "lastOpenFiles": [
     "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md"
+=======
+  "active": "09c001287d52d7d8",
+  "lastOpenFiles": [
+    "射频方案/未命名.md",
+    "射频方案/隔直电容怎么选？.md",
+    "射频方案/DDS杂散分析.md"
+>>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
   ]
 }
