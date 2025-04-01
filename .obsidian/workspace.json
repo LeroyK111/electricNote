@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "b59ee47d1b9f8837",
+    "id": "1d15e79d27cb2304",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "bbcbda8441705677",
+        "id": "64a5b983483b0866",
         "type": "tabs",
         "children": [
           {
-            "id": "a06788097944a4f7",
-=======
-        "id": "d2dc7954703aad9b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "94168bee8d69914e",
->>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
+            "id": "e1dd1b96567422e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md",
-=======
-                "file": "射频方案/隔直电容怎么选？.md",
->>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
+                "file": "Power/BMS电池管理系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "双85实验中的1000小时，代表芯片在正常工作条件下使用多久？"
-=======
-              "title": "隔直电容怎么选？"
->>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
+              "title": "BMS电池管理系统"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "046ff8ab8fa65727",
+    "id": "ed3a348a7c75e055",
     "type": "split",
     "children": [
       {
-        "id": "1565f4bc7e1e45b7",
+        "id": "5fbe17c0a44be10c",
         "type": "tabs",
         "children": [
           {
-            "id": "11ef5f9b131c99f5",
+            "id": "1d956ac444af59a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +48,12 @@
             }
           },
           {
-            "id": "6ad514073b2aa024",
+            "id": "ec0b58823e0319b1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "隔直",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "04b62d8b3a2313a5",
+            "id": "9f625f45d3cd550d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,24 +81,20 @@
     "width": 200
   },
   "right": {
-    "id": "b985e472b6f7bd79",
+    "id": "a353b1107418d722",
     "type": "split",
     "children": [
       {
-        "id": "3bc9ac5d8985a710",
+        "id": "3603f491f1702ee2",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "68343f98a78df205",
-=======
-            "id": "187ac6dc4878908a",
->>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
+            "id": "89629876f0ccfa0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md",
+                "file": "Power/BMS电池管理系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "双85实验中的1000小时，代表芯片在正常工作条件下使用多久？ 的反向链接列表"
+              "title": "BMS电池管理系统 的反向链接列表"
             }
           },
           {
-            "id": "fc058906b859fcbd",
+            "id": "4185a4c62f28fb28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md",
+                "file": "Power/BMS电池管理系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "双85实验中的1000小时，代表芯片在正常工作条件下使用多久？ 的出链列表"
+              "title": "BMS电池管理系统 的出链列表"
             }
           },
           {
-            "id": "b0c1968aa77f6d0f",
+            "id": "128cdabfcf5721d3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,26 +137,26 @@
             }
           },
           {
-            "id": "61b049f4e55820a3",
+            "id": "e5365783c92a609a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md",
+                "file": "Power/BMS电池管理系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "双85实验中的1000小时，代表芯片在正常工作条件下使用多久？ 的大纲"
+              "title": "BMS电池管理系统 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,16 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< HEAD
-  "active": "a06788097944a4f7",
+  "active": "e1dd1b96567422e6",
   "lastOpenFiles": [
-    "芯片封装/双85实验中的1000小时，代表芯片在正常工作条件下使用多久？.md"
-=======
-  "active": "09c001287d52d7d8",
-  "lastOpenFiles": [
-    "射频方案/未命名.md",
-    "射频方案/隔直电容怎么选？.md",
-    "射频方案/DDS杂散分析.md"
->>>>>>> 87deb6c732864a9f135a6e120ae692f787942d36
+    "README.md",
+    "Power/BMS电池管理系统.md",
+    "Power/驱动电路设计（一）—— 驱动器的功能综述.md",
+    "未命名"
   ]
 }
