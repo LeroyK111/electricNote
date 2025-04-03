@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a714fcd871fa12a0",
+        "id": "1ad3b45161871d69",
         "type": "tabs",
         "children": [
           {
-            "id": "674e48bd5748579f",
+            "id": "da9c8b18924282ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Power/AI 服务器催生48V电源架构.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AI 服务器催生48V电源架构"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Power/AI 服务器催生48V电源架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "AI 服务器催生48V电源架构 的反向链接列表"
             }
           },
           {
@@ -136,20 +141,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Power/AI 服务器催生48V电源架构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "AI 服务器催生48V电源架构 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ef7e1698f0fbb13",
+  "active": "1be8a9c04e1bd29f",
   "lastOpenFiles": [
+    "Power/AI 服务器催生48V电源架构.md",
     "Power/BMS电池管理系统.md"
   ]
 }
