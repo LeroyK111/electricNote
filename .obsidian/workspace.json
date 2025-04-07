@@ -11,10 +11,14 @@
             "id": "a213a8f2bd9493c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "多通道接收机设计：从架构到实战，如何突破性能瓶颈？"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "多通道接收机设计：从架构到实战，如何突破性能瓶颈？ 的大纲"
             }
           }
         ],
@@ -162,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ef7e1698f0fbb13",
+  "active": "a213a8f2bd9493c3",
   "lastOpenFiles": [
+    "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
     "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
     "芯片封装/为什么键合金丝会产生寄生电感？自感、互感又是怎么理解？.md",
