@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "956430174f05b6e9",
+        "id": "ad2b9d5e0c721392",
         "type": "tabs",
         "children": [
           {
-            "id": "7c32b7f156773034",
+            "id": "755a305892b440ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GPU/边缘计算硬件.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "边缘计算硬件"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "GPU/边缘计算硬件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "边缘计算硬件 的大纲"
             }
           }
         ],
@@ -161,8 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d956ac444af59a3",
+  "active": "755a305892b440ac",
   "lastOpenFiles": [
+    "GPU/边缘计算硬件.md",
+    "常见芯片/三进制.md",
     "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
     "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
     "射频方案/噪声与ADC的关系.md",
