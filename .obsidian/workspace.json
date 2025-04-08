@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "71b7ef70a0ad9c98",
+    "id": "1d15e79d27cb2304",
     "type": "split",
     "children": [
       {
-        "id": "2a34c37125d8fb90",
+        "id": "956430174f05b6e9",
         "type": "tabs",
         "children": [
           {
-            "id": "a213a8f2bd9493c3",
+            "id": "7c32b7f156773034",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "多通道接收机设计：从架构到实战，如何突破性能瓶颈？"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9576355219d594d2",
+    "id": "ed3a348a7c75e055",
     "type": "split",
     "children": [
       {
-        "id": "977cf40ba81bcdd7",
+        "id": "5fbe17c0a44be10c",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef7e1698f0fbb13",
+            "id": "1d956ac444af59a3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "f2767fbfc6308ce2",
+            "id": "ec0b58823e0319b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "3be510bdab60e736",
+            "id": "9f625f45d3cd550d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 200
   },
   "right": {
-    "id": "c33beb7a20106b02",
+    "id": "a353b1107418d722",
     "type": "split",
     "children": [
       {
-        "id": "8f4b8c0ee68ec029",
+        "id": "3603f491f1702ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "e3b936127808e6f8",
+            "id": "89629876f0ccfa0b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power/AI 服务器催生48V电源架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AI 服务器催生48V电源架构 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "855074887f186600",
+            "id": "4185a4c62f28fb28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +116,7 @@
             }
           },
           {
-            "id": "66b8df8415ff4eaf",
+            "id": "128cdabfcf5721d3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,18 +131,17 @@
             }
           },
           {
-            "id": "1be8a9c04e1bd29f",
+            "id": "e5365783c92a609a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多通道接收机设计：从架构到实战，如何突破性能瓶颈？ 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -167,15 +161,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a213a8f2bd9493c3",
+  "active": "1d956ac444af59a3",
   "lastOpenFiles": [
-    "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
-    "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
-    "芯片封装/为什么键合金丝会产生寄生电感？自感、互感又是怎么理解？.md",
+    "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
     "射频方案/噪声与ADC的关系.md",
     "readme.assets/Pasted image 20250403112126.png",
     "Power/AI 服务器催生48V电源架构.md",
-    "Power/BMS电池管理系统.md"
+    "PCB/一条错误PCB走线让电流采样偏大10%.md",
+    "芯片封装/HAST 的96h和双85的1000h到底谁更硬？.md",
+    "射频方案/射频开关的基础知识.md",
+    "readme.assets/Pasted image 20250401164923.png",
+    "Power/BMS电池管理系统.md",
+    "README.md",
+    "Power/驱动电路设计（一）—— 驱动器的功能综述.md",
+    "未命名"
   ]
 }
