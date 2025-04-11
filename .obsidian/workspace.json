@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f50b8380f16dbfa5",
+        "id": "31832fed50bf7048",
         "type": "tabs",
         "children": [
           {
-            "id": "31ff1d9068c25ada",
+            "id": "e3f694eefcf9dd29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？"
             }
           }
         ]
@@ -137,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？ 的大纲"
             }
           }
         ],
@@ -162,13 +167,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "31ff1d9068c25ada",
+  "active": "e3f694eefcf9dd29",
   "lastOpenFiles": [
-    "芯片封装/塑封料各参数指标对封装的影响.md",
+    "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
+    "PCB/常见器件——模拟开关（2） 性能参数.md",
     "Power/氮化镓技术.pdf",
+    "芯片封装/塑封料各参数指标对封装的影响.md",
     "PCB/常见器件——数字电位器（2） 典型应用场景.md",
     "Power/GaN电源.md",
-    "PCB/常见器件——模拟开关（2） 性能参数.md",
     "PCB/经典MOS管电平转换电路.md",
     "常见芯片/数字电位器（1）.md",
     "常见芯片/三进制.md",
