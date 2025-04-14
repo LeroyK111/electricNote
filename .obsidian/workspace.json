@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "31832fed50bf7048",
+        "id": "b0fa660ae925e185",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f694eefcf9dd29",
+            "id": "5d254e4f4d461188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
+                "file": "芯片封装/TO220封装装配时散热器固定螺钉扭矩如何评估？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？"
+              "title": "TO220封装装配时散热器固定螺钉扭矩如何评估？"
             }
           }
         ]
@@ -89,6 +89,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1be8a9c04e1bd29f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "芯片封装/TO220封装装配时散热器固定螺钉扭矩如何评估？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "TO220封装装配时散热器固定螺钉扭矩如何评估？ 的大纲"
+            }
+          },
+          {
             "id": "e3b936127808e6f8",
             "type": "leaf",
             "state": {
@@ -134,24 +149,8 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "1be8a9c04e1bd29f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？ 的大纲"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,8 +166,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e3f694eefcf9dd29",
+  "active": "5d254e4f4d461188",
   "lastOpenFiles": [
+    "芯片封装/TO220封装装配时散热器固定螺钉扭矩如何评估？.md",
     "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
     "PCB/常见器件——模拟开关（2） 性能参数.md",
     "Power/氮化镓技术.pdf",
