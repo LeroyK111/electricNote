@@ -11,10 +11,14 @@
             "id": "84960006e6e44bba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "为什么wire Bonding的2nd Bond不需要关注IMC？"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "为什么wire Bonding的2nd Bond不需要关注IMC？ 的大纲"
             }
           },
           {
@@ -161,8 +166,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ef7e1698f0fbb13",
+  "active": "84960006e6e44bba",
   "lastOpenFiles": [
+    "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
     "射频方案/线性化技术——前馈功率放大器.md",
     "射频方案/恒包络信号合路技术对比分析：基带侧与射频侧.md",
     "PCB/电源纹波测量全攻略.md",
@@ -189,7 +195,6 @@
     "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
     "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
-    "芯片封装/为什么键合金丝会产生寄生电感？自感、互感又是怎么理解？.md",
     "readme.assets/Pasted image 20250403112126.png"
   ]
 }
