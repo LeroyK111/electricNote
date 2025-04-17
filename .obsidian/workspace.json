@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "1d15e79d27cb2304",
+    "id": "71b7ef70a0ad9c98",
     "type": "split",
     "children": [
       {
-        "id": "28ba4510ada86947",
+        "id": "06a9637be5441554",
         "type": "tabs",
         "children": [
           {
-            "id": "056aa117e5458493",
+            "id": "84960006e6e44bba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/恒包络信号合路技术对比分析：基带侧与射频侧.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "恒包络信号合路技术对比分析：基带侧与射频侧"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed3a348a7c75e055",
+    "id": "9576355219d594d2",
     "type": "split",
     "children": [
       {
-        "id": "5fbe17c0a44be10c",
+        "id": "977cf40ba81bcdd7",
         "type": "tabs",
         "children": [
           {
-            "id": "1d956ac444af59a3",
+            "id": "8ef7e1698f0fbb13",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "ec0b58823e0319b1",
+            "id": "f2767fbfc6308ce2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "9f625f45d3cd550d",
+            "id": "3be510bdab60e736",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +77,34 @@
     "width": 200
   },
   "right": {
-    "id": "a353b1107418d722",
+    "id": "c33beb7a20106b02",
     "type": "split",
     "children": [
       {
-        "id": "3603f491f1702ee2",
+        "id": "8f4b8c0ee68ec029",
         "type": "tabs",
         "children": [
           {
-            "id": "89629876f0ccfa0b",
+            "id": "1be8a9c04e1bd29f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "e3b936127808e6f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Power/AI 服务器催生48V电源架构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +114,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "AI 服务器催生48V电源架构 的反向链接列表"
             }
           },
           {
-            "id": "4185a4c62f28fb28",
+            "id": "855074887f186600",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +131,7 @@
             }
           },
           {
-            "id": "128cdabfcf5721d3",
+            "id": "66b8df8415ff4eaf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,24 +144,8 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "e5365783c92a609a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "射频方案/恒包络信号合路技术对比分析：基带侧与射频侧.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "恒包络信号合路技术对比分析：基带侧与射频侧 的大纲"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,34 +161,35 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d956ac444af59a3",
+  "active": "8ef7e1698f0fbb13",
   "lastOpenFiles": [
-    "芯片封装/奇怪的封装命名之PDFN.md",
-    "芯片封装/塑封料各参数指标对封装的影响.md",
-    "芯片封装/TO220封装装配时散热器固定螺钉扭矩如何评估？.md",
-    "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
-    "射频方案/峰均比与EVM的非线性纠缠.md",
-    "Power/氮化镓技术.pdf",
-    "PCB/常见器件——数字电位器（2） 典型应用场景.md",
+    "射频方案/线性化技术——前馈功率放大器.md",
     "射频方案/恒包络信号合路技术对比分析：基带侧与射频侧.md",
-    "常见芯片/数字电位器（1）.md",
     "PCB/电源纹波测量全攻略.md",
     "CarSystem/拆解丰田普锐斯逆变器：看混动系统背后的精妙设计.md",
-    "射频方案/线性化技术——前馈功率放大器.md",
-    "GPU/边缘计算硬件.md",
+    "芯片封装/奇怪的封装命名之PDFN.md",
+    "射频方案/峰均比与EVM的非线性纠缠.md",
+    "芯片封装/TO220封装装配时散热器固定螺钉扭矩如何评估？.md",
+    "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
+    "PCB/常见器件——模拟开关（2） 性能参数.md",
+    "Power/氮化镓技术.pdf",
+    "芯片封装/塑封料各参数指标对封装的影响.md",
+    "PCB/常见器件——数字电位器（2） 典型应用场景.md",
+    "Power/GaN电源.md",
+    "PCB/经典MOS管电平转换电路.md",
+    "常见芯片/数字电位器（1）.md",
     "常见芯片/三进制.md",
-    "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
-    "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
-    "射频方案/噪声与ADC的关系.md",
-    "readme.assets/Pasted image 20250403112126.png",
-    "Power/AI 服务器催生48V电源架构.md",
-    "PCB/一条错误PCB走线让电流采样偏大10%.md",
-    "芯片封装/HAST 的96h和双85的1000h到底谁更硬？.md",
-    "射频方案/射频开关的基础知识.md",
-    "readme.assets/Pasted image 20250401164923.png",
+    "GPU/边缘计算硬件.md",
+    "PCB/模拟开关.md",
+    "射频方案/过采样增加 ADC 的动态范围.md",
+    "射频方案/隔直电容怎么选？.md",
+    "射频方案/电磁波基础.md",
+    "功率半导体/氮化镓功率分立器件.md",
     "Power/BMS电池管理系统.md",
-    "README.md",
-    "Power/驱动电路设计（一）—— 驱动器的功能综述.md",
-    "未命名"
+    "射频方案/多通道接收机设计：从架构到实战，如何突破性能瓶颈？.md",
+    "PCB/一条错误PCB走线让电流采样偏大10%.md",
+    "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
+    "芯片封装/为什么键合金丝会产生寄生电感？自感、互感又是怎么理解？.md",
+    "readme.assets/Pasted image 20250403112126.png"
   ]
 }
