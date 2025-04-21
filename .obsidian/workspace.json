@@ -161,8 +161,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eba31d89909939be",
+  "active": "8ef7e1698f0fbb13",
   "lastOpenFiles": [
+    "射频方案/一个简单的接收机电路暗藏哪些设计？.md",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/smith圆图的奥秘.md",
     "PCB/电路中的噪声是怎么回事？如何抑制？.md",
@@ -190,7 +191,6 @@
     "射频方案/过采样增加 ADC 的动态范围.md",
     "射频方案/隔直电容怎么选？.md",
     "射频方案/电磁波基础.md",
-    "功率半导体/氮化镓功率分立器件.md",
     "readme.assets/Pasted image 20250403112126.png"
   ]
 }
