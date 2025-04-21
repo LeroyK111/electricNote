@@ -11,10 +11,14 @@
             "id": "eba31d89909939be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Wire Bonding参数调试野路子分享——跨芯片线弧怎么野"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Wire Bonding参数调试野路子分享——跨芯片线弧怎么野 的大纲"
             }
           },
           {
@@ -161,8 +166,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ef7e1698f0fbb13",
+  "active": "eba31d89909939be",
   "lastOpenFiles": [
+    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
     "射频方案/一个简单的接收机电路暗藏哪些设计？.md",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/smith圆图的奥秘.md",
@@ -190,7 +196,6 @@
     "PCB/模拟开关.md",
     "射频方案/过采样增加 ADC 的动态范围.md",
     "射频方案/隔直电容怎么选？.md",
-    "射频方案/电磁波基础.md",
     "readme.assets/Pasted image 20250403112126.png"
   ]
 }
