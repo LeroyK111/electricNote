@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3935d0f9a42793",
+        "id": "712e55da470d0555",
         "type": "tabs",
         "children": [
           {
-            "id": "866949e6602aa388",
+            "id": "7a4744cf553d5fad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "电气/电流互感器S2到底接不接地.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "电流互感器S2到底接不接地"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "电气/电流互感器S2到底接不接地.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "电流互感器S2到底接不接地 的大纲"
             }
           },
           {
@@ -161,8 +166,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ef7e1698f0fbb13",
+  "active": "7a4744cf553d5fad",
   "lastOpenFiles": [
+    "电气/电流互感器S2到底接不接地.md",
     "PCB/常用工具/I2C调试器.md",
     "README.md",
     "PCB/常用工具",
@@ -192,7 +198,6 @@
     "Power/GaN电源.md",
     "PCB/经典MOS管电平转换电路.md",
     "常见芯片/数字电位器（1）.md",
-    "常见芯片/三进制.md",
     "readme.assets/Pasted image 20250403112126.png"
   ]
 }
