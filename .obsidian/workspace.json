@@ -162,5 +162,13 @@
     }
   },
   "active": "ea7904e7ee8e218a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "芯片封装/关于Ball Shear Ratio的相关介绍.md",
+    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
+    "电气/电流互感器S2到底接不接地.md",
+    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
+    "PCB/滤波方法",
+    "PCB/常用工具/I2C调试器.md",
+    "PCB/常用工具"
+  ]
 }
