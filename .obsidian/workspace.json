@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca7da39088596ee0",
+        "id": "addc688181344043",
         "type": "tabs",
         "children": [
           {
-            "id": "f856cdc4a541dac3",
+            "id": "766f8311593fb081",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8ef7e1698f0fbb13",
+  "active": "766f8311593fb081",
   "lastOpenFiles": [
+    "射频方案/ADC的噪底对灵敏度有什么影响.md",
+    "射频方案/噪声与ADC的关系.md",
     "电气/电流互感器S2到底接不接地.md",
     "PCB/常用工具/I2C调试器.md",
     "README.md",
@@ -191,8 +193,6 @@
     "芯片封装/塑封料各参数指标对封装的影响.md",
     "PCB/常见器件——数字电位器（2） 典型应用场景.md",
     "Power/GaN电源.md",
-    "PCB/经典MOS管电平转换电路.md",
-    "常见芯片/数字电位器（1）.md",
     "readme.assets/Pasted image 20250403112126.png"
   ]
 }
