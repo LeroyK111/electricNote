@@ -1,9 +1,10 @@
 {
   "main": {
-    "id": "71b7ef70a0ad9c98",
+    "id": "399965a76741ead6",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "addc688181344043",
         "type": "tabs",
         "children": [
@@ -15,6 +16,23 @@
               "state": {},
               "icon": "lucide-file",
               "title": "新标签页"
+=======
+        "id": "d712bc81f04d6db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c1062992a3d4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何用systemvue搭建射频、射频与基带链路的仿真"
+>>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
             }
           }
         ]
@@ -23,15 +41,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9576355219d594d2",
+    "id": "042c93763cce08f3",
     "type": "split",
     "children": [
       {
-        "id": "977cf40ba81bcdd7",
+        "id": "f3a76d5b28019dde",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef7e1698f0fbb13",
+            "id": "ea7904e7ee8e218a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +62,7 @@
             }
           },
           {
-            "id": "f2767fbfc6308ce2",
+            "id": "d79bcdd91238e911",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +79,7 @@
             }
           },
           {
-            "id": "3be510bdab60e736",
+            "id": "e79ddbe28d333159",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,14 +95,15 @@
     "width": 200
   },
   "right": {
-    "id": "c33beb7a20106b02",
+    "id": "b8e72257da51254c",
     "type": "split",
     "children": [
       {
-        "id": "8f4b8c0ee68ec029",
+        "id": "942a8d70199e7e53",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "1be8a9c04e1bd29f",
             "type": "leaf",
             "state": {
@@ -100,11 +119,14 @@
           },
           {
             "id": "e3b936127808e6f8",
+=======
+            "id": "cb47588aee3433d4",
+>>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power/AI 服务器催生48V电源架构.md",
+                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,24 +136,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AI 服务器催生48V电源架构 的反向链接列表"
+              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的反向链接列表"
             }
           },
           {
-            "id": "855074887f186600",
+            "id": "39e6a9fed5649158",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的出链列表"
             }
           },
           {
-            "id": "66b8df8415ff4eaf",
+            "id": "19d9f1990b37a0ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,12 +167,28 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "ce969f10586b374d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的大纲"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +200,7 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< HEAD
   "active": "766f8311593fb081",
   "lastOpenFiles": [
     "射频方案/ADC的噪底对灵敏度有什么影响.md",
@@ -170,9 +210,15 @@
     "README.md",
     "PCB/常用工具",
     "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
+=======
+  "active": "62c1062992a3d4df",
+  "lastOpenFiles": [
+    "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+    "射频方案/雷达.md",
+>>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
     "芯片封装/关于Ball Shear Ratio的相关介绍.md",
-    "PCB/滤波方法",
     "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
+<<<<<<< HEAD
     "射频方案/一个简单的接收机电路暗藏哪些设计？.md",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/smith圆图的奥秘.md",
@@ -194,5 +240,12 @@
     "PCB/常见器件——数字电位器（2） 典型应用场景.md",
     "Power/GaN电源.md",
     "readme.assets/Pasted image 20250403112126.png"
+=======
+    "电气/电流互感器S2到底接不接地.md",
+    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
+    "PCB/滤波方法",
+    "PCB/常用工具/I2C调试器.md",
+    "PCB/常用工具"
+>>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
   ]
 }
