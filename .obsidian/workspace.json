@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "file": "电气/什么是远动、保信、录波接线？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真"
+              "title": "什么是远动、保信、录波接线？"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "远动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "file": "电气/什么是远动、保信、录波接线？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的反向链接列表"
+              "title": "什么是远动、保信、录波接线？ 的反向链接列表"
             }
           },
           {
@@ -142,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "file": "电气/什么是远动、保信、录波接线？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的大纲"
+              "title": "什么是远动、保信、录波接线？ 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +170,12 @@
   },
   "active": "ea7904e7ee8e218a",
   "lastOpenFiles": [
-    "射频方案/ADC的噪底对灵敏度有什么影响.md",
+    "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
+    "ChipInstructionSet/RISC-V/RISC-V.md",
+    "ChipInstructionSet/RISC-V/RISC-V指令集及其微控制处理器的开发应用.md",
+    "ChipInstructionSet/RISC-V",
     "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+    "射频方案/ADC的噪底对灵敏度有什么影响.md",
     "射频方案/雷达.md",
     "芯片封装/关于Ball Shear Ratio的相关介绍.md",
     "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
