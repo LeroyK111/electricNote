@@ -4,21 +4,37 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "1862d886dc278425",
         "type": "tabs",
         "children": [
           {
             "id": "0d68d4a08cdd338e",
+=======
+        "id": "d712bc81f04d6db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c1062992a3d4df",
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
+=======
+                "file": "电气/什么是远动、保信、录波接线？.md",
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么"
+=======
+              "title": "什么是远动、保信、录波接线？"
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
             }
           }
         ]
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "远动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +105,7 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "8b109a038187b6cd",
             "type": "leaf",
             "state": {
@@ -105,11 +122,18 @@
           },
           {
             "id": "04a26e1a49a368c2",
+=======
+            "id": "cb47588aee3433d4",
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
+=======
+                "file": "电气/什么是远动、保信、录波接线？.md",
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么 的反向链接列表"
+=======
+              "title": "什么是远动、保信、录波接线？ 的反向链接列表"
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
             }
           },
           {
@@ -149,8 +177,27 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "ce969f10586b374d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电气/什么是远动、保信、录波接线？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "什么是远动、保信、录波接线？ 的大纲"
+            }
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +213,27 @@
       "command-palette:打开命令面板": false
     }
   },
+<<<<<<< HEAD
   "active": "0d68d4a08cdd338e",
   "lastOpenFiles": [
     "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md"
+=======
+  "active": "ea7904e7ee8e218a",
+  "lastOpenFiles": [
+    "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
+    "ChipInstructionSet/RISC-V/RISC-V.md",
+    "ChipInstructionSet/RISC-V/RISC-V指令集及其微控制处理器的开发应用.md",
+    "ChipInstructionSet/RISC-V",
+    "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+    "射频方案/ADC的噪底对灵敏度有什么影响.md",
+    "射频方案/雷达.md",
+    "芯片封装/关于Ball Shear Ratio的相关介绍.md",
+    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
+    "电气/电流互感器S2到底接不接地.md",
+    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
+    "PCB/滤波方法",
+    "PCB/常用工具/I2C调试器.md",
+    "PCB/常用工具"
+>>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
   ]
 }
