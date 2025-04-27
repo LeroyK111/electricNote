@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "399965a76741ead6",
+    "id": "5d35308e3140804a",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "addc688181344043",
+        "id": "1862d886dc278425",
         "type": "tabs",
         "children": [
           {
-            "id": "766f8311593fb081",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-=======
-        "id": "d712bc81f04d6db9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62c1062992a3d4df",
+            "id": "0d68d4a08cdd338e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真"
->>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
+              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "042c93763cce08f3",
+    "id": "d7a8cdeaa926852d",
     "type": "split",
     "children": [
       {
-        "id": "f3a76d5b28019dde",
+        "id": "ec73174dd40e5942",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7904e7ee8e218a",
+            "id": "bc0a2ff17773ccaf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "d79bcdd91238e911",
+            "id": "a3eff4a317d31f55",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "e79ddbe28d333159",
+            "id": "2f5571e28e4ea425",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,38 +81,35 @@
     "width": 200
   },
   "right": {
-    "id": "b8e72257da51254c",
+    "id": "fbd2581f9a85bb7d",
     "type": "split",
     "children": [
       {
-        "id": "942a8d70199e7e53",
+        "id": "a72b150f29d7e5bb",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "1be8a9c04e1bd29f",
+            "id": "8b109a038187b6cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么 的大纲"
             }
           },
           {
-            "id": "e3b936127808e6f8",
-=======
-            "id": "cb47588aee3433d4",
->>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
+            "id": "04a26e1a49a368c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,25 +119,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的反向链接列表"
+              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么 的反向链接列表"
             }
           },
           {
-            "id": "39e6a9fed5649158",
+            "id": "d413c4cae01a043e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "19d9f1990b37a0ff",
+            "id": "ba22c27e80b867a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,28 +149,12 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "ce969f10586b374d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的大纲"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,52 +166,8 @@
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< HEAD
-  "active": "766f8311593fb081",
+  "active": "0d68d4a08cdd338e",
   "lastOpenFiles": [
-    "射频方案/ADC的噪底对灵敏度有什么影响.md",
-    "射频方案/噪声与ADC的关系.md",
-    "电气/电流互感器S2到底接不接地.md",
-    "PCB/常用工具/I2C调试器.md",
-    "README.md",
-    "PCB/常用工具",
-    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
-=======
-  "active": "62c1062992a3d4df",
-  "lastOpenFiles": [
-    "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
-    "射频方案/雷达.md",
->>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
-    "芯片封装/关于Ball Shear Ratio的相关介绍.md",
-    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
-<<<<<<< HEAD
-    "射频方案/一个简单的接收机电路暗藏哪些设计？.md",
-    "射频方案/Smith圆图你会用吗.md",
-    "射频方案/smith圆图的奥秘.md",
-    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
-    "电气/USB线束.md",
-    "readme.assets/Pasted image 20250417133208.png",
-    "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
-    "射频方案/线性化技术——前馈功率放大器.md",
-    "射频方案/恒包络信号合路技术对比分析：基带侧与射频侧.md",
-    "PCB/电源纹波测量全攻略.md",
-    "CarSystem/拆解丰田普锐斯逆变器：看混动系统背后的精妙设计.md",
-    "芯片封装/奇怪的封装命名之PDFN.md",
-    "射频方案/峰均比与EVM的非线性纠缠.md",
-    "芯片封装/TO220封装装配时散热器固定螺钉扭矩如何评估？.md",
-    "常见芯片/拆解扫地机建图的“眼睛”——激光雷达：零位齿宽暗藏玄机，厂商为何刻意设计？.md",
-    "PCB/常见器件——模拟开关（2） 性能参数.md",
-    "Power/氮化镓技术.pdf",
-    "芯片封装/塑封料各参数指标对封装的影响.md",
-    "PCB/常见器件——数字电位器（2） 典型应用场景.md",
-    "Power/GaN电源.md",
-    "readme.assets/Pasted image 20250403112126.png"
-=======
-    "电气/电流互感器S2到底接不接地.md",
-    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
-    "PCB/滤波方法",
-    "PCB/常用工具/I2C调试器.md",
-    "PCB/常用工具"
->>>>>>> 8c1ba643c8b3a3c68d3815836413cf72499497ed
+    "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md"
   ]
 }
