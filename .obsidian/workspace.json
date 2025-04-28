@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "5d35308e3140804a",
+    "id": "576f5ba2a8b289d4",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "1862d886dc278425",
+        "id": "c69abec97cb9455d",
         "type": "tabs",
         "children": [
           {
-            "id": "0d68d4a08cdd338e",
-=======
-        "id": "d712bc81f04d6db9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62c1062992a3d4df",
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+            "id": "2d84c514d5f07ccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
-=======
-                "file": "电气/什么是远动、保信、录波接线？.md",
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+                "file": "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么"
-=======
-              "title": "什么是远动、保信、录波接线？"
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+              "title": "Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7a8cdeaa926852d",
+    "id": "cd5860db598378e2",
     "type": "split",
     "children": [
       {
-        "id": "ec73174dd40e5942",
+        "id": "2d22c043be68d332",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0a2ff17773ccaf",
+            "id": "dc9462baeb046450",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +48,12 @@
             }
           },
           {
-            "id": "a3eff4a317d31f55",
+            "id": "42e6b29fcba80a50",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "远动",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "2f5571e28e4ea425",
+            "id": "1c37331d5d1f09c1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,43 +81,35 @@
     "width": 200
   },
   "right": {
-    "id": "fbd2581f9a85bb7d",
+    "id": "4e16dfb9d7c6aeca",
     "type": "split",
     "children": [
       {
-        "id": "a72b150f29d7e5bb",
+        "id": "695cf6e5b3795ef9",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "8b109a038187b6cd",
+            "id": "a9bc0d0dd6be13dd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
+                "file": "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么 的大纲"
+              "title": "Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？ 的大纲"
             }
           },
           {
-            "id": "04a26e1a49a368c2",
-=======
-            "id": "cb47588aee3433d4",
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+            "id": "542b2af29a206034",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
-=======
-                "file": "电气/什么是远动、保信、录波接线？.md",
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+                "file": "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,28 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么 的反向链接列表"
-=======
-              "title": "什么是远动、保信、录波接线？ 的反向链接列表"
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+              "title": "Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？ 的反向链接列表"
             }
           },
           {
-            "id": "d413c4cae01a043e",
+            "id": "1694b385a6842be1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？ 的出链列表"
             }
           },
           {
-            "id": "ba22c27e80b867a1",
+            "id": "a14d2a9cba9e2ea6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,27 +150,8 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-<<<<<<< HEAD
-=======
-          },
-          {
-            "id": "ce969f10586b374d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "电气/什么是远动、保信、录波接线？.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "什么是远动、保信、录波接线？ 的大纲"
-            }
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,27 +167,8 @@
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< HEAD
-  "active": "0d68d4a08cdd338e",
+  "active": "2d84c514d5f07ccc",
   "lastOpenFiles": [
-    "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md"
-=======
-  "active": "ea7904e7ee8e218a",
-  "lastOpenFiles": [
-    "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
-    "ChipInstructionSet/RISC-V/RISC-V.md",
-    "ChipInstructionSet/RISC-V/RISC-V指令集及其微控制处理器的开发应用.md",
-    "ChipInstructionSet/RISC-V",
-    "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
-    "射频方案/ADC的噪底对灵敏度有什么影响.md",
-    "射频方案/雷达.md",
-    "芯片封装/关于Ball Shear Ratio的相关介绍.md",
-    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
-    "电气/电流互感器S2到底接不接地.md",
-    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
-    "PCB/滤波方法",
-    "PCB/常用工具/I2C调试器.md",
-    "PCB/常用工具"
->>>>>>> 06bc21c12215f8207bb8a2092e497ee8ceaa60d6
+    "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md"
   ]
 }
