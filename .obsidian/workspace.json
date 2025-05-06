@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c69abec97cb9455d",
+        "id": "e520ca6b0c668ccf",
         "type": "tabs",
         "children": [
           {
-            "id": "2d84c514d5f07ccc",
+            "id": "d968ce204a4516da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？ 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d84c514d5f07ccc",
+  "active": "dc9462baeb046450",
   "lastOpenFiles": [
     "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md"
   ]
