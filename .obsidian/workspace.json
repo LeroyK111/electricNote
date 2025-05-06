@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e520ca6b0c668ccf",
+        "id": "0d716265383543b0",
         "type": "tabs",
         "children": [
           {
-            "id": "d968ce204a4516da",
+            "id": "af9bdf98654872c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/零中频各种问题引起的星座图是怎样的？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "零中频各种问题引起的星座图是怎样的？"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/零中频各种问题引起的星座图是怎样的？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "零中频各种问题引起的星座图是怎样的？ 的大纲"
             }
           },
           {
@@ -162,8 +167,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "dc9462baeb046450",
+  "active": "af9bdf98654872c1",
   "lastOpenFiles": [
+    "射频方案/零中频各种问题引起的星座图是怎样的？.md",
+    "射频方案/未命名",
+    "芯片封装/晶圆是如何制造出来的.pdf",
+    "Power/开关电源的MOSFET.md",
+    "PLC/IO映射改点.md",
+    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
+    "PCB/射频与数模PCB布局设计.pdf",
+    "PCB/未命名",
+    "射频方案/什么是电磁兼容，电磁兼容策略有哪些.md",
+    "射频方案/射频设计关注什么.md",
+    "射频方案/射频常用公式.pdf",
+    "射频方案/射频基础知识及入门.md",
+    "射频方案/射频进阶—如何选择合适的中频.md",
+    "射频方案/测试工具/射频仪表.md",
+    "射频方案/测试工具/射频实用计算小工具分享.md",
     "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md"
   ]
 }
