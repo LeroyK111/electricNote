@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
+                "file": "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相位噪声对单载波调制和OFDM的影响有什么不同"
+              "title": "一个优秀的射频工程师具备哪些技能"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
+                "file": "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "相位噪声对单载波调制和OFDM的影响有什么不同 的大纲"
+              "title": "一个优秀的射频工程师具备哪些技能 的大纲"
             }
           }
         ],
@@ -170,6 +170,8 @@
   },
   "active": "62c1062992a3d4df",
   "lastOpenFiles": [
+    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
+    "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
     "电气/什么是远动、保信、录波接线？.md",
     "射频方案/未命名.md",
     "芯片封装/晶圆是如何制造出来的.pdf",
