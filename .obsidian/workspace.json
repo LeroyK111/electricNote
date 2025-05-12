@@ -1,32 +1,20 @@
 {
   "main": {
-    "id": "399965a76741ead6",
+    "id": "e71201d9a8a8ff0d",
     "type": "split",
     "children": [
       {
-        "id": "47f0c304ede468de",
+        "id": "462a3f1f20e1a625",
         "type": "tabs",
         "children": [
           {
-            "id": "fe1f5a60c1564abe",
+            "id": "fcd8c8678f2a484b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "射频方案/接收机各模块功能解析.md",
-=======
-                "file": "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "接收机各模块功能解析"
-=======
-              "title": "一个优秀的射频工程师具备哪些技能"
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+              "title": "新标签页"
             }
           }
         ]
@@ -35,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "042c93763cce08f3",
+    "id": "e58f56b85ac1910b",
     "type": "split",
     "children": [
       {
-        "id": "f3a76d5b28019dde",
+        "id": "8dc3a1d7e3c00820",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7904e7ee8e218a",
+            "id": "34cd5bec3401faa5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +44,12 @@
             }
           },
           {
-            "id": "d79bcdd91238e911",
+            "id": "0d0ce4e45cb7de2b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "远动",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +61,7 @@
             }
           },
           {
-            "id": "e79ddbe28d333159",
+            "id": "88326aa7572ae51c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,20 +77,19 @@
     "width": 200
   },
   "right": {
-    "id": "b8e72257da51254c",
+    "id": "fa2219c5620e5c2c",
     "type": "split",
     "children": [
       {
-        "id": "942a8d70199e7e53",
+        "id": "523e3a8359d1facb",
         "type": "tabs",
         "children": [
           {
-            "id": "cb47588aee3433d4",
+            "id": "7f5ec464247a3e04",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电气/什么是远动、保信、录波接线？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "什么是远动、保信、录波接线？ 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "39e6a9fed5649158",
+            "id": "591ed4c3d1a83e01",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "19d9f1990b37a0ff",
+            "id": "0e7446ee609a609e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,34 +131,25 @@
             }
           },
           {
-            "id": "ce969f10586b374d",
+            "id": "c9e92caf965bb3de",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "射频方案/接收机各模块功能解析.md",
-=======
-                "file": "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "接收机各模块功能解析 的大纲"
-=======
-              "title": "一个优秀的射频工程师具备哪些技能 的大纲"
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,40 +161,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe1f5a60c1564abe",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "readme.assets/Pasted image 20250511204652.png",
-    "射频方案/接收机各模块功能解析.md",
-    "射频方案/时钟展频技术在辐射发射问题调试中的应用.md",
-    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
-=======
-    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
-    "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
-    "电气/什么是远动、保信、录波接线？.md",
-    "芯片封装/晶圆是如何制造出来的.pdf",
-    "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
-    "射频方案/零中频各种问题引起的星座图是怎样的？.md",
-    "射频方案/测试工具/射频仪表.md",
-    "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
-    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
-    "Power/开关电源的MOSFET.md",
-    "PLC/IO映射改点.md",
-    "PCB/射频与数模PCB布局设计.pdf",
-    "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
-    "ChipInstructionSet/RISC-V/RISC-V.md",
-    "ChipInstructionSet/RISC-V/RISC-V指令集及其微控制处理器的开发应用.md",
-    "ChipInstructionSet/RISC-V",
-    "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
-    "射频方案/ADC的噪底对灵敏度有什么影响.md",
-    "射频方案/雷达.md",
-    "芯片封装/关于Ball Shear Ratio的相关介绍.md",
-    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
-    "电气/电流互感器S2到底接不接地.md",
-    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
-    "PCB/滤波方法",
-    "PCB/常用工具/I2C调试器.md",
-    "PCB/常用工具"
-  ]
+  "active": "fcd8c8678f2a484b",
+  "lastOpenFiles": []
 }
