@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "47f0c304ede468de",
+        "id": "d712bc81f04d6db9",
         "type": "tabs",
         "children": [
           {
-            "id": "fe1f5a60c1564abe",
+            "id": "62c1062992a3d4df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "射频方案/接收机各模块功能解析.md",
-=======
-                "file": "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+                "file": "射频方案/可靠性试验中常用的相对湿度(RH)具体指的是什么？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "接收机各模块功能解析"
-=======
-              "title": "一个优秀的射频工程师具备哪些技能"
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+              "title": "可靠性试验中常用的相对湿度(RH)具体指的是什么？"
             }
           }
         ]
@@ -150,21 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "射频方案/接收机各模块功能解析.md",
-=======
-                "file": "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+                "file": "射频方案/可靠性试验中常用的相对湿度(RH)具体指的是什么？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "接收机各模块功能解析 的大纲"
-=======
-              "title": "一个优秀的射频工程师具备哪些技能 的大纲"
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+              "title": "可靠性试验中常用的相对湿度(RH)具体指的是什么？ 的大纲"
             }
           }
         ],
@@ -184,17 +168,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe1f5a60c1564abe",
+  "active": "62c1062992a3d4df",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "readme.assets/Pasted image 20250511204652.png",
-    "射频方案/接收机各模块功能解析.md",
-    "射频方案/时钟展频技术在辐射发射问题调试中的应用.md",
-    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
-=======
-    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
     "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
->>>>>>> edde8d33558c5e82f026e01117e843307b900120
+    "射频方案/可靠性试验中常用的相对湿度(RH)具体指的是什么？.md",
+    "射频方案/时钟展频技术在辐射发射问题调试中的应用.md",
+    "射频方案/接收机各模块功能解析.md",
+    "readme.assets/Pasted image 20250511204652.png",
+    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
     "电气/什么是远动、保信、录波接线？.md",
     "芯片封装/晶圆是如何制造出来的.pdf",
     "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
