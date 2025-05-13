@@ -1,38 +1,20 @@
 {
   "main": {
-    "id": "e71201d9a8a8ff0d",
+    "id": "399965a76741ead6",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "462a3f1f20e1a625",
+        "id": "e06732904775dc69",
         "type": "tabs",
         "children": [
           {
-            "id": "fcd8c8678f2a484b",
+            "id": "ddc4fed0229a42fd",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "新标签页"
-=======
-        "id": "d712bc81f04d6db9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62c1062992a3d4df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/天线的基础知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "天线的基础知识"
->>>>>>> 0cf93447a5f6eb05d037c95b26469b10b41c3348
             }
           }
         ]
@@ -41,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e58f56b85ac1910b",
+    "id": "042c93763cce08f3",
     "type": "split",
     "children": [
       {
-        "id": "8dc3a1d7e3c00820",
+        "id": "f3a76d5b28019dde",
         "type": "tabs",
         "children": [
           {
-            "id": "34cd5bec3401faa5",
+            "id": "ea7904e7ee8e218a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,12 +44,12 @@
             }
           },
           {
-            "id": "0d0ce4e45cb7de2b",
+            "id": "d79bcdd91238e911",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "远动",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +61,7 @@
             }
           },
           {
-            "id": "88326aa7572ae51c",
+            "id": "e79ddbe28d333159",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,19 +77,20 @@
     "width": 200
   },
   "right": {
-    "id": "fa2219c5620e5c2c",
+    "id": "b8e72257da51254c",
     "type": "split",
     "children": [
       {
-        "id": "523e3a8359d1facb",
+        "id": "942a8d70199e7e53",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5ec464247a3e04",
+            "id": "cb47588aee3433d4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "电气/什么是远动、保信、录波接线？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "什么是远动、保信、录波接线？ 的反向链接列表"
             }
           },
           {
-            "id": "591ed4c3d1a83e01",
+            "id": "39e6a9fed5649158",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的出链列表"
             }
           },
           {
-            "id": "0e7446ee609a609e",
+            "id": "19d9f1990b37a0ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,33 +133,25 @@
             }
           },
           {
-            "id": "c9e92caf965bb3de",
+            "id": "ce969f10586b374d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "射频方案/天线的基础知识.md",
->>>>>>> 0cf93447a5f6eb05d037c95b26469b10b41c3348
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
               "title": "大纲"
-=======
-              "title": "天线的基础知识 的大纲"
->>>>>>> 0cf93447a5f6eb05d037c95b26469b10b41c3348
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +163,14 @@
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< HEAD
-  "active": "fcd8c8678f2a484b",
-  "lastOpenFiles": []
-=======
-  "active": "62c1062992a3d4df",
+  "active": "ea7904e7ee8e218a",
   "lastOpenFiles": [
+    "Power/充电桩.pdf",
+    "芯片封装/可焊性实验过程中，蒸汽预处理方案的相对湿度为何不需要监控？.md",
+    "射频方案/天线的基础知识.md",
     "readme.assets/640 22.gif",
     "readme.assets/640 21.gif",
     "射频方案/可靠性试验中常用的相对湿度(RH)具体指的是什么？.md",
-    "射频方案/天线的基础知识.md",
     "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
     "射频方案/时钟展频技术在辐射发射问题调试中的应用.md",
     "射频方案/接收机各模块功能解析.md",
@@ -224,8 +198,6 @@
     "电气/电流互感器S2到底接不接地.md",
     "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
     "PCB/滤波方法",
-    "PCB/常用工具/I2C调试器.md",
     "PCB/常用工具"
   ]
->>>>>>> 0cf93447a5f6eb05d037c95b26469b10b41c3348
 }
