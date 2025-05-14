@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电气/进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用.md",
+                "file": "Power/实时嵌入式应用的锂电池新型SOH估计方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用"
+              "title": "实时嵌入式应用的锂电池新型SOH估计方法"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电气/进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用.md",
+                "file": "Power/实时嵌入式应用的锂电池新型SOH估计方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用 的大纲"
+              "title": "实时嵌入式应用的锂电池新型SOH估计方法 的大纲"
             }
           }
         ],
@@ -167,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad4948214fd04344",
+  "active": "559d547c160cf638",
   "lastOpenFiles": [
+    "电气/进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用.md",
+    "Power/实时嵌入式应用的锂电池新型SOH估计方法.md",
     "芯片封装/可焊性实验过程中，蒸汽预处理方案的相对湿度为何不需要监控？.md",
     "Power/充电桩.pdf",
-    "电气/进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用.md",
     "ADC芯片/ADC 五大架构特点.md"
   ]
 }
