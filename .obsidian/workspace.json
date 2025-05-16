@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/抖动与相位噪声：深入解析时钟信号的稳定度.md",
+                "file": "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抖动与相位噪声：深入解析时钟信号的稳定度"
+              "title": "混合信号 PCB 的布局设计的基本准则是什么？"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/抖动与相位噪声：深入解析时钟信号的稳定度.md",
+                "file": "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "抖动与相位噪声：深入解析时钟信号的稳定度 的大纲"
+              "title": "混合信号 PCB 的布局设计的基本准则是什么？ 的大纲"
             }
           }
         ],
@@ -170,6 +170,7 @@
   "active": "2a15e1f77c257e44",
   "lastOpenFiles": [
     "射频方案/抖动与相位噪声：深入解析时钟信号的稳定度.md",
+    "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
     "PCB/PCB Layout设计要点全解析.md",
     "ADC芯片/实际项目中，工程师都用过哪个段位的国产ADC？.md",
     "Power/实时嵌入式应用的锂电池新型SOH估计方法.md",
