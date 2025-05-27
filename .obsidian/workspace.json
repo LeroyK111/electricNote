@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a4bf03b7b62fcff6",
+        "id": "f8e7fd7c3ab025cb",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd13be0b654bd80",
+            "id": "e312f5d937d40a62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "芯片封装/封装分层是如何引起键合金丝熔断？.md",
-                "mode": "source",
-                "source": false
+                "file": "CarSystem/autosar ecu设备.pdf"
               },
-              "icon": "lucide-file",
-              "title": "封装分层是如何引起键合金丝熔断？"
+              "icon": "lucide-file-text",
+              "title": "autosar ecu设备"
             }
           }
         ]
@@ -94,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/封装分层是如何引起键合金丝熔断？.md",
+                "file": "CarSystem/autosar ecu设备.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "封装分层是如何引起键合金丝熔断？ 的大纲"
+              "title": "autosar ecu设备 的大纲"
             }
           },
           {
@@ -166,8 +164,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cd13be0b654bd80",
+  "active": "e312f5d937d40a62",
   "lastOpenFiles": [
+    "射频方案/卫星通信与地面通信调制方式的区别.md",
+    "CarSystem/autosar ecu设备.pdf",
     "芯片封装/封装分层是如何引起键合金丝熔断？.md",
     "Power/如何成功设计电源模块.md",
     "射频方案/功率放大器的阻抗计算.md",
