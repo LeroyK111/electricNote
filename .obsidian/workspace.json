@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e7fd7c3ab025cb",
+        "id": "2da8aa6ad5c0faf9",
         "type": "tabs",
         "children": [
           {
-            "id": "e312f5d937d40a62",
+            "id": "626e8699fbbc0978",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CarSystem/autosar ecu设备.pdf"
+                "file": "射频方案/跳频扩频技术详解：原理、应用、检测与挑战.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "autosar ecu设备"
+              "icon": "lucide-file",
+              "title": "跳频扩频技术详解：原理、应用、检测与挑战"
             }
           }
         ]
@@ -92,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CarSystem/autosar ecu设备.pdf",
+                "file": "射频方案/跳频扩频技术详解：原理、应用、检测与挑战.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "autosar ecu设备 的大纲"
+              "title": "跳频扩频技术详解：原理、应用、检测与挑战 的大纲"
             }
           },
           {
@@ -164,10 +166,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e312f5d937d40a62",
+  "active": "626e8699fbbc0978",
   "lastOpenFiles": [
-    "射频方案/卫星通信与地面通信调制方式的区别.md",
+    "射频方案/星座图与调制方式.md",
+    "射频方案/未命名.md",
+    "射频方案/射频基础—杂散是什么？.md",
+    "射频方案/射频进阶—如何选择合适的中频.md",
+    "射频方案/跳频扩频技术详解：原理、应用、检测与挑战.md",
+    "Power/低负载高效率的BUCK是如何实现的？.md",
+    "电气/电源输入端防反接方案.md",
     "CarSystem/autosar ecu设备.pdf",
+    "射频方案/卫星通信与地面通信调制方式的区别.md",
     "芯片封装/封装分层是如何引起键合金丝熔断？.md",
     "Power/如何成功设计电源模块.md",
     "射频方案/功率放大器的阻抗计算.md",
