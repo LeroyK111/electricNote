@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b4d42aa77a3c684",
+        "id": "9114491c44c2cd25",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8ffdcd977ddd48",
+            "id": "6df803a9944c0c47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power/电荷泵的优雅进化：如何用LDO驯服纹波怪兽.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "电荷泵的优雅进化：如何用LDO驯服纹波怪兽"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Power/电荷泵的优雅进化：如何用LDO驯服纹波怪兽.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电荷泵的优雅进化：如何用LDO驯服纹波怪兽 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -166,12 +161,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cb8ffdcd977ddd48",
+  "active": "6df803a9944c0c47",
   "lastOpenFiles": [
+    "PCB/常用电子元器件/图解电子元器件内部结构.pdf",
+    "射频方案/抗干扰技术你了解哪些？.md",
+    "PCB/常用电子元器件",
     "Power/电荷泵的优雅进化：如何用LDO驯服纹波怪兽.md",
     "射频方案/跳频扩频技术详解：原理、应用、检测与挑战.md",
     "射频方案/星座图与调制方式.md",
-    "射频方案/未命名.md",
     "射频方案/射频基础—杂散是什么？.md",
     "射频方案/射频进阶—如何选择合适的中频.md",
     "Power/低负载高效率的BUCK是如何实现的？.md",
