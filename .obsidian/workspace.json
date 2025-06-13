@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9114491c44c2cd25",
+        "id": "add195d32ba04e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "6df803a9944c0c47",
+            "id": "a2b211cf3ba3dcba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "射频方案/DDS杂散分析及原理.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DDS杂散分析及原理"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/DDS杂散分析及原理.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "DDS杂散分析及原理 的大纲"
             }
           },
           {
@@ -161,11 +164,32 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6df803a9944c0c47",
+  "active": "a2b211cf3ba3dcba",
   "lastOpenFiles": [
-    "PCB/常用电子元器件/图解电子元器件内部结构.pdf",
+    "射频方案/DDS杂散分析.md",
+    "射频方案/DDS杂散分析及原理.pdf",
+    "芯片封装/Pre condition后进须在多长时间内进行HAST实验？.md",
+    "射频方案/锁相环（PLL）的原理及设计：从基础架构到工程实践.pdf",
+    "射频方案/测试工具/通信系统关键指标解析：EVM 的原理、测量与 SystemVue 仿真验证.pdf",
+    "PCB/常用工具/四种直流电流采样方法.pdf",
+    "射频方案/测试工具/频谱测试仪.pdf",
+    "PCB/电路分析/5V过压保护电路.md",
+    "射频方案/频谱测试仪.pdf",
+    "ChipInstructionSet/RISC-V/RISC-V.md",
+    "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
+    "ChipInstructionSet/RISC-V/未命名.md",
+    "电气/基于边缘计算的电力物联网组网方案研究.pdf",
+    "电气/基于边缘计算的电力物联网组网方案研究.md",
+    "射频方案/射频面试/射频系统需求分析与功放设计关键技术.pdf",
+    "射频方案/射频面试/射频系统需求分析与功放设计关键技术.md",
+    "常见芯片/如何避免BOOST无法完全关断的问题？.md",
+    "常见芯片/电源芯片正、负输出分别对地短路现象不同.md",
+    "ChipInstructionSet/HMC混合内存立方打败HBM高带宽内存.pdf",
+    "FPGA/可编程硬件.pdf",
+    "射频方案/幅度（AM）解调的原理与实现.md",
+    "射频方案/互调效应：挑战、解决方案与有源无源影响分析.md",
+    "芯片封装/NSOL侦测的大致原理.md",
     "射频方案/抗干扰技术你了解哪些？.md",
-    "PCB/常用电子元器件",
     "Power/电荷泵的优雅进化：如何用LDO驯服纹波怪兽.md",
     "射频方案/跳频扩频技术详解：原理、应用、检测与挑战.md",
     "射频方案/星座图与调制方式.md",
@@ -173,22 +197,10 @@
     "射频方案/射频进阶—如何选择合适的中频.md",
     "Power/低负载高效率的BUCK是如何实现的？.md",
     "电气/电源输入端防反接方案.md",
-    "CarSystem/autosar ecu设备.pdf",
     "射频方案/卫星通信与地面通信调制方式的区别.md",
     "芯片封装/封装分层是如何引起键合金丝熔断？.md",
     "Power/如何成功设计电源模块.md",
     "射频方案/功率放大器的阻抗计算.md",
-    "射频方案/正交相移键控 (QPSK) 的深入解析：原理、星座图、解调与性能分析.md",
-    "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
-    "射频方案/锁环的设计与实现.md",
-    "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
-    "射频方案/抖动与相位噪声：深入解析时钟信号的稳定度.md",
-    "PCB/PCB Layout设计要点全解析.md",
-    "ADC芯片/实际项目中，工程师都用过哪个段位的国产ADC？.md",
-    "Power/实时嵌入式应用的锂电池新型SOH估计方法.md",
-    "电气/进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用.md",
-    "芯片封装/可焊性实验过程中，蒸汽预处理方案的相对湿度为何不需要监控？.md",
-    "Power/充电桩.pdf",
-    "ADC芯片/ADC 五大架构特点.md"
+    "射频方案/正交相移键控 (QPSK) 的深入解析：原理、星座图、解调与性能分析.md"
   ]
 }
