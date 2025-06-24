@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f0e0c3a0f1a993",
+        "id": "850a2c2b2abe7bc4",
         "type": "tabs",
         "children": [
           {
-            "id": "32485714c805109d",
+            "id": "5ec58f8e433050ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
+                "file": "射频方案/进阶/射频系统设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "封装热阻Rjb的仿真环境如何建立"
+              "title": "射频系统设计"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
+                "file": "射频方案/进阶/射频系统设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "封装热阻Rjb的仿真环境如何建立 的大纲"
+              "title": "射频系统设计 的大纲"
             }
           },
           {
@@ -166,10 +166,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad4948214fd04344",
+  "active": "5ec58f8e433050ad",
   "lastOpenFiles": [
-    "常见芯片/LDO还在用1117.md",
+    "PCB/电路分析/工程师总结10种复杂电路分析方法.md",
+    "射频方案/进阶/射频系统设计.md",
+    "射频方案/进阶",
+    "PCB/电路分析/反相输入放大器的坑.md",
     "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
+    "常见芯片/LDO还在用1117.md",
     "芯片封装/封装热阻Rjb的仿真环境如何建立？.md",
     "电气/频率和带宽如何选择.pdf",
     "PCB/常见电子元器件等效电路/readme.md",
@@ -194,7 +198,6 @@
     "ChipInstructionSet/RISC-V/未命名.md",
     "电气/基于边缘计算的电力物联网组网方案研究.pdf",
     "电气/基于边缘计算的电力物联网组网方案研究.md",
-    "射频方案/射频面试/射频系统需求分析与功放设计关键技术.pdf",
     "射频方案/射频面试/射频系统需求分析与功放设计关键技术.md",
     "常见芯片/如何避免BOOST无法完全关断的问题？.md",
     "常见芯片/电源芯片正、负输出分别对地短路现象不同.md",
@@ -202,9 +205,6 @@
     "射频方案/互调效应：挑战、解决方案与有源无源影响分析.md",
     "芯片封装/NSOL侦测的大致原理.md",
     "射频方案/抗干扰技术你了解哪些？.md",
-    "Power/电荷泵的优雅进化：如何用LDO驯服纹波怪兽.md",
-    "射频方案/跳频扩频技术详解：原理、应用、检测与挑战.md",
-    "射频方案/星座图与调制方式.md",
-    "射频方案/射频基础—杂散是什么？.md"
+    "Power/电荷泵的优雅进化：如何用LDO驯服纹波怪兽.md"
   ]
 }
