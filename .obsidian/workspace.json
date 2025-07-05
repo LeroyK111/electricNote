@@ -11,10 +11,14 @@
             "id": "dbb6dbc591b1f976",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/封装孔.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "封装孔"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/封装孔.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "封装孔 的大纲"
             }
           },
           {
@@ -163,6 +168,11 @@
   },
   "active": "dbb6dbc591b1f976",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20250705143713.png",
+    "readme.assets/Pasted image 20250705143701.png",
+    "readme.assets/Pasted image 20250705143647.png",
+    "readme.assets/Pasted image 20250705143638.png",
+    "PCB/封装孔.md",
     "射频方案/LDMOS与GAN的对比分析.md",
     "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/名词解释",
@@ -198,8 +208,6 @@
     "电气/基于边缘计算的电力物联网组网方案研究.md",
     "射频方案/射频面试/射频系统需求分析与功放设计关键技术.md",
     "常见芯片/如何避免BOOST无法完全关断的问题？.md",
-    "常见芯片/电源芯片正、负输出分别对地短路现象不同.md",
-    "射频方案/幅度（AM）解调的原理与实现.md",
-    "射频方案/互调效应：挑战、解决方案与有源无源影响分析.md"
+    "常见芯片/电源芯片正、负输出分别对地短路现象不同.md"
   ]
 }
