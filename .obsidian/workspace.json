@@ -11,10 +11,14 @@
             "id": "04a8f98e9ecf58a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/射频电路的本质是什么.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "射频电路的本质是什么"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/射频电路的本质是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "射频电路的本质是什么 的大纲"
             }
           },
           {
@@ -161,8 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad4948214fd04344",
+  "active": "04a8f98e9ecf58a5",
   "lastOpenFiles": [
+    "芯片封装/BHAST一定比UHAST考核强度高吗？——为什么有的电子产品放两年就坏了，用却可以用5年？.md",
+    "射频方案/射频电路的本质是什么.md",
     "射频方案/进阶/辐射灵敏度与接收灵敏度区别与联系.pdf",
     "射频方案/进阶/趋肤效应的影响及解决办法.pdf",
     "射频方案/测试工具/射频器件如何调试.pdf",
@@ -196,14 +203,12 @@
     "射频方案/DDS杂散分析及原理.pdf",
     "射频方案/DDS杂散分析.md",
     "芯片封装/Pre condition后进须在多长时间内进行HAST实验？.md",
-    "射频方案/锁相环（PLL）的原理及设计：从基础架构到工程实践.pdf",
     "PCB/电路分析/5V过压保护电路.md",
     "ChipInstructionSet/RISC-V/RISC-V.md",
     "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
     "ChipInstructionSet/RISC-V/未命名.md",
     "电气/基于边缘计算的电力物联网组网方案研究.md",
     "射频方案/射频面试/射频系统需求分析与功放设计关键技术.md",
-    "常见芯片/如何避免BOOST无法完全关断的问题？.md",
-    "常见芯片/电源芯片正、负输出分别对地短路现象不同.md"
+    "常见芯片/如何避免BOOST无法完全关断的问题？.md"
   ]
 }
