@@ -11,10 +11,14 @@
             "id": "88b6d4b3de386dea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/电路分析/TL431震荡.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "TL431震荡"
             }
           }
         ]
@@ -135,12 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/电路分析/TL431震荡.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "TL431震荡 的大纲"
             }
           }
         ],
@@ -162,6 +167,7 @@
   },
   "active": "88b6d4b3de386dea",
   "lastOpenFiles": [
+    "PCB/电路分析/TL431震荡.md",
     "芯片封装/集成电路封装设备介绍——减薄与划片工序.md",
     "芯片封装/键合金丝的寄生电感估算.md",
     "芯片封装/键合金丝安全电流分析.md",
@@ -190,7 +196,6 @@
     "芯片封装/塑封料电学参数介绍.md",
     "芯片封装/塑封料各参数指标对封装的影响.md",
     "芯片封装/名词解释",
-    "芯片封装/可靠性测试取样规范.md",
     "芯片封装",
     "电气/频率和带宽如何选择.pdf",
     "电气/送电核相测相量(电压核相).pdf",
