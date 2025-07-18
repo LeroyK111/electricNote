@@ -1,8 +1,12 @@
 {
   "alwaysUpdateLinks": true,
+<<<<<<< HEAD
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "readme.assets",
   "showInlineTitle": false,
+=======
+  "newFileLocation": "current",
+>>>>>>> 0bc2f3f (1)
   "promptDelete": false
 }

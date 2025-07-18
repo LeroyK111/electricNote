@@ -1,5 +1,12 @@
 {
+<<<<<<< HEAD
   "showViewHeader": true,
   "showRibbon": true,
   "theme": "obsidian"
+=======
+  "accentColor": "",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": true
+>>>>>>> 0bc2f3f (1)
 }
