@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9f8730b17ef49698",
+    "id": "aad960feb55f9fab",
     "type": "split",
     "children": [
       {
-        "id": "7c0d34b18a371a10",
+        "id": "c0c8a1db4e20b8c6",
         "type": "tabs",
         "children": [
           {
-            "id": "88b6d4b3de386dea",
+            "id": "6c62a8c357e7ad6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/电路分析/TL431震荡.md",
+                "file": "芯片封装/塑封料电学参数介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TL431震荡"
+              "title": "塑封料电学参数介绍"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e793ab31405097da",
+    "id": "a39cef672eea7138",
     "type": "split",
     "children": [
       {
-        "id": "e4be546e07dd75b0",
+        "id": "aba4d80ea4ee0369",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b24748232a5187",
+            "id": "ad4948214fd04344",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "d211c9bc20d0d9a9",
+            "id": "ec8141af3d64dfc3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f4389d02e38f8041",
+            "id": "edb4692035988e01",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,35 @@
     "width": 200
   },
   "right": {
-    "id": "a226f315a9433315",
+    "id": "8c5160007eabf37b",
     "type": "split",
     "children": [
       {
-        "id": "0f1f213f70009ce6",
+        "id": "d847663c44b4b7a4",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6a416cf47e4725",
+            "id": "20f77a5a0e99ec1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "芯片封装/塑封料电学参数介绍.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "塑封料电学参数介绍 的大纲"
+            }
+          },
+          {
+            "id": "b13a9717d5db331d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/readme.md",
+                "file": "电气/进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +119,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "readme 的反向链接列表"
+              "title": "进线柜、出线柜、计量柜、PT柜、联络柜、隔离柜的组成和作用 的反向链接列表"
             }
           },
           {
-            "id": "3bc48958e7f7b84a",
+            "id": "3685a2b46cdf6ed4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,35 +136,21 @@
             }
           },
           {
-            "id": "b54830dd0407942e",
+            "id": "4deb19bc35b06662",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "2cba5223363b6169",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "PCB/电路分析/TL431震荡.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "TL431震荡 的大纲"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,53 +166,50 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88b6d4b3de386dea",
+  "active": "6c62a8c357e7ad6d",
   "lastOpenFiles": [
     "PCB/电路分析/TL431震荡.md",
-    "芯片封装/集成电路封装设备介绍——减薄与划片工序.md",
-    "芯片封装/键合金丝的寄生电感估算.md",
-    "芯片封装/键合金丝安全电流分析.md",
-    "芯片封装/量产异常.md",
-    "芯片封装/简单聊聊WB劈刀选型及参数调试经验——劈刀参数介绍.md",
-    "芯片封装/晶圆是如何制造出来的.pdf",
-    "芯片封装/教程/适合封装工程师学习的仿真软件及推荐教程.md",
-    "芯片封装/教程",
-    "芯片封装/技术探讨——为什么脱球的产品扫描x-ray时焊球图形有时会变大？.md",
-    "芯片封装/我们常说的Low-K指的是什么？为什么要用Low-k材料？它对封装有什么影响？.md",
-    "芯片封装/快闪存储单元的读、写原理.md",
-    "芯片封装/射频器件封装时，键合金丝间距为什么会对其性能产生影响.md",
-    "芯片封装/封装遇到异常时应如何正确抽样验证？.md",
-    "芯片封装/封装设计小技巧——如何将IC设计工程师提供的芯片pad location文件快速转换为CAD图形.md",
-    "芯片封装/封装裸露型散热焊盘EPAD厚度对热阻的影响.md",
-    "芯片封装/封装热阻Rjb的仿真环境如何建立？.md",
-    "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
-    "芯片封装/封装分层是如何引起键合金丝熔断？.md",
-    "芯片封装/封装分层介绍及JEDEC分层标准.md",
-    "芯片封装/封装了那么多年MOS芯片，是不是也应该了解下其基本工作原理.md",
-    "芯片封装/如何理解UHAST实验中铝焊盘的电化学腐蚀？.md",
-    "芯片封装/如何根据芯片面积快速评估QFN封装尺寸(Wire Bonding 工艺)？.md",
-    "芯片封装/奇怪的封装命名之PDFN.md",
-    "芯片封装/塑封料的Tg温度是如何影响分层的？.md",
-    "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/塑封料电学参数介绍.md",
-    "芯片封装/塑封料各参数指标对封装的影响.md",
-    "芯片封装/名词解释",
-    "芯片封装",
-    "电气/频率和带宽如何选择.pdf",
-    "电气/送电核相测相量(电压核相).pdf",
-    "电气/电工手册.pdf",
-    "电气/基于边缘计算的电力物联网组网方案研究.pdf",
-    "电气",
-    "射频方案/锁相环（PLL）的原理及设计：从基础架构到工程实践.pdf",
-    "readme.assets/微信图片_20241228095141.png",
+    "射频方案/AGC 启动前后链路工作机制详解.md",
+    "射频方案/射频面试/射频指标及其含义.md",
+    "Power/静态电流与关断电流对电池设备续航的影响.md",
+    "PCB/动态调整电源芯片输出电压.md",
     "readme.assets/Pasted image 20250716211440.png",
+    "readme.assets/640.wxpic",
+    "射频方案/什么是负载牵引.md",
+    "射频方案/射频电路的本质是什么.md",
+    "芯片封装/BHAST一定比UHAST考核强度高吗？——为什么有的电子产品放两年就坏了，用却可以用5年？.md",
+    "射频方案/进阶/辐射灵敏度与接收灵敏度区别与联系.pdf",
+    "射频方案/进阶/趋肤效应的影响及解决办法.pdf",
+    "射频方案/测试工具/射频器件如何调试.pdf",
+    "射频方案/进阶/sinad下的灵敏度.pdf",
+    "射频方案/进阶/信号失真的原因及分析.pdf",
+    "PCB/封装孔.md",
     "readme.assets/Pasted image 20250705143713.png",
     "readme.assets/Pasted image 20250705143701.png",
     "readme.assets/Pasted image 20250705143647.png",
     "readme.assets/Pasted image 20250705143638.png",
+    "射频方案/LDMOS与GAN的对比分析.md",
+    "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
+    "芯片封装/名词解释",
+    "射频方案/耗散功率.md",
+    "射频方案/进阶/射频系统设计.md",
+    "PCB/电路分析/工程师总结10种复杂电路分析方法.md",
+    "射频方案/进阶",
+    "PCB/电路分析/反相输入放大器的坑.md",
+    "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
+    "常见芯片/LDO还在用1117.md",
+    "芯片封装/封装热阻Rjb的仿真环境如何建立？.md",
+    "电气/频率和带宽如何选择.pdf",
+    "PCB/常见电子元器件等效电路/readme.md",
+    "射频方案/什么是频谱泄露？.md",
+    "PCB/常见电子元器件等效电路",
+    "射频方案/微带线、带状线、共面波导的介绍与对比.md",
     "readme.assets/Pasted image 20250620230541.png",
+    "射频方案/IQ 调制的缺陷成因、理论分析及解决方案.md",
     "readme.assets/Pasted image 20250620132224.png",
-    "readme.assets/Pasted image 20250511204652.png",
-    "readme.assets/Pasted image 20250417133208.png"
+    "射频方案/峰均比：你了解多少？.md",
+    "射频方案/DDS杂散分析.md",
+    "芯片封装/Pre condition后进须在多长时间内进行HAST实验？.md"
   ]
 }
