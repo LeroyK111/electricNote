@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c8a1db4e20b8c6",
+        "id": "028a581def00bd2a",
         "type": "tabs",
         "children": [
           {
-            "id": "6c62a8c357e7ad6d",
+            "id": "55c1a8c7d2b6452b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "芯片封装/塑封料电学参数介绍.md",
+                "file": "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "塑封料电学参数介绍"
+              "title": "器件考核MSL通过后意味着什么？"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/塑封料电学参数介绍.md",
+                "file": "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "塑封料电学参数介绍 的大纲"
+              "title": "器件考核MSL通过后意味着什么？ 的大纲"
             }
           },
           {
@@ -166,10 +166,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c62a8c357e7ad6d",
+  "active": "55c1a8c7d2b6452b",
   "lastOpenFiles": [
-    "PCB/电路分析/TL431震荡.md",
+    "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
+    "芯片封装/未命名",
+    "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
+    "Power/直通模式DC-DC如何提升效率.md",
+    "Pasted image 20250728104719.png",
+    "射频方案/Σ-Δ调制器的原理及在锁相环的应用.md",
+    "芯片封装/工序/上芯工序的八大金刚——与位置结构相关的品控指标在封装设计中扮演什么样的角色.md",
+    "芯片封装/邻道泄漏抑制比（ACLR）与误差向量幅度（EVM）的换算关系.md",
+    "芯片封装/工序",
+    "芯片封装/引线键合中的高尔夫球的成因.md",
+    "PLC/15个PLC必备的基础知识！.md",
+    "PLC/2025年主流PLC.md",
     "芯片封装/塑封料电学参数介绍.md",
+    "PCB/电路分析/TL431震荡.md",
     "射频方案/AGC 启动前后链路工作机制详解.md",
     "射频方案/射频面试/射频指标及其含义.md",
     "Power/静态电流与关断电流对电池设备续航的影响.md",
@@ -198,18 +210,7 @@
     "射频方案/进阶",
     "PCB/电路分析/反相输入放大器的坑.md",
     "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
-    "常见芯片/LDO还在用1117.md",
-    "芯片封装/封装热阻Rjb的仿真环境如何建立？.md",
-    "电气/频率和带宽如何选择.pdf",
-    "PCB/常见电子元器件等效电路/readme.md",
-    "射频方案/什么是频谱泄露？.md",
-    "PCB/常见电子元器件等效电路",
-    "射频方案/微带线、带状线、共面波导的介绍与对比.md",
     "readme.assets/Pasted image 20250620230541.png",
-    "射频方案/IQ 调制的缺陷成因、理论分析及解决方案.md",
-    "readme.assets/Pasted image 20250620132224.png",
-    "射频方案/峰均比：你了解多少？.md",
-    "射频方案/DDS杂散分析.md",
-    "芯片封装/Pre condition后进须在多长时间内进行HAST实验？.md"
+    "readme.assets/Pasted image 20250620132224.png"
   ]
 }
