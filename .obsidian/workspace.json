@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "405e4254388babc8",
+        "id": "6b02b5f774034399",
         "type": "tabs",
         "children": [
           {
-            "id": "1295ef70871a5b32",
+            "id": "fb8e0fa96b866c93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Power/直通模式DC-DC如何提升效率.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "直通模式DC-DC如何提升效率"
             }
           }
         ]
@@ -90,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
+                "file": "Power/直通模式DC-DC如何提升效率.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "器件考核MSL通过后意味着什么？ 的大纲"
+              "title": "直通模式DC-DC如何提升效率 的大纲"
             }
           },
           {
@@ -164,11 +168,13 @@
   },
   "active": "ad4948214fd04344",
   "lastOpenFiles": [
+    "常见芯片/一篇文章彻底搞懂：以太网变压器的原理、应用、EMC等知识！.pdf",
+    "PCB/一篇文章彻底搞懂：以太网变压器的原理、应用、EMC等知识！.md",
     "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
     "芯片封装/未命名",
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
     "Power/直通模式DC-DC如何提升效率.md",
-    "Pasted image 20250728104719.png",
+    "readme.assets/Pasted image 20250728104719.png",
     "射频方案/Σ-Δ调制器的原理及在锁相环的应用.md",
     "芯片封装/工序/上芯工序的八大金刚——与位置结构相关的品控指标在封装设计中扮演什么样的角色.md",
     "芯片封装/邻道泄漏抑制比（ACLR）与误差向量幅度（EVM）的换算关系.md",
@@ -203,9 +209,6 @@
     "射频方案/耗散功率.md",
     "射频方案/进阶/射频系统设计.md",
     "PCB/电路分析/工程师总结10种复杂电路分析方法.md",
-    "射频方案/进阶",
-    "PCB/电路分析/反相输入放大器的坑.md",
-    "芯片封装/封装热阻Rjb的仿真环境如何建立.md",
     "readme.assets/Pasted image 20250620230541.png",
     "readme.assets/Pasted image 20250620132224.png"
   ]

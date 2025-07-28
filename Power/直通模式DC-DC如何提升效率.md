@@ -40,6 +40,11 @@ BOOST的直通模式需要再增加一个开关管，连通VIN与VOUT，当输�
 
 总结来说直通模式的DC-DC虽然效率高，但是使用条件太苛刻了，基本都需要二级降压才行， 可能本来就是为了有二级电源的系统设计的吧。
 
+![](https://raw.githubusercontent.com/LeroyK111/pictureBed/master/20250728124120.png)
+
+![](https://raw.githubusercontent.com/LeroyK111/pictureBed/master/20250728124146.png)
+![](https://raw.githubusercontent.com/LeroyK111/pictureBed/master/20250728124251.png)
+
 
 
 
