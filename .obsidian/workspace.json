@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6b02b5f774034399",
+        "id": "3263a85e24bd8f68",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8e0fa96b866c93",
+            "id": "a301d18427b63ebc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Power/直通模式DC-DC如何提升效率.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "直通模式DC-DC如何提升效率"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "射频进阶—如何选择合适的中频",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Power/直通模式DC-DC如何提升效率.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "直通模式DC-DC如何提升效率 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -168,12 +163,15 @@
   },
   "active": "ad4948214fd04344",
   "lastOpenFiles": [
+    "射频方案/射频进阶—如何选择合适的中频.md",
+    "射频方案/锁相环的杂散怎么优化.md",
+    "Power/直通模式DC-DC如何提升效率.md",
+    "射频方案/未命名.md",
     "常见芯片/一篇文章彻底搞懂：以太网变压器的原理、应用、EMC等知识！.pdf",
     "PCB/一篇文章彻底搞懂：以太网变压器的原理、应用、EMC等知识！.md",
     "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
     "芯片封装/未命名",
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
-    "Power/直通模式DC-DC如何提升效率.md",
     "readme.assets/Pasted image 20250728104719.png",
     "射频方案/Σ-Δ调制器的原理及在锁相环的应用.md",
     "芯片封装/工序/上芯工序的八大金刚——与位置结构相关的品控指标在封装设计中扮演什么样的角色.md",
@@ -207,8 +205,6 @@
     "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/名词解释",
     "射频方案/耗散功率.md",
-    "射频方案/进阶/射频系统设计.md",
-    "PCB/电路分析/工程师总结10种复杂电路分析方法.md",
     "readme.assets/Pasted image 20250620230541.png",
     "readme.assets/Pasted image 20250620132224.png"
   ]
