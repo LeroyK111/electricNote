@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d3ac5a3a824f665",
+        "id": "55521e00ac9204d4",
         "type": "tabs",
         "children": [
           {
-            "id": "b4bea14245d8a49b",
+            "id": "f2e348b3f26b92c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/峰均比是什么？CFR销峰对功放设计的影响.md",
+                "file": "芯片封装/工序/上芯工序的八大金刚——与贴装强度相关的品控指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "峰均比是什么？CFR销峰对功放设计的影响"
+              "title": "上芯工序的八大金刚——与贴装强度相关的品控指标"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "射频方案/峰均比是什么？CFR销峰对功放设计的影响.md",
+                "file": "芯片封装/工序/上芯工序的八大金刚——与贴装强度相关的品控指标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "峰均比是什么？CFR销峰对功放设计的影响 的反向链接列表"
+              "title": "上芯工序的八大金刚——与贴装强度相关的品控指标 的反向链接列表"
             }
           },
           {
@@ -167,8 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b4bea14245d8a49b",
+  "active": "f2e348b3f26b92c6",
   "lastOpenFiles": [
+    "芯片封装/工序/上芯工序的八大金刚——与位置结构相关的品控指标在封装设计中扮演什么样的角色.md",
+    "芯片封装/工序/上芯工序的八大金刚——与贴装强度相关的品控指标.md",
+    "射频方案/解决问题是一种重要的能力—功放烧毁分析.md",
+    "射频方案/学习方式/readme.md",
+    "射频方案/学习方式",
     "射频方案/峰均比是什么？CFR销峰对功放设计的影响.md",
     "PCB/隔离原理.md",
     "射频方案/功放的宽带匹配设计.md"
