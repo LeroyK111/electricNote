@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80e54c3e9aadaa06",
+        "id": "6840943f21d63114",
         "type": "tabs",
         "children": [
           {
-            "id": "ec28facbe31e97a9",
+            "id": "408cec13284e7bea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/doherty是如何实现效率提升.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "doherty是如何实现效率提升"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "射频方案/doherty是如何实现效率提升.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "doherty是如何实现效率提升 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -167,10 +162,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ec28facbe31e97a9",
+  "active": "408cec13284e7bea",
   "lastOpenFiles": [
-    "射频方案/Doherty 功率放大器技术解析.md",
+    "射频方案/射频知识用多少—负反馈在射频电路中的应用.md",
+    "射频方案/什么是比特率，什么是波特率.md",
     "射频方案/doherty是如何实现效率提升.md",
+    "射频方案/Doherty 功率放大器技术解析.md",
     "芯片封装/工序/PLCSP封装工艺.md",
     "射频方案/射频面试/FDD与TDD的设计区别.md",
     "芯片封装/介电常数是如何影响封装寄生电容的？.md",
