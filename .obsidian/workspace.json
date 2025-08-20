@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6840943f21d63114",
+        "id": "4c365b650316ada6",
         "type": "tabs",
         "children": [
           {
-            "id": "408cec13284e7bea",
+            "id": "af3a6ed0bebb5913",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -162,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "408cec13284e7bea",
+  "active": "af3a6ed0bebb5913",
   "lastOpenFiles": [
     "射频方案/射频知识用多少—负反馈在射频电路中的应用.md",
     "射频方案/什么是比特率，什么是波特率.md",
