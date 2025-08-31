@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e91bab0f8911983",
+        "id": "a896cda8dc3b0cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "b18cae915f9c298e",
+            "id": "a9b5f291acfb3160",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/射频面试/射频工程师等级及要求.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "射频工程师等级及要求"
             }
           }
         ]
@@ -85,11 +89,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f9a4ff3d93c62c5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "射频方案/射频面试/射频工程师等级及要求.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "射频工程师等级及要求 的大纲"
+            }
+          },
+          {
             "id": "6198b197ca143540",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "射频方案/射频面试/射频工程师等级及要求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "射频工程师等级及要求 的反向链接列表"
             }
           },
           {
@@ -130,27 +150,12 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "f9a4ff3d93c62c5f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "PCB/隔离原理.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "隔离原理 的大纲"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +168,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b18cae915f9c298e",
+  "active": "a9b5f291acfb3160",
   "lastOpenFiles": [
+    "射频方案/射频面试/射频工程师等级及要求.md",
     "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.pdf",
     "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.md",
