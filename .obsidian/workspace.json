@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -163,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea7904e7ee8e218a",
+  "active": "ddc4fed0229a42fd",
   "lastOpenFiles": [
     "Power/充电桩.pdf",
     "芯片封装/可焊性实验过程中，蒸汽预处理方案的相对湿度为何不需要监控？.md",
