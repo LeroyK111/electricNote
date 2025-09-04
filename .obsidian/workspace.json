@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81b4de02238d3d3b",
+        "id": "acb2e8767fc6ea89",
         "type": "tabs",
         "children": [
           {
-            "id": "d696caadd2d6d855",
+            "id": "0899143bc25cec0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "README"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -162,11 +167,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d696caadd2d6d855",
+  "active": "0899143bc25cec0c",
   "lastOpenFiles": [
+    "readme.assets/Pasted image 20250904235543.png",
+    "射频方案/卫星通信与地面通信调制方式的区别.md",
+    "readme.assets/Pasted image 20250904235628.png",
+    "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
+    "Power/未命名.md",
+    "Power/一种全工作范围实现零电压开通的高效反激电源控制策略.pdf",
+    "射频方案/卫星.md",
+    "射频方案/测试工具/射频必掌握仪表-矢量网络分析仪.pdf",
+    "射频方案/测试工具/频谱测试仪.pdf",
+    "射频方案/测试工具/通信系统关键指标解析：EVM 的原理、测量与 SystemVue 仿真验证.pdf",
+    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
+    "射频方案/射频必掌握仪表-矢量网络分析仪.md",
     "射频方案/射频面试/射频工程师等级及要求.md",
     "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.pdf",
-    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.md",
     "射频方案/功放测试方法与指标详解.md",
     "PCB/核心板/深圳触觉智能RK3506开发板.md",
@@ -187,13 +203,6 @@
     "芯片封装/介电常数是如何影响封装寄生电容的？.md",
     "Power/电源多路复用.md",
     "射频方案/DDS杂散分析及原理.pdf",
-    "芯片封装/RDL的关键工艺步骤.md",
-    "芯片封装/THB(双85)、BHAST、UHAST.md",
-    "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
-    "射频方案/测试工具/频谱测试仪.pdf",
-    "ADC芯片/ADC是如何影响EVM指标的.md",
-    "射频方案/射频基础—杂散是什么？.md",
-    "芯片封装/工序/上芯工序的八大金刚——与贴装强度相关的品控指标.md",
     "射频方案/学习方式"
   ]
 }
