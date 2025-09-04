@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "399965a76741ead6",
+    "id": "26edbd5c325927a1",
     "type": "split",
     "children": [
       {
-        "id": "e06732904775dc69",
+        "id": "81b4de02238d3d3b",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc4fed0229a42fd",
+            "id": "d696caadd2d6d855",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "042c93763cce08f3",
+    "id": "4f17177042e2a157",
     "type": "split",
     "children": [
       {
-        "id": "f3a76d5b28019dde",
+        "id": "cabf059489d0ea9c",
         "type": "tabs",
         "children": [
           {
-            "id": "ea7904e7ee8e218a",
+            "id": "67b78641b3a44b34",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "d79bcdd91238e911",
+            "id": "f57e23d1a285dde4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "远动",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "e79ddbe28d333159",
+            "id": "b87829c5c65edcdb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,33 @@
     "width": 200
   },
   "right": {
-    "id": "b8e72257da51254c",
+    "id": "4340a983b7b446f5",
     "type": "split",
     "children": [
       {
-        "id": "942a8d70199e7e53",
+        "id": "d134e2addb09fb42",
         "type": "tabs",
         "children": [
           {
-            "id": "cb47588aee3433d4",
+            "id": "f9a4ff3d93c62c5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "6198b197ca143540",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电气/什么是远动、保信、录波接线？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +113,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "什么是远动、保信、录波接线？ 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "39e6a9fed5649158",
+            "id": "e6a361641627a074",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
+                "file": "PCB/隔离原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "如何用systemvue搭建射频、射频与基带链路的仿真 的出链列表"
+              "title": "隔离原理 的出链列表"
             }
           },
           {
-            "id": "19d9f1990b37a0ff",
+            "id": "6777fda344d040e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,27 +144,12 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "ce969f10586b374d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,41 +162,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ddc4fed0229a42fd",
+  "active": "d696caadd2d6d855",
   "lastOpenFiles": [
-    "Power/充电桩.pdf",
-    "芯片封装/可焊性实验过程中，蒸汽预处理方案的相对湿度为何不需要监控？.md",
-    "射频方案/天线的基础知识.md",
-    "readme.assets/640 22.gif",
-    "readme.assets/640 21.gif",
-    "射频方案/可靠性试验中常用的相对湿度(RH)具体指的是什么？.md",
-    "射频方案/射频面试/一个优秀的射频工程师具备哪些技能.md",
-    "射频方案/时钟展频技术在辐射发射问题调试中的应用.md",
-    "射频方案/接收机各模块功能解析.md",
-    "readme.assets/Pasted image 20250511204652.png",
-    "射频方案/相位噪声对单载波调制和OFDM的影响有什么不同.md",
-    "电气/什么是远动、保信、录波接线？.md",
-    "芯片封装/晶圆是如何制造出来的.pdf",
-    "芯片封装/Icepak中JEDEC的2S2P PCB板的等效模型是否值得信赖？.md",
-    "射频方案/零中频各种问题引起的星座图是怎样的？.md",
-    "射频方案/测试工具/射频仪表.md",
-    "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
-    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
-    "Power/开关电源的MOSFET.md",
-    "PLC/IO映射改点.md",
-    "PCB/射频与数模PCB布局设计.pdf",
-    "ChipInstructionSet/RISC-V/低功耗、高性能RISC-V处理器的研究与设计.md",
-    "ChipInstructionSet/RISC-V/RISC-V.md",
-    "ChipInstructionSet/RISC-V/RISC-V指令集及其微控制处理器的开发应用.md",
-    "ChipInstructionSet/RISC-V",
-    "射频方案/如何用systemvue搭建射频、射频与基带链路的仿真.md",
-    "射频方案/ADC的噪底对灵敏度有什么影响.md",
-    "射频方案/雷达.md",
-    "芯片封装/关于Ball Shear Ratio的相关介绍.md",
-    "芯片封装/Wire Bonding参数调试野路子分享——跨芯片线弧怎么野.md",
-    "电气/电流互感器S2到底接不接地.md",
-    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
-    "PCB/滤波方法",
-    "PCB/常用工具"
+    "射频方案/射频面试/射频工程师等级及要求.md",
+    "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.pdf",
+    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
+    "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.md",
+    "射频方案/功放测试方法与指标详解.md",
+    "PCB/核心板/深圳触觉智能RK3506开发板.md",
+    "Power/双电源切换只会用分立器件搭？试试电源多路复用器吧.md",
+    "PCB/核心板",
+    "电气/电气二次回路的标号时的注意事项.md",
+    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
+    "PLC/15个PLC必备的基础知识！.md",
+    "常见芯片/5v to 3.3v.md",
+    "射频方案/进阶/射频器件调试实战：从原理到实操，全面解析关键技巧.md",
+    "射频方案/进阶/射频系统设计.md",
+    "射频方案/射频知识用多少—负反馈在射频电路中的应用.md",
+    "射频方案/什么是比特率，什么是波特率.md",
+    "射频方案/doherty是如何实现效率提升.md",
+    "射频方案/Doherty 功率放大器技术解析.md",
+    "芯片封装/工序/PLCSP封装工艺.md",
+    "射频方案/射频面试/FDD与TDD的设计区别.md",
+    "芯片封装/介电常数是如何影响封装寄生电容的？.md",
+    "Power/电源多路复用.md",
+    "射频方案/DDS杂散分析及原理.pdf",
+    "芯片封装/RDL的关键工艺步骤.md",
+    "芯片封装/THB(双85)、BHAST、UHAST.md",
+    "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
+    "射频方案/测试工具/频谱测试仪.pdf",
+    "ADC芯片/ADC是如何影响EVM指标的.md",
+    "射频方案/射频基础—杂散是什么？.md",
+    "芯片封装/工序/上芯工序的八大金刚——与贴装强度相关的品控指标.md",
+    "射频方案/学习方式"
   ]
 }
