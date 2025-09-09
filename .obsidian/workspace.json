@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "acb2e8767fc6ea89",
+        "id": "a94ff90a19c526e3",
         "type": "tabs",
         "children": [
           {
-            "id": "0899143bc25cec0c",
+            "id": "f68d9a325c41e66e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/卫星通信与地面通信调制方式的区别.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "卫星通信与地面通信调制方式的区别"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "卫星",
+                "query": "基带与射频同",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/卫星通信与地面通信调制方式的区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "卫星通信与地面通信调制方式的区别 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -168,11 +162,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0899143bc25cec0c",
+  "active": "f68d9a325c41e66e",
   "lastOpenFiles": [
+    "未命名.md",
+    "射频方案/基带与射频同源的重要性.pdf",
+    "PCB/电路分析/硬件工程师必须知道的PCBA生产制造工艺.pdf",
+    "PCB/inline ECC.md",
+    "射频方案/进阶/噪声的全面解析.pdf",
+    "芯片封装/工序/温度循环TC.md",
+    "射频方案/进阶/噪声的全面解析：定义、影响、测试与抑制.md",
+    "芯片封装/工序/PLCSP封装工艺.md",
+    "PLC/PLC接线.pdf",
+    "PLC/工控领域必知的58个基础常识及彩图接线！.md",
+    "未命名.base",
+    "射频方案/卫星通信与地面通信调制方式的区别.md",
     "README.md",
     "readme.assets/Pasted image 20250904235543.png",
-    "射频方案/卫星通信与地面通信调制方式的区别.md",
     "readme.assets/Pasted image 20250904235628.png",
     "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
     "Power/未命名.md",
@@ -189,7 +194,6 @@
     "射频方案/功放测试方法与指标详解.md",
     "PCB/核心板/深圳触觉智能RK3506开发板.md",
     "Power/双电源切换只会用分立器件搭？试试电源多路复用器吧.md",
-    "PCB/核心板",
     "电气/电气二次回路的标号时的注意事项.md",
     "PCB/电路中的噪声是怎么回事？如何抑制？.md",
     "PLC/15个PLC必备的基础知识！.md",
@@ -197,14 +201,6 @@
     "射频方案/进阶/射频器件调试实战：从原理到实操，全面解析关键技巧.md",
     "射频方案/进阶/射频系统设计.md",
     "射频方案/射频知识用多少—负反馈在射频电路中的应用.md",
-    "射频方案/什么是比特率，什么是波特率.md",
-    "射频方案/doherty是如何实现效率提升.md",
-    "射频方案/Doherty 功率放大器技术解析.md",
-    "芯片封装/工序/PLCSP封装工艺.md",
-    "射频方案/射频面试/FDD与TDD的设计区别.md",
-    "芯片封装/介电常数是如何影响封装寄生电容的？.md",
-    "Power/电源多路复用.md",
-    "射频方案/DDS杂散分析及原理.pdf",
-    "射频方案/学习方式"
+    "射频方案/什么是比特率，什么是波特率.md"
   ]
 }
