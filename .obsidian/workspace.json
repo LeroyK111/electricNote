@@ -11,10 +11,12 @@
             "id": "f68d9a325c41e66e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "PCB/电路分析/电池采样电路异常.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "电池采样电路异常"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/电路分析/电池采样电路异常.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "电池采样电路异常 的大纲"
             }
           },
           {
@@ -164,6 +167,7 @@
   },
   "active": "f68d9a325c41e66e",
   "lastOpenFiles": [
+    "PCB/电路分析/电池采样电路异常.pdf",
     "未命名.md",
     "射频方案/基带与射频同源的重要性.pdf",
     "PCB/电路分析/硬件工程师必须知道的PCBA生产制造工艺.pdf",
@@ -200,7 +204,6 @@
     "常见芯片/5v to 3.3v.md",
     "射频方案/进阶/射频器件调试实战：从原理到实操，全面解析关键技巧.md",
     "射频方案/进阶/射频系统设计.md",
-    "射频方案/射频知识用多少—负反馈在射频电路中的应用.md",
-    "射频方案/什么是比特率，什么是波特率.md"
+    "射频方案/射频知识用多少—负反馈在射频电路中的应用.md"
   ]
 }
