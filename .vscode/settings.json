@@ -1,0 +1,37 @@
+{
+  // 自动检查文件编码
+  "editor.detectIndentation": true,
+  // 设置缩进
+  "editor.insertSpaces": true,
+  "editor.tabSize": 4,
+  // 文件默认编码格式
+  "files.encoding": "utf8",
+  // 自动保存
+  "files.autoSave": "onFocusChange",
+  // 保存时格式化
+  "editor.formatOnSave": true,
+  // 粘贴时格式化
+  "editor.formatOnPaste": true,
+  // 边写边格式
+  "editor.formatOnType": true,
+  "editor.fontFamily": "Fira Code", //后边的引号中写上要设置的字体类型，个人比较喜欢Fira Code
+  "editor.fontLigatures": true, //这个控制是否启用字体连字，true启用，false不启用，这里选择启用
+  "editor.fontSize": 15, //设置字体大小，这个不多说都明白
+  "editor.fontWeight": "normal", //这个设置字体粗细，可选normal,bold,"100"~"900"等，选择合适的就行
+  "editor.wordWrapColumn": 255,
+  // "python.defaultInterpreterPath": "/usr/local/bin/python3",
+  "files.autoGuessEncoding": true,
+  // 开启自动换行
+  "editor.wordWrap": "on",
+  "python.testing.pytestArgs": [
+    "game"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  // 更改行号颜色
+  "workbench.colorCustomizations": {
+    "editorLineNumber.foreground": "#daa520"
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": []
+}
