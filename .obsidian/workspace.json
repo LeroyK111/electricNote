@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a94ff90a19c526e3",
+        "id": "ea8c65a678987855",
         "type": "tabs",
         "children": [
           {
-            "id": "f68d9a325c41e66e",
+            "id": "e58b6c3b4afb2f94",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PCB/电路分析/电池采样电路异常.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "电池采样电路异常"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "基带与射频同",
+                "query": "矢量网络",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/电路分析/电池采样电路异常.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电池采样电路异常 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -152,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,8 +162,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f68d9a325c41e66e",
+  "active": "e58b6c3b4afb2f94",
   "lastOpenFiles": [
+    "ChipInstructionSet/RISC-V/RISC-V芯片 -Cuzco 核心概述.pdf",
+    "射频方案/射频必掌握仪表-矢量网络分析仪.md",
+    "射频方案/矢量网络分析仪基本原理.pdf",
+    "射频方案/射频常用公式.pdf",
+    "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
+    "README.md",
+    "射频方案/Smith圆图你会用吗.md",
+    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
+    "电气/家庭线路.md",
+    "电气/继电器.md",
+    "电气/接地电阻为何常被限制在4Ω以内？.md",
     "PCB/电路分析/电池采样电路异常.pdf",
     "未命名.md",
     "射频方案/基带与射频同源的重要性.pdf",
@@ -180,7 +188,6 @@
     "PLC/工控领域必知的58个基础常识及彩图接线！.md",
     "未命名.base",
     "射频方案/卫星通信与地面通信调制方式的区别.md",
-    "README.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png",
     "射频方案/为什么加了屏蔽罩，效果反而不好？.md",
@@ -188,22 +195,12 @@
     "Power/一种全工作范围实现零电压开通的高效反激电源控制策略.pdf",
     "射频方案/卫星.md",
     "射频方案/测试工具/射频必掌握仪表-矢量网络分析仪.pdf",
-    "射频方案/测试工具/频谱测试仪.pdf",
-    "射频方案/测试工具/通信系统关键指标解析：EVM 的原理、测量与 SystemVue 仿真验证.pdf",
-    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
-    "射频方案/射频必掌握仪表-矢量网络分析仪.md",
     "射频方案/射频面试/射频工程师等级及要求.md",
-    "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.pdf",
     "射频方案/测试工具/基于 ADS 的系统仿真搭建完整流程.md",
     "射频方案/功放测试方法与指标详解.md",
     "PCB/核心板/深圳触觉智能RK3506开发板.md",
     "Power/双电源切换只会用分立器件搭？试试电源多路复用器吧.md",
     "电气/电气二次回路的标号时的注意事项.md",
-    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
-    "PLC/15个PLC必备的基础知识！.md",
-    "常见芯片/5v to 3.3v.md",
-    "射频方案/进阶/射频器件调试实战：从原理到实操，全面解析关键技巧.md",
-    "射频方案/进阶/射频系统设计.md",
-    "射频方案/射频知识用多少—负反馈在射频电路中的应用.md"
+    "PCB/电路中的噪声是怎么回事？如何抑制？.md"
   ]
 }
