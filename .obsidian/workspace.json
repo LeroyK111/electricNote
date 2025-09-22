@@ -11,10 +11,14 @@
             "id": "e58b6c3b4afb2f94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/BOOST的VIN与VOUT接近会怎么样.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "BOOST的VIN与VOUT接近会怎么样"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/BOOST的VIN与VOUT接近会怎么样.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "BOOST的VIN与VOUT接近会怎么样 的大纲"
             }
           },
           {
@@ -164,6 +169,8 @@
   },
   "active": "e58b6c3b4afb2f94",
   "lastOpenFiles": [
+    "芯片封装/双极性晶体管工作原理.md",
+    "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "PCB/单板调试方法.pdf",
     "射频方案/阻抗匹配的必要性和重要性.pdf",
     "射频方案/进阶/射频基础——阻抗匹配的必要性和重要性.pdf",
@@ -174,7 +181,6 @@
     "射频方案/无人机干扰源/无人机干扰源怎么设计.pdf",
     "射频方案/无人机干扰源",
     "射频方案/新建文件夹",
-    "Power/盘点开关电源中的缓冲吸收电路.pdf",
     "射频方案/射频必掌握仪表-矢量网络分析仪.md",
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
     "README.md",
@@ -200,7 +206,6 @@
     "射频方案/功放测试方法与指标详解.md",
     "PCB/核心板/深圳触觉智能RK3506开发板.md",
     "Power/双电源切换只会用分立器件搭？试试电源多路复用器吧.md",
-    "电气/电气二次回路的标号时的注意事项.md",
-    "PCB/电路中的噪声是怎么回事？如何抑制？.md"
+    "电气/电气二次回路的标号时的注意事项.md"
   ]
 }
