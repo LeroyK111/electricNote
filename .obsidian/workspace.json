@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce46b8db4bd95c93",
+        "id": "953a39980bdb4ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd29328983293c7",
+            "id": "639fe677c4e12add",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "芯片封装/名词解释/扇出型晶圆级封装：FOWLP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "扇出型晶圆级封装：FOWLP"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "芯片封装/名词解释/扇出型晶圆级封装：FOWLP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "扇出型晶圆级封装：FOWLP 的大纲"
             }
           },
           {
@@ -162,8 +167,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7bd29328983293c7",
+  "active": "639fe677c4e12add",
   "lastOpenFiles": [
+    "芯片封装/名词解释/扇出型晶圆级封装：FOWLP.md",
     "射频方案/分析/spur分析.pdf",
     "射频方案/分析",
     "PCB/滤波方法/EMC整改神器-磁环知识.pdf",
@@ -183,7 +189,6 @@
     "FPGA/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
     "存储设备/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
     "射频方案/无人机/无人机干扰源怎么设计.pdf",
-    "射频方案/无人机",
     "射频方案/射频必掌握仪表-矢量网络分析仪.md",
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
     "README.md",
