@@ -11,10 +11,14 @@
             "id": "beba9c7f135b29f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VCO",
+                "query": "信噪比",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么 的大纲"
             }
           },
           {
@@ -162,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "beba9c7f135b29f2",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
     "射频方案/通信指标“阻塞”——接收机的“隐形天花板”.md",
     "常见芯片/高频压控振荡器（VCO）设计.md",
