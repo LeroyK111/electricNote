@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "98976518d7fd13c8",
+        "id": "2fdd2c0cc4a178c5",
         "type": "tabs",
         "children": [
           {
-            "id": "54cedb0331593fea",
+            "id": "a3d8fdb612efda60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/相控阵天线技术：原理、应用与发展.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "相控阵天线技术：原理、应用与发展"
+              "title": "新标签页"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/相控阵天线技术：原理、应用与发展.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "相控阵天线技术：原理、应用与发展 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -168,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "54cedb0331593fea",
+  "active": "a3d8fdb612efda60",
   "lastOpenFiles": [
     "射频方案/相控阵天线技术：原理、应用与发展.md",
     "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
