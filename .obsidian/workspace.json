@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2fdd2c0cc4a178c5",
+        "id": "81e838905bb11ddf",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d8fdb612efda60",
+            "id": "f80a652190d20f7e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a3d8fdb612efda60",
+  "active": "f80a652190d20f7e",
   "lastOpenFiles": [
+    "PCB/常用工具/90GHz超高速实时示波器.md",
     "射频方案/相控阵天线技术：原理、应用与发展.md",
     "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
     "射频方案/通信指标“阻塞”——接收机的“隐形天花板”.md",
@@ -200,7 +201,6 @@
     "PCB/inline ECC.md",
     "芯片封装/工序/温度循环TC.md",
     "射频方案/进阶/噪声的全面解析：定义、影响、测试与抑制.md",
-    "芯片封装/工序/PLCSP封装工艺.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
