@@ -162,8 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f80a652190d20f7e",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
+    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "PCB/常用工具/90GHz超高速实时示波器.md",
     "射频方案/相控阵天线技术：原理、应用与发展.md",
     "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
@@ -200,7 +201,6 @@
     "未命名.md",
     "PCB/inline ECC.md",
     "芯片封装/工序/温度循环TC.md",
-    "射频方案/进阶/噪声的全面解析：定义、影响、测试与抑制.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
