@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81e838905bb11ddf",
+        "id": "b221e227862f9a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f80a652190d20f7e",
+            "id": "b36d95a58a39f1d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/进阶/什么是动态范围，SFDR.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "什么是动态范围，SFDR"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "相控阵",
+                "query": "sfdr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4340a983b7b446f5",
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/进阶/什么是动态范围，SFDR.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "什么是动态范围，SFDR 的大纲"
             }
           },
           {
@@ -162,8 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "b36d95a58a39f1d5",
   "lastOpenFiles": [
+    "射频方案/进阶/什么是动态范围，SFDR.md",
+    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
+    "ADC芯片/ADC是如何影响EVM指标的.md",
     "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "PCB/常用工具/90GHz超高速实时示波器.md",
     "射频方案/相控阵天线技术：原理、应用与发展.md",
@@ -189,7 +198,6 @@
     "射频方案/进阶/射频基础——阻抗匹配的必要性和重要性.pdf",
     "FPGA/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
     "存储设备/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
-    "射频方案/无人机/无人机干扰源怎么设计.pdf",
     "射频方案/射频必掌握仪表-矢量网络分析仪.md",
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
     "README.md",
@@ -199,8 +207,6 @@
     "电气/继电器.md",
     "电气/接地电阻为何常被限制在4Ω以内？.md",
     "未命名.md",
-    "PCB/inline ECC.md",
-    "芯片封装/工序/温度循环TC.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
