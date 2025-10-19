@@ -11,10 +11,12 @@
             "id": "f80a652190d20f7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "射频方案/分析/spur分析.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "spur分析"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/分析/spur分析.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "spur分析 的大纲"
             }
           },
           {
