@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "相控阵",
+                "query": "sfdr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "f57e23d1a285dde4",
   "lastOpenFiles": [
     "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "PCB/常用工具/90GHz超高速实时示波器.md",
