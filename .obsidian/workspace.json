@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e498fd9aec356777",
+        "id": "8f1e2af53db67086",
         "type": "tabs",
         "children": [
           {
-            "id": "4b747e031d08141f",
+            "id": "415c6033d34c8d65",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,12 +163,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "415c6033d34c8d65",
   "lastOpenFiles": [
-    "ADC芯片/实际项目中，工程师都用过哪个段位的国产ADC？.md",
     "射频方案/进阶/什么是动态范围，SFDR.md",
-    "射频方案/射频面试/2025射频面试.md",
-    "射频方案/分析/spur分析.pdf",
+    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
+    "ADC芯片/ADC是如何影响EVM指标的.md",
     "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "PCB/常用工具/90GHz超高速实时示波器.md",
     "射频方案/相控阵天线技术：原理、应用与发展.md",
@@ -175,6 +175,7 @@
     "射频方案/通信指标“阻塞”——接收机的“隐形天花板”.md",
     "常见芯片/高频压控振荡器（VCO）设计.md",
     "芯片封装/名词解释/扇出型晶圆级封装：FOWLP.md",
+    "射频方案/分析/spur分析.pdf",
     "射频方案/分析",
     "PCB/滤波方法/EMC整改神器-磁环知识.pdf",
     "PCB/滤波方法/EMC整改神器——磁环知识大全.md",
