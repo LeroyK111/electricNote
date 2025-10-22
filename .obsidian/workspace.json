@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Power/800v服务器.md",
+                "file": "射频方案/分析/传输—天线效率的影响.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "800v服务器"
+              "title": "传输—天线效率的影响"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Power/800v服务器.md",
+                "file": "射频方案/分析/传输—天线效率的影响.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "800v服务器 的大纲"
+              "title": "传输—天线效率的影响 的大纲"
             }
           },
           {
@@ -169,12 +169,13 @@
   },
   "active": "28c4fdb6f95c47d8",
   "lastOpenFiles": [
+    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
+    "射频方案/分析/传输—天线效率的影响.md",
     "Power/800v服务器.md",
     "射频方案/什么是阻抗匹配.md",
     "射频方案/进阶/什么是动态范围，SFDR.md",
     "射频方案/中射频工程师：——深入指标分析与系统设计.md",
     "ADC芯片/ADC是如何影响EVM指标的.md",
-    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "PCB/常用工具/90GHz超高速实时示波器.md",
     "射频方案/相控阵天线技术：原理、应用与发展.md",
     "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
@@ -204,8 +205,6 @@
     "README.md",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
-    "电气/家庭线路.md",
-    "电气/继电器.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
