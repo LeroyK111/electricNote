@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9c214e240b7e24",
+        "id": "c377d05f927faddc",
         "type": "tabs",
         "children": [
           {
-            "id": "28c4fdb6f95c47d8",
+            "id": "789addd0e0a13fba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/分析/传输—天线效率的影响.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "传输—天线效率的影响"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/分析/传输—天线效率的影响.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "传输—天线效率的影响 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,10 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "28c4fdb6f95c47d8",
+  "active": "789addd0e0a13fba",
   "lastOpenFiles": [
-    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "射频方案/分析/传输—天线效率的影响.md",
+    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "Power/800v服务器.md",
     "射频方案/什么是阻抗匹配.md",
     "射频方案/进阶/什么是动态范围，SFDR.md",
