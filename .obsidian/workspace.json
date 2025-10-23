@@ -11,10 +11,14 @@
             "id": "789addd0e0a13fba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "IGBT模块工作环境温湿度条件解析"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IGBT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "IGBT模块工作环境温湿度条件解析 的大纲"
             }
           },
           {
@@ -164,6 +169,11 @@
   },
   "active": "789addd0e0a13fba",
   "lastOpenFiles": [
+    "Pasted image 20251023191004.png",
+    "README.md",
+    "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
+    "Power/IGBT",
+    "CarSystem/拆解丰田普锐斯逆变器：看混动系统背后的精妙设计.md",
     "射频方案/分析/传输—天线效率的影响.md",
     "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "Power/800v服务器.md",
@@ -194,12 +204,8 @@
     "射频方案/阻抗匹配的必要性和重要性.pdf",
     "射频方案/进阶/射频基础——阻抗匹配的必要性和重要性.pdf",
     "FPGA/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
-    "存储设备/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
     "射频方案/射频必掌握仪表-矢量网络分析仪.md",
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
-    "README.md",
-    "射频方案/Smith圆图你会用吗.md",
-    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
