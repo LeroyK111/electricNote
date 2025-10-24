@@ -11,10 +11,14 @@
             "id": "3914c1c4c11160f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/分析/灵敏度问题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "灵敏度问题"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4340a983b7b446f5",
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/分析/灵敏度问题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "灵敏度问题 的大纲"
             }
           },
           {
@@ -164,6 +170,7 @@
   },
   "active": "3914c1c4c11160f0",
   "lastOpenFiles": [
+    "射频方案/分析/灵敏度问题.md",
     "射频方案/分析/传输—天线效率的影响.md",
     "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
     "Power/IGBT",
@@ -201,7 +208,6 @@
     "射频方案/测试工具/新一代宽带调制负载牵引技术解析.md",
     "README.md",
     "射频方案/Smith圆图你会用吗.md",
-    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
