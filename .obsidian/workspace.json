@@ -11,10 +11,14 @@
             "id": "37c75260a8b69ef4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/学习方式/功放的保护方法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "功放的保护方法"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/学习方式/功放的保护方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "功放的保护方法 的大纲"
             }
           },
           {
@@ -162,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "37c75260a8b69ef4",
   "lastOpenFiles": [
+    "射频方案/学习方式/readme.md",
+    "射频方案/学习方式/功放的保护方法.md",
     "射频方案/射频面试/无线通信协议的技术指南.pdf",
     "射频方案/分析/灵敏度问题.md",
     "readme.assets/Pasted image 20251025133744.png",
@@ -201,11 +208,9 @@
     "PCB/常用电子元器件/eFuse.md",
     "Pasted image 20250923212901.png",
     "PCB/BOOST的VIN与VOUT接近会怎么样.md",
-    "芯片封装/双极性晶体管工作原理.md",
     "PCB/单板调试方法.pdf",
     "射频方案/阻抗匹配的必要性和重要性.pdf",
     "射频方案/进阶/射频基础——阻抗匹配的必要性和重要性.pdf",
-    "FPGA/基于FPGA的小尺寸嵌入式高速存储系统设计.pdf",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
