@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9a833f32f7bc38d4",
+        "id": "6ac402ed48c5aa33",
         "type": "tabs",
         "children": [
           {
-            "id": "37c75260a8b69ef4",
+            "id": "ad108804cb7e3c46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "射频方案/学习方式/功放的保护方法.md",
-                "mode": "source",
-                "source": false
+                "file": "MCU/无线MCU，进入蓝牙6.0时代.pdf"
               },
-              "icon": "lucide-file",
-              "title": "功放的保护方法"
+              "icon": "lucide-file-text",
+              "title": "无线MCU，进入蓝牙6.0时代"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IGBT",
+                "query": "模拟信号",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/学习方式/功放的保护方法.md",
+                "file": "MCU/无线MCU，进入蓝牙6.0时代.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "功放的保护方法 的大纲"
+              "title": "无线MCU，进入蓝牙6.0时代 的大纲"
             }
           },
           {
@@ -167,10 +165,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37c75260a8b69ef4",
+  "active": "ad108804cb7e3c46",
   "lastOpenFiles": [
-    "射频方案/学习方式/readme.md",
+    "MCU/无线MCU，进入蓝牙6.0时代.pdf",
+    "PCB/滤波方法/模拟信号采样与AD转换原理.md",
+    "MCU/2025趋势/实时控制MCU.pdf",
+    "MCU/2025趋势/实时控制MCU，开启一轮鏖战.md",
+    "MCU/2025趋势",
+    "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
+    "README.md",
+    "PLC/三大变量.md",
+    "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
+    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
+    "PCB/模拟开关.md",
     "射频方案/学习方式/功放的保护方法.md",
+    "射频方案/学习方式/readme.md",
     "射频方案/射频面试/无线通信协议的技术指南.pdf",
     "射频方案/分析/灵敏度问题.md",
     "readme.assets/Pasted image 20251025133744.png",
@@ -180,7 +189,6 @@
     "MCU/MRAM.md",
     "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
     "Pasted image 20251023191004.png",
-    "README.md",
     "Power/IGBT",
     "CarSystem/拆解丰田普锐斯逆变器：看混动系统背后的精妙设计.md",
     "射频方案/分析/传输—天线效率的影响.md",
@@ -195,22 +203,12 @@
     "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
     "射频方案/通信指标“阻塞”——接收机的“隐形天花板”.md",
     "常见芯片/高频压控振荡器（VCO）设计.md",
-    "芯片封装/名词解释/扇出型晶圆级封装：FOWLP.md",
     "射频方案/分析/spur分析.pdf",
     "射频方案/分析",
     "PCB/滤波方法/EMC整改神器-磁环知识.pdf",
-    "PCB/滤波方法/EMC整改神器——磁环知识大全.md",
-    "射频方案/指标从设计到落地——AGC.md",
-    "射频方案/功放测试方法与指标详解.md",
     "射频方案/指标从设计到落地——功放.pdf",
-    "射频方案/功放的宽带匹配设计.md",
-    "射频方案/功放与系统——解读功放手册.md",
-    "PCB/常用电子元器件/eFuse.md",
     "Pasted image 20250923212901.png",
-    "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "PCB/单板调试方法.pdf",
-    "射频方案/阻抗匹配的必要性和重要性.pdf",
-    "射频方案/进阶/射频基础——阻抗匹配的必要性和重要性.pdf",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
