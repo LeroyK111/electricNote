@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da81935b8760270b",
+        "id": "0941317ba13b18ef",
         "type": "tabs",
         "children": [
           {
-            "id": "8dd27aa1de6ccc7f",
+            "id": "b001ac1776ded07f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "在射频电路封装中，寄生电感仿真为什么会分交流直流？"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "在射频电路封装中，寄生电感仿真为什么会分交流直流？ 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,10 +162,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8dd27aa1de6ccc7f",
+  "active": "b001ac1776ded07f",
   "lastOpenFiles": [
-    "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
+    "射频方案/射频面试/OFDM和QAM有什么区别.pdf",
+    "芯片封装/OFDM和QAM有什么区别.md",
     "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
+    "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
     "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
     "芯片封装/引线键合中的高尔夫球的成因.md",
     "MCU/无线MCU，进入蓝牙6.0时代.pdf",
@@ -204,12 +201,9 @@
     "射频方案/进阶/什么是动态范围，SFDR.md",
     "射频方案/中射频工程师：——深入指标分析与系统设计.md",
     "ADC芯片/ADC是如何影响EVM指标的.md",
-    "PCB/常用工具/90GHz超高速实时示波器.md",
-    "射频方案/相控阵天线技术：原理、应用与发展.md",
     "射频方案/分析/spur分析.pdf",
     "射频方案/分析",
     "PCB/滤波方法/EMC整改神器-磁环知识.pdf",
-    "射频方案/指标从设计到落地——功放.pdf",
     "Pasted image 20250923212901.png",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
