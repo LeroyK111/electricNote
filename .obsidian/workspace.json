@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0941317ba13b18ef",
+        "id": "3c9923e9f1bf4d07",
         "type": "tabs",
         "children": [
           {
-            "id": "b001ac1776ded07f",
+            "id": "84f3dcf0b800a6cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "模拟信号",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b001ac1776ded07f",
+  "active": "84f3dcf0b800a6cd",
   "lastOpenFiles": [
+    "射频方案/射频面试/互调对收发的影响.pdf",
+    "射频方案/进阶/峰均比的计算与仿真.pdf",
+    "射频方案/峰均比与EVM的非线性纠缠.md",
+    "射频方案/进阶/峰均比的计算与仿真.md",
+    "射频方案/什么是频率牵引.md",
     "射频方案/射频面试/OFDM和QAM有什么区别.pdf",
     "芯片封装/OFDM和QAM有什么区别.md",
     "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
@@ -198,12 +203,8 @@
     "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "Power/800v服务器.md",
     "射频方案/什么是阻抗匹配.md",
-    "射频方案/进阶/什么是动态范围，SFDR.md",
-    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
-    "ADC芯片/ADC是如何影响EVM指标的.md",
     "射频方案/分析/spur分析.pdf",
     "射频方案/分析",
-    "PCB/滤波方法/EMC整改神器-磁环知识.pdf",
     "Pasted image 20250923212901.png",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
