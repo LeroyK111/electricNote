@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "射频方案/分析/smith圆图的用法.md",
+                "file": "PCB/电路中的噪声是怎么回事？如何抑制？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "smith圆图的用法"
+              "title": "电路中的噪声是怎么回事？如何抑制？"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "宽带噪声",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/分析/smith圆图的用法.md",
+                "file": "PCB/电路中的噪声是怎么回事？如何抑制？.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "smith圆图的用法 的大纲"
+              "title": "电路中的噪声是怎么回事？如何抑制？ 的大纲"
             }
           },
           {
@@ -167,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84f3dcf0b800a6cd",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
-    "射频方案/分析/spur分析.pdf",
+    "射频方案/TDD和FDD射频方案的设计区别.md",
     "射频方案/分析/smith圆图的用法.md",
+    "射频方案/分析/spur分析.pdf",
     "射频方案/射频面试/互调对收发的影响.pdf",
     "射频方案/进阶/峰均比的计算与仿真.pdf",
     "射频方案/峰均比与EVM的非线性纠缠.md",
