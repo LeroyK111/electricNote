@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9923e9f1bf4d07",
+        "id": "fa23e9c1c8cbbeed",
         "type": "tabs",
         "children": [
           {
-            "id": "84f3dcf0b800a6cd",
+            "id": "777f4fb6f87c6384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/电路中的噪声是怎么回事？如何抑制？.md",
+                "file": "Power/如何解决双管反激变换器中的关断电压不均衡.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电路中的噪声是怎么回事？如何抑制？"
+              "title": "如何解决双管反激变换器中的关断电压不均衡"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
     "id": "4340a983b7b446f5",
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/电路中的噪声是怎么回事？如何抑制？.md",
+                "file": "Power/如何解决双管反激变换器中的关断电压不均衡.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电路中的噪声是怎么回事？如何抑制？ 的大纲"
+              "title": "如何解决双管反激变换器中的关断电压不均衡 的大纲"
             }
           },
           {
@@ -169,6 +169,8 @@
   },
   "active": "67b78641b3a44b34",
   "lastOpenFiles": [
+    "Power/如何解决双管反激变换器中的关断电压不均衡.md",
+    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
     "射频方案/TDD和FDD射频方案的设计区别.md",
     "射频方案/分析/smith圆图的用法.md",
     "射频方案/分析/spur分析.pdf",
@@ -192,7 +194,6 @@
     "README.md",
     "PLC/三大变量.md",
     "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
-    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
     "PCB/模拟开关.md",
     "射频方案/学习方式/功放的保护方法.md",
     "射频方案/学习方式/readme.md",
@@ -209,7 +210,6 @@
     "CarSystem/拆解丰田普锐斯逆变器：看混动系统背后的精妙设计.md",
     "射频方案/分析/传输—天线效率的影响.md",
     "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
-    "Power/800v服务器.md",
     "Pasted image 20250923212901.png",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
