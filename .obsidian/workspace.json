@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "817d21861097ef49",
+        "id": "c298663d18ceedfb",
         "type": "tabs",
         "children": [
           {
-            "id": "48ae7646a305d98d",
+            "id": "5712bb133f6fb384",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "宽带噪声",
+                "query": "接收机",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,8 +162,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "5712bb133f6fb384",
   "lastOpenFiles": [
+    "射频方案/分析/接收机互调指标设计与计算分析.pdf",
+    "射频方案/SINAD下的灵敏度是什么意思.md",
     "PCB/PCB设计技巧.pdf",
     "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "Power/如何解决双管反激变换器中的关断电压不均衡.md",
@@ -201,10 +203,7 @@
     "readme.assets/Pasted image 20251025131545.png",
     "readme.assets/Pasted image 20251023191004.png",
     "MCU/MRAM.md",
-    "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
     "Pasted image 20251023191004.png",
-    "Power/IGBT",
-    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
     "Pasted image 20250923212901.png",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
