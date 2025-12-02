@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c298663d18ceedfb",
+        "id": "eb606261eeef0a59",
         "type": "tabs",
         "children": [
           {
-            "id": "5712bb133f6fb384",
+            "id": "3e69f9c341fbfce8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "接收机",
+                "query": "如何正确理解热导率",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "right": {
     "id": "4340a983b7b446f5",
@@ -162,8 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5712bb133f6fb384",
+  "active": "3e69f9c341fbfce8",
   "lastOpenFiles": [
+    "芯片封装/如何正确理解热导率.pdf",
+    "射频方案/分析/时域与频域分析的本质差异.pdf",
+    "芯片封装/jedec标准.md",
+    "射频方案/分析/时域与频域分析的本质差异.md",
+    "射频方案/未命名.md",
     "射频方案/分析/接收机互调指标设计与计算分析.pdf",
     "射频方案/SINAD下的灵敏度是什么意思.md",
     "PCB/PCB设计技巧.pdf",
@@ -195,14 +200,10 @@
     "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
     "PCB/模拟开关.md",
     "射频方案/学习方式/功放的保护方法.md",
-    "射频方案/学习方式/readme.md",
-    "射频方案/射频面试/无线通信协议的技术指南.pdf",
-    "射频方案/分析/灵敏度问题.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
     "readme.assets/Pasted image 20251023191004.png",
-    "MCU/MRAM.md",
     "Pasted image 20251023191004.png",
     "Pasted image 20250923212901.png",
     "readme.assets/Pasted image 20250904235543.png",
