@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eb606261eeef0a59",
+        "id": "bf5c7af733ae0be2",
         "type": "tabs",
         "children": [
           {
-            "id": "3e69f9c341fbfce8",
+            "id": "655a2e42eeed044b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/射频电路的本质是什么.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "射频电路的本质是什么"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "如何正确理解热导率",
+                "query": "射频电路的本质",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/射频电路的本质是什么.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "射频电路的本质是什么 的大纲"
             }
           },
           {
@@ -162,8 +168,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e69f9c341fbfce8",
+  "active": "655a2e42eeed044b",
   "lastOpenFiles": [
+    "射频方案/射频电路的本质是什么.md",
     "常见芯片/中端存储芯片.pdf",
     "芯片封装/中端存储芯片.pdf",
     "功率半导体/IPM器件.pdf",
@@ -183,7 +190,6 @@
     "射频方案/分析/smith圆图的用法.md",
     "射频方案/分析/spur分析.pdf",
     "射频方案/射频面试/互调对收发的影响.pdf",
-    "射频方案/进阶/峰均比的计算与仿真.pdf",
     "射频方案/峰均比与EVM的非线性纠缠.md",
     "射频方案/进阶/峰均比的计算与仿真.md",
     "射频方案/什么是频率牵引.md",
