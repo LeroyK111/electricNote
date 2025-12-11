@@ -11,10 +11,14 @@
             "id": "941945ea95b23432",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/隔离设计.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "隔离设计"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "什么是多径",
+                "query": "隔离",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/隔离设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "隔离设计 的大纲"
             }
           },
           {
@@ -164,6 +169,8 @@
   },
   "active": "941945ea95b23432",
   "lastOpenFiles": [
+    "射频方案/隔离设计.md",
+    "射频方案/未命名",
     "射频方案/什么是多径.pdf",
     "射频方案/进阶/FSK的原理与实现.pdf",
     "射频方案/射频电路的本质是什么.md",
@@ -175,16 +182,13 @@
     "射频方案/分析/时域与频域分析的本质差异.pdf",
     "芯片封装/jedec标准.md",
     "射频方案/分析/时域与频域分析的本质差异.md",
-    "射频方案/未命名.md",
     "射频方案/分析/接收机互调指标设计与计算分析.pdf",
     "射频方案/SINAD下的灵敏度是什么意思.md",
-    "PCB/PCB设计技巧.pdf",
     "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "Power/如何解决双管反激变换器中的关断电压不均衡.md",
     "PCB/电路中的噪声是怎么回事？如何抑制？.md",
     "射频方案/TDD和FDD射频方案的设计区别.md",
     "射频方案/分析/smith圆图的用法.md",
-    "射频方案/分析/spur分析.pdf",
     "射频方案/峰均比与EVM的非线性纠缠.md",
     "射频方案/进阶/峰均比的计算与仿真.md",
     "射频方案/什么是频率牵引.md",
