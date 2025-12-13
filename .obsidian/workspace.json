@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "43c66002c4717a0b",
+        "id": "03c8824089d1345c",
         "type": "tabs",
         "children": [
           {
-            "id": "941945ea95b23432",
+            "id": "21de6c4096cda7c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "射频方案/隔离设计.md",
-                "mode": "source",
-                "source": false
+                "file": "射频方案/分析/射频基础——电容电感怎么选型？.pdf"
               },
-              "icon": "lucide-file",
-              "title": "隔离设计"
+              "icon": "lucide-file-text",
+              "title": "射频基础——电容电感怎么选型？"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隔离",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 399.5
   },
   "right": {
     "id": "4340a983b7b446f5",
@@ -94,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/隔离设计.md",
+                "file": "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "隔离设计 的大纲"
+              "title": "射频基础——电容电感怎么选型？ 的大纲"
             }
           },
           {
@@ -167,22 +165,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "941945ea95b23432",
+  "active": "21de6c4096cda7c2",
   "lastOpenFiles": [
+    "射频方案/Smith圆图你会用吗.md",
+    "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
+    "射频方案/进阶/FSK的原理与实现.pdf",
+    "射频方案/进阶/sinad下的灵敏度.pdf",
+    "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
+    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "射频方案/隔离设计.md",
     "射频方案/未命名",
     "射频方案/什么是多径.pdf",
-    "射频方案/进阶/FSK的原理与实现.pdf",
     "射频方案/射频电路的本质是什么.md",
     "常见芯片/中端存储芯片.pdf",
     "芯片封装/中端存储芯片.pdf",
     "功率半导体/IPM器件.pdf",
     "常见芯片/IPM器件.pdf",
     "芯片封装/如何正确理解热导率.pdf",
-    "射频方案/分析/时域与频域分析的本质差异.pdf",
     "芯片封装/jedec标准.md",
     "射频方案/分析/时域与频域分析的本质差异.md",
-    "射频方案/分析/接收机互调指标设计与计算分析.pdf",
     "射频方案/SINAD下的灵敏度是什么意思.md",
     "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "Power/如何解决双管反激变换器中的关断电压不均衡.md",
@@ -202,8 +203,6 @@
     "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
     "README.md",
     "PLC/三大变量.md",
-    "PCB/混合信号 PCB 的布局设计的基本准则是什么？.md",
-    "PCB/模拟开关.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
