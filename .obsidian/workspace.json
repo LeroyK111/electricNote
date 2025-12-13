@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03c8824089d1345c",
+        "id": "0bbd97a0a8a2b2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "21de6c4096cda7c2",
+            "id": "f9e6f6298c58e362",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "射频方案/分析/射频基础——电容电感怎么选型？.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "射频基础——电容电感怎么选型？"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -165,7 +163,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21de6c4096cda7c2",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
