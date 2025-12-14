@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0bbd97a0a8a2b2f7",
+        "id": "56081e5928be9d45",
         "type": "tabs",
         "children": [
           {
-            "id": "f9e6f6298c58e362",
+            "id": "9ca648d3f096c5ae",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
+                "file": "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "射频基础——电容电感怎么选型？ 的大纲"
+              "title": "矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量 的大纲"
             }
           },
           {
@@ -163,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "f9a4ff3d93c62c5f",
   "lastOpenFiles": [
+    "射频方案/测试工具/矢量网络分析仪的原理及应用.pdf",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
     "射频方案/进阶/FSK的原理与实现.pdf",
@@ -200,7 +201,6 @@
     "MCU/2025趋势/实时控制MCU，开启一轮鏖战.md",
     "PCB/滤波方法/单片机ADC常见的几种滤波方法.md",
     "README.md",
-    "PLC/三大变量.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
