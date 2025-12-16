@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56081e5928be9d45",
+        "id": "6230e5e96d0e6746",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca648d3f096c5ae",
+            "id": "e3b0f517a71e1eb0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,13 +91,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -163,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f9a4ff3d93c62c5f",
+  "active": "f57e23d1a285dde4",
   "lastOpenFiles": [
+    "射频方案/ADC的噪底对灵敏度有什么影响.md",
     "射频方案/测试工具/矢量网络分析仪的原理及应用.pdf",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
@@ -180,7 +181,6 @@
     "芯片封装/中端存储芯片.pdf",
     "功率半导体/IPM器件.pdf",
     "常见芯片/IPM器件.pdf",
-    "芯片封装/如何正确理解热导率.pdf",
     "芯片封装/jedec标准.md",
     "射频方案/分析/时域与频域分析的本质差异.md",
     "射频方案/SINAD下的灵敏度是什么意思.md",
