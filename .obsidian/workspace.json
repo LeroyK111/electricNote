@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a595ddba9e69a7b",
+        "id": "840e65f67de32c72",
         "type": "tabs",
         "children": [
           {
-            "id": "ed7e8c40d6a13f2e",
+            "id": "7d58186c0f3eef1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "芯片封装/存储芯片/多是存储芯片.md",
+                "file": "射频方案/学习方式/射频入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多是存储芯片"
+              "title": "射频入门"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "芯片封装/存储芯片/多是存储芯片.md",
+                "file": "射频方案/学习方式/射频入门.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多是存储芯片 的大纲"
+              "title": "射频入门 的大纲"
             }
           },
           {
@@ -167,10 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ed7e8c40d6a13f2e",
+  "active": "7d58186c0f3eef1b",
   "lastOpenFiles": [
-    "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
+    "射频方案/学习方式/功放的保护方法.md",
+    "射频方案/学习方式/射频入门.md",
+    "射频方案/学习方式/readme.md",
     "芯片封装/存储芯片/多是存储芯片.md",
+    "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
     "芯片封装/BGA封装中集成的电容到底起的什么作用？.md",
     "芯片封装/存储芯片",
     "射频方案/ADC的噪底对灵敏度有什么影响.md",
@@ -202,9 +205,6 @@
     "芯片封装/OFDM和QAM有什么区别.md",
     "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
     "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
-    "芯片封装/引线键合中的高尔夫球的成因.md",
-    "PCB/滤波方法/模拟信号采样与AD转换原理.md",
-    "MCU/2025趋势/实时控制MCU，开启一轮鏖战.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
