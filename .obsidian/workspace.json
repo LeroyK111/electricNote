@@ -164,6 +164,7 @@
   },
   "active": "ba365de575208166",
   "lastOpenFiles": [
+    "射频方案/分析/频率偏差的危害.pdf",
     "射频方案/学习方式/射频入门.md",
     "射频方案/学习方式/功放的保护方法.md",
     "射频方案/学习方式/readme.md",
@@ -199,7 +200,6 @@
     "射频方案/什么是频率牵引.md",
     "芯片封装/OFDM和QAM有什么区别.md",
     "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
-    "芯片封装/为什么wire Bonding的2nd Bond不需要关注IMC？.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
