@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d8d3c448e6b0fdbe",
+        "id": "47466c8c3e93a73a",
         "type": "tabs",
         "children": [
           {
-            "id": "ba365de575208166",
+            "id": "0e0df473a861b91a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "柔性集成电路：一种全新的半导体范式"
+              "title": "新标签页"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "是波",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "柔性集成电路：一种全新的半导体范式 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,13 +162,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ba365de575208166",
+  "active": "0e0df473a861b91a",
   "lastOpenFiles": [
+    "射频方案/学习方式/射频的本质就是电磁波.pdf",
+    "射频方案/学习方式/射频入门.md",
     "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
     "PCB/趋势",
     "PCB/未来",
     "射频方案/分析/频率偏差的危害.pdf",
-    "射频方案/学习方式/射频入门.md",
     "射频方案/学习方式/功放的保护方法.md",
     "射频方案/学习方式/readme.md",
     "芯片封装/存储芯片/多是存储芯片.md",
@@ -190,7 +186,6 @@
     "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "射频方案/隔离设计.md",
     "射频方案/未命名",
-    "射频方案/什么是多径.pdf",
     "射频方案/射频电路的本质是什么.md",
     "芯片封装/jedec标准.md",
     "射频方案/分析/时域与频域分析的本质差异.md",
@@ -204,7 +199,6 @@
     "射频方案/进阶/峰均比的计算与仿真.md",
     "射频方案/什么是频率牵引.md",
     "芯片封装/OFDM和QAM有什么区别.md",
-    "芯片封装/在射频电路封装中，寄生电感仿真为什么会分交流直流？.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
