@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47466c8c3e93a73a",
+        "id": "1655f28e139712a7",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0df473a861b91a",
+            "id": "e782c31f74976edd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,7 +162,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "e782c31f74976edd",
   "lastOpenFiles": [
     "射频方案/进阶/射频开关基础知识.pdf",
     "射频方案/学习方式/射频的本质就是电磁波.pdf",
