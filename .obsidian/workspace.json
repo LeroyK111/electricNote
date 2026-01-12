@@ -11,10 +11,14 @@
             "id": "e782c31f74976edd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "芯片封装/半导体封装器件要用金丝键合.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "半导体封装器件要用金丝键合"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "是波",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "芯片封装/半导体封装器件要用金丝键合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "半导体封装器件要用金丝键合 的大纲"
             }
           },
           {
@@ -164,6 +169,8 @@
   },
   "active": "e782c31f74976edd",
   "lastOpenFiles": [
+    "芯片封装/半导体封装器件要用金丝键合.md",
+    "射频方案/射频面试/功放的基础知识及选型指南.pdf",
     "射频方案/进阶/射频开关基础知识.pdf",
     "射频方案/学习方式/射频的本质就是电磁波.pdf",
     "射频方案/学习方式/射频入门.md",
@@ -182,11 +189,9 @@
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
     "射频方案/进阶/FSK的原理与实现.pdf",
-    "射频方案/进阶/sinad下的灵敏度.pdf",
     "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
     "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
     "射频方案/隔离设计.md",
-    "射频方案/未命名",
     "射频方案/射频电路的本质是什么.md",
     "芯片封装/jedec标准.md",
     "射频方案/分析/时域与频域分析的本质差异.md",
