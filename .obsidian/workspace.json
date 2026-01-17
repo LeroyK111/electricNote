@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e3de4e99326f4ca6",
+        "id": "1f886096472f2beb",
         "type": "tabs",
         "children": [
           {
-            "id": "e8ae1432952727bc",
+            "id": "08671ff4cd85e56b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "锁相环",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU/MRAM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MRAM 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -150,12 +149,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,51 +162,50 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8ae1432952727bc",
+  "active": "08671ff4cd85e56b",
   "lastOpenFiles": [
-    "MCU/MRAM.md",
-    "射频方案/射频面试/无线通信协议的技术指南.pdf",
+    "射频方案/进阶/OFDM对射频系统影响.pdf",
+    "射频方案/FM 解调：技术、斜率检测器以及优缺点.md",
+    "射频方案/射频面试/锁相环的基础知识及选型指南.pdf",
+    "芯片封装/半导体封装器件要用金丝键合.md",
+    "射频方案/射频面试/功放的基础知识及选型指南.pdf",
+    "射频方案/进阶/射频开关基础知识.pdf",
+    "射频方案/学习方式/射频的本质就是电磁波.pdf",
+    "射频方案/学习方式/射频入门.md",
+    "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
+    "PCB/趋势",
+    "PCB/未来",
+    "射频方案/分析/频率偏差的危害.pdf",
+    "射频方案/学习方式/功放的保护方法.md",
+    "射频方案/学习方式/readme.md",
+    "芯片封装/存储芯片/多是存储芯片.md",
+    "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
+    "芯片封装/BGA封装中集成的电容到底起的什么作用？.md",
+    "芯片封装/存储芯片",
+    "射频方案/ADC的噪底对灵敏度有什么影响.md",
+    "射频方案/测试工具/矢量网络分析仪的原理及应用.pdf",
+    "射频方案/Smith圆图你会用吗.md",
+    "射频方案/分析/射频基础——电容电感怎么选型？.pdf",
+    "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
+    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
+    "射频方案/隔离设计.md",
+    "射频方案/射频电路的本质是什么.md",
+    "芯片封装/jedec标准.md",
+    "射频方案/分析/时域与频域分析的本质差异.md",
+    "射频方案/SINAD下的灵敏度是什么意思.md",
+    "PCB/一条错误PCB走线让电流采样偏大10%.md",
+    "Power/如何解决双管反激变换器中的关断电压不均衡.md",
+    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
+    "射频方案/TDD和FDD射频方案的设计区别.md",
+    "射频方案/分析/smith圆图的用法.md",
+    "射频方案/峰均比与EVM的非线性纠缠.md",
+    "射频方案/进阶/峰均比的计算与仿真.md",
     "readme.assets/Pasted image 20251025133744.png",
-    "Pasted image 20251025133744.png",
-    "Pasted image 20251025133655.png",
-    "Pasted image 20251025132221.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
     "readme.assets/Pasted image 20251023191004.png",
-    "MCU/NPU64bit.md",
-    "MCU/如何启动并测试RK3562J处理器的MCU？.md",
-    "MCU/readme.md",
-    "射频方案/分析/灵敏度问题.md",
-    "射频方案/分析/传输—天线效率的影响.md",
-    "Power/IGBT/IGBT模块工作环境温湿度条件解析.md",
-    "Power/IGBT",
-    "Power/800v服务器.md",
-    "射频方案/什么是阻抗匹配.md",
-    "射频方案/进阶/什么是动态范围，SFDR.md",
-    "射频方案/中射频工程师：——深入指标分析与系统设计.md",
-    "ADC芯片/ADC是如何影响EVM指标的.md",
-    "射频方案/分析/学会定位杂散，才是真正的射频工程师.pdf",
-    "PCB/常用工具/90GHz超高速实时示波器.md",
-    "射频方案/相控阵天线技术：原理、应用与发展.md",
-    "射频方案/什么是信噪比，什么是EBN0，什么是BER，他们之间的关系是什么.md",
-    "射频方案/通信指标“阻塞”——接收机的“隐形天花板”.md",
-    "常见芯片/高频压控振荡器（VCO）设计.md",
-    "芯片封装/名词解释/扇出型晶圆级封装：FOWLP.md",
-    "射频方案/分析/spur分析.pdf",
-    "射频方案/分析",
-    "PCB/滤波方法/EMC整改神器-磁环知识.pdf",
-    "PCB/滤波方法/EMC整改神器——磁环知识大全.md",
-    "射频方案/指标从设计到落地——AGC.md",
-    "射频方案/功放测试方法与指标详解.md",
-    "射频方案/指标从设计到落地——功放.pdf",
-    "射频方案/功放的宽带匹配设计.md",
-    "射频方案/功放与系统——解读功放手册.md",
-    "PCB/常用电子元器件/eFuse.md",
+    "Pasted image 20251023191004.png",
     "Pasted image 20250923212901.png",
-    "PCB/BOOST的VIN与VOUT接近会怎么样.md",
-    "PCB/单板调试方法.pdf",
-    "射频方案/阻抗匹配的必要性和重要性.pdf",
-    "射频方案/进阶/射频基础——阻抗匹配的必要性和重要性.pdf",
     "readme.assets/Pasted image 20250904235543.png",
     "readme.assets/Pasted image 20250904235628.png"
   ]
