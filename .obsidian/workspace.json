@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5291ec4f0a2430d0",
+        "id": "1f886096472f2beb",
         "type": "tabs",
         "children": [
           {
-            "id": "cae325c033e326f8",
+            "id": "08671ff4cd85e56b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,11 +162,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cae325c033e326f8",
+  "active": "08671ff4cd85e56b",
   "lastOpenFiles": [
     "MCU/2026/嵌入式发展趋势.pdf",
-    "CPU/3d-v-cache缓存.md",
     "MCU/2026",
+    "CPU/3d-v-cache缓存.md",
     "射频方案/进阶/OFDM对射频系统影响.pdf",
     "射频方案/FM 解调：技术、斜率检测器以及优缺点.md",
     "射频方案/射频面试/锁相环的基础知识及选型指南.pdf",
@@ -184,6 +184,7 @@
     "芯片封装/存储芯片/多是存储芯片.md",
     "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
     "芯片封装/BGA封装中集成的电容到底起的什么作用？.md",
+    "芯片封装/存储芯片",
     "射频方案/ADC的噪底对灵敏度有什么影响.md",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
