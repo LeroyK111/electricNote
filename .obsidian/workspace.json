@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f886096472f2beb",
+        "id": "3e28a7c93cfc17a6",
         "type": "tabs",
         "children": [
           {
-            "id": "08671ff4cd85e56b",
+            "id": "f8596de6577fc707",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/分析/什么是零欧姆电阻.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "什么是零欧姆电阻"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/分析/什么是零欧姆电阻.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "什么是零欧姆电阻 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,9 +162,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "08671ff4cd85e56b",
+  "active": "f8596de6577fc707",
   "lastOpenFiles": [
+    "射频方案/混频器.pdf",
     "射频方案/分析/什么是零欧姆电阻.md",
+    "射频方案/混频器的基础知识和设计指南.md",
     "MCU/2026/嵌入式发展趋势.pdf",
     "MCU/2026",
     "CPU/3d-v-cache缓存.md",
@@ -184,7 +181,6 @@
     "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
     "PCB/趋势",
     "PCB/未来",
-    "射频方案/分析/频率偏差的危害.pdf",
     "射频方案/学习方式/功放的保护方法.md",
     "射频方案/学习方式/readme.md",
     "芯片封装/存储芯片/多是存储芯片.md",
@@ -203,8 +199,6 @@
     "Power/如何解决双管反激变换器中的关断电压不均衡.md",
     "PCB/电路中的噪声是怎么回事？如何抑制？.md",
     "射频方案/TDD和FDD射频方案的设计区别.md",
-    "射频方案/分析/smith圆图的用法.md",
-    "射频方案/峰均比与EVM的非线性纠缠.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
