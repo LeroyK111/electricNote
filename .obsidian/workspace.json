@@ -11,10 +11,14 @@
             "id": "08671ff4cd85e56b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/分析/什么是零欧姆电阻.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "什么是零欧姆电阻"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/分析/什么是零欧姆电阻.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "什么是零欧姆电阻 的大纲"
             }
           },
           {
@@ -164,6 +169,7 @@
   },
   "active": "08671ff4cd85e56b",
   "lastOpenFiles": [
+    "射频方案/分析/什么是零欧姆电阻.md",
     "MCU/2026/嵌入式发展趋势.pdf",
     "MCU/2026",
     "CPU/3d-v-cache缓存.md",
@@ -184,7 +190,6 @@
     "芯片封装/存储芯片/多是存储芯片.md",
     "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
     "芯片封装/BGA封装中集成的电容到底起的什么作用？.md",
-    "芯片封装/存储芯片",
     "射频方案/ADC的噪底对灵敏度有什么影响.md",
     "射频方案/Smith圆图你会用吗.md",
     "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
