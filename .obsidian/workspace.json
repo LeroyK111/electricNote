@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e28a7c93cfc17a6",
+        "id": "126e65fa53a5769a",
         "type": "tabs",
         "children": [
           {
-            "id": "f8596de6577fc707",
+            "id": "f7ac071adbe391be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/常用电子元器件/eFuse.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "eFuse"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "锁相环",
+                "query": "保险丝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,12 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/常用电子元器件/eFuse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "eFuse 的大纲"
             }
           },
           {
@@ -162,8 +168,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8596de6577fc707",
+  "active": "f7ac071adbe391be",
   "lastOpenFiles": [
+    "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "射频方案/混频器.pdf",
     "射频方案/分析/什么是零欧姆电阻.md",
     "射频方案/混频器的基础知识和设计指南.md",
