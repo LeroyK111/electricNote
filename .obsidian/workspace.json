@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f7ac071adbe391be",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
     "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "射频方案/混频器.pdf",
