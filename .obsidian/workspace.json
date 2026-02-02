@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCB/常用电子元器件/eFuse.md",
+                "file": "PCB/常用电子元器件/陶瓷电容MLCC的三大特性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eFuse"
+              "title": "陶瓷电容MLCC的三大特性"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/常用电子元器件/eFuse.md",
+                "file": "PCB/常用电子元器件/陶瓷电容MLCC的三大特性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "eFuse 的大纲"
+              "title": "陶瓷电容MLCC的三大特性 的大纲"
             }
           },
           {
@@ -167,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "f7ac071adbe391be",
   "lastOpenFiles": [
+    "PCB/常用电子元器件/eFuse.md",
+    "PCB/常用电子元器件/陶瓷电容MLCC的三大特性.md",
     "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "射频方案/混频器.pdf",
     "射频方案/分析/什么是零欧姆电阻.md",
@@ -203,8 +205,6 @@
     "射频方案/SINAD下的灵敏度是什么意思.md",
     "PCB/一条错误PCB走线让电流采样偏大10%.md",
     "Power/如何解决双管反激变换器中的关断电压不均衡.md",
-    "PCB/电路中的噪声是怎么回事？如何抑制？.md",
-    "射频方案/TDD和FDD射频方案的设计区别.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
