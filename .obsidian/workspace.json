@@ -11,10 +11,14 @@
             "id": "5c8309a097d3cb81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "射频方案/doherty是如何实现效率提升.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "doherty是如何实现效率提升"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "功率放大器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "射频方案/doherty是如何实现效率提升.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "doherty是如何实现效率提升 的大纲"
             }
           },
           {
@@ -164,6 +169,8 @@
   },
   "active": "67b78641b3a44b34",
   "lastOpenFiles": [
+    "射频方案/doherty效率提升.pdf",
+    "射频方案/Doherty 功率放大器技术解析.md",
     "芯片封装/如何通过仿真手段获得封装基板的等效热模型.pdf",
     "射频方案/分析/FFT时域频域分析.pdf",
     "射频方案/功放测试方法与指标详解.md",
@@ -185,7 +192,6 @@
     "射频方案/学习方式/射频的本质就是电磁波.pdf",
     "射频方案/学习方式/射频入门.md",
     "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
-    "PCB/趋势",
     "射频方案/学习方式/功放的保护方法.md",
     "射频方案/学习方式/readme.md",
     "芯片封装/存储芯片/多是存储芯片.md",
@@ -199,7 +205,6 @@
     "射频方案/射频电路的本质是什么.md",
     "芯片封装/jedec标准.md",
     "射频方案/分析/时域与频域分析的本质差异.md",
-    "射频方案/SINAD下的灵敏度是什么意思.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
