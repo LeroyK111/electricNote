@@ -11,14 +11,12 @@
             "id": "5c8309a097d3cb81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "射频方案/doherty是如何实现效率提升.md",
-                "mode": "source",
-                "source": false
+                "file": "射频方案/学习方式/功放手册.pdf"
               },
-              "icon": "lucide-file",
-              "title": "doherty是如何实现效率提升"
+              "icon": "lucide-file-text",
+              "title": "功放手册"
             }
           }
         ]
@@ -94,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/doherty是如何实现效率提升.md",
+                "file": "射频方案/学习方式/功放手册.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "doherty是如何实现效率提升 的大纲"
+              "title": "功放手册 的大纲"
             }
           },
           {
@@ -167,8 +165,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "5c8309a097d3cb81",
   "lastOpenFiles": [
+    "射频方案/学习方式/功放的保护方法.md",
+    "射频方案/doherty是如何实现效率提升.md",
     "射频方案/学习方式/功放手册.pdf",
     "射频方案/doherty效率提升.pdf",
     "射频方案/Doherty 功率放大器技术解析.md",
@@ -189,10 +189,8 @@
     "射频方案/射频面试/锁相环的基础知识及选型指南.pdf",
     "芯片封装/半导体封装器件要用金丝键合.md",
     "射频方案/射频面试/功放的基础知识及选型指南.pdf",
-    "射频方案/进阶/射频开关基础知识.pdf",
     "射频方案/学习方式/射频入门.md",
     "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
-    "射频方案/学习方式/功放的保护方法.md",
     "射频方案/学习方式/readme.md",
     "芯片封装/存储芯片/多是存储芯片.md",
     "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
