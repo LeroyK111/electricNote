@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3c0c1a7bccf23af9",
+        "id": "a4cd938c4b0328c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5c8309a097d3cb81",
+            "id": "33441de4daf8c7ef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "射频方案/学习方式/功放手册.pdf"
+                "file": "存储设备/内存和闪存.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "功放手册"
+              "icon": "lucide-file",
+              "title": "内存和闪存"
             }
           }
         ]
@@ -92,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/学习方式/功放手册.pdf",
+                "file": "存储设备/内存和闪存.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "功放手册 的大纲"
+              "title": "内存和闪存 的大纲"
             }
           },
           {
@@ -165,11 +167,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5c8309a097d3cb81",
+  "active": "33441de4daf8c7ef",
   "lastOpenFiles": [
+    "存储设备/存储卡.md",
+    "存储设备/内存和闪存.md",
+    "存储设备/存储设备.md",
+    "射频方案/AGC 启动前后链路工作机制详解.md",
+    "射频方案/学习方式/射频入门.md",
+    "射频方案/学习方式/射频的本质就是电磁波.pdf",
+    "存储设备/嵌入式非易失性存储器.md",
     "射频方案/学习方式/功放的保护方法.md",
-    "射频方案/doherty是如何实现效率提升.md",
+    "存储设备/存储盘.md",
     "射频方案/学习方式/功放手册.pdf",
+    "射频方案/doherty是如何实现效率提升.md",
     "射频方案/doherty效率提升.pdf",
     "射频方案/Doherty 功率放大器技术解析.md",
     "芯片封装/如何通过仿真手段获得封装基板的等效热模型.pdf",
@@ -188,21 +198,12 @@
     "射频方案/FM 解调：技术、斜率检测器以及优缺点.md",
     "射频方案/射频面试/锁相环的基础知识及选型指南.pdf",
     "芯片封装/半导体封装器件要用金丝键合.md",
-    "射频方案/射频面试/功放的基础知识及选型指南.pdf",
-    "射频方案/学习方式/射频入门.md",
     "PCB/趋势/柔性集成电路：一种全新的半导体范式.md",
     "射频方案/学习方式/readme.md",
     "芯片封装/存储芯片/多是存储芯片.md",
     "芯片封装/BGA封装热阻Rja仿真时，是否需要考虑键合丝的影响？.md",
     "芯片封装/BGA封装中集成的电容到底起的什么作用？.md",
     "射频方案/ADC的噪底对灵敏度有什么影响.md",
-    "射频方案/Smith圆图你会用吗.md",
-    "射频方案/测试工具/解决问题是一种重要的能力 - spur分析.md",
-    "射频方案/测试工具/矢量网络分析仪 (VNA) ：从史密斯圆图到精准测量.md",
-    "射频方案/隔离设计.md",
-    "射频方案/射频电路的本质是什么.md",
-    "芯片封装/jedec标准.md",
-    "射频方案/分析/时域与频域分析的本质差异.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
