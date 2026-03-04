@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4cd938c4b0328c6",
+        "id": "2225943d78bec583",
         "type": "tabs",
         "children": [
           {
-            "id": "33441de4daf8c7ef",
+            "id": "4d517669c4d9ab24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "存储设备/内存和闪存.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "内存和闪存"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "存储设备/内存和闪存.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "内存和闪存 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,15 +162,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "33441de4daf8c7ef",
+  "active": "4d517669c4d9ab24",
   "lastOpenFiles": [
+    "CarSystem/48v_eFuse.pdf",
+    "存储设备/内存和闪存.md",
+    "芯片封装/名词解释/如何控制上亿个存储单元.pdf",
+    "存储设备/存储卡.md",
     "PCB/kicad/demo/demo-backups/demo-2026-03-02_225409.zip",
     "PCB/kicad/demo/~demo.kicad_sch.lck",
     "PCB/kicad/demo/~demo.kicad_pcb.lck",
     "PCB/kicad/demo/~demo.kicad_pro.lck",
     "PCB/kicad/demo/demo-backups/demo-2026-03-02_225128.zip",
-    "存储设备/存储卡.md",
-    "存储设备/内存和闪存.md",
     "存储设备/存储设备.md",
     "射频方案/AGC 启动前后链路工作机制详解.md",
     "射频方案/学习方式/射频入门.md",
@@ -187,13 +184,10 @@
     "射频方案/doherty是如何实现效率提升.md",
     "射频方案/doherty效率提升.pdf",
     "射频方案/Doherty 功率放大器技术解析.md",
-    "芯片封装/如何通过仿真手段获得封装基板的等效热模型.pdf",
-    "射频方案/分析/FFT时域频域分析.pdf",
     "射频方案/功放测试方法与指标详解.md",
     "PCB/常用电子元器件/陶瓷电容MLCC的三大特性.md",
     "PCB/常用电子元器件/eFuse.md",
     "PCB/BOOST的VIN与VOUT接近会怎么样.md",
-    "射频方案/混频器.pdf",
     "射频方案/分析/什么是零欧姆电阻.md",
     "射频方案/混频器的基础知识和设计指南.md",
     "CPU/3d-v-cache缓存.md",
