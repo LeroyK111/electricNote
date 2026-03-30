@@ -167,6 +167,7 @@
   },
   "active": "df6ece7d8c635e5d",
   "lastOpenFiles": [
+    "射频方案/分析/微波电路仿真和实际为什么差距那么大.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "EDA软件/NAND芯片内部阵列结构,为什么将晶体管串联.pdf",
     "Power/BMS电池管理系统.md",
@@ -202,7 +203,6 @@
     "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "射频方案/分析/什么是零欧姆电阻.md",
     "射频方案/混频器的基础知识和设计指南.md",
-    "CPU/3d-v-cache缓存.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
