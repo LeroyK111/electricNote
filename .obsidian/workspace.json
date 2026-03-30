@@ -167,6 +167,7 @@
   },
   "active": "df6ece7d8c635e5d",
   "lastOpenFiles": [
+    "存储设备/NAND内存阵列串联结构如何进行数据读写？.pdf",
     "射频方案/分析/微波电路仿真和实际为什么差距那么大.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "EDA软件/NAND芯片内部阵列结构,为什么将晶体管串联.pdf",
@@ -188,7 +189,6 @@
     "存储设备/存储卡.md",
     "PCB/kicad/demo/demo-backups/demo-2026-03-02_225409.zip",
     "PCB/kicad/demo/~demo.kicad_sch.lck",
-    "PCB/kicad/demo/~demo.kicad_pcb.lck",
     "存储设备/存储设备.md",
     "射频方案/AGC 启动前后链路工作机制详解.md",
     "射频方案/学习方式/射频入门.md",
