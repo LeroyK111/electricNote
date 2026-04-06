@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9afe936e8f5274ff",
+        "id": "83e99908ef734bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "09603929f0fb47fb",
+            "id": "d8370ec370cf83da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/电路分析/电容的特性.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "电容的特性"
             }
           }
         ]
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/电路分析/电容的特性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "电容的特性 的大纲"
             }
           },
           {
@@ -162,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "d8370ec370cf83da",
   "lastOpenFiles": [
+    "PCB/选错二极管，RTC功耗增大10~1000倍.md",
+    "PCB/电路分析/电容的特性.md",
     "PCB/为STM32的串口ISP烧录打造专属硬件自动下载电路.pdf",
     "PCB/常用工具/电流采样电阻.pdf",
     "芯片技能树/2019before/芯片上开个“天窗”？用紫外线给单片机擦数据，上古时代的硬核编程！.pdf",
@@ -182,7 +189,6 @@
     "芯片技能树/芯片全流程制造.md",
     "芯片技能树",
     "芯片封装/名词解释/为什么射频芯片很多依然采用金丝键合？.md",
-    "芯片封装/名词解释/先进封装与传统封装相比，信号速度到底快在了哪里？.pdf",
     "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
     "存储设备/存储卡.md",
@@ -199,7 +205,6 @@
     "PCB/常用电子元器件/eFuse.md",
     "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "射频方案/分析/什么是零欧姆电阻.md",
-    "射频方案/混频器的基础知识和设计指南.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
