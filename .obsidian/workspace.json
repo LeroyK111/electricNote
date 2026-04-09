@@ -11,10 +11,14 @@
             "id": "e789c4f01cb3682b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "常见芯片/为何高端SOC内部没有高性能ADC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "为何高端SOC内部没有高性能ADC"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "电流采样",
+                "query": "soc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "常见芯片/为何高端SOC内部没有高性能ADC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "为何高端SOC内部没有高性能ADC 的大纲"
             }
           },
           {
@@ -164,6 +169,9 @@
   },
   "active": "e789c4f01cb3682b",
   "lastOpenFiles": [
+    "README.md",
+    "常见芯片/为何高端SOC内部没有高性能ADC.md",
+    "Power/BMS电池管理系统.md",
     "PCB/常用电子元器件/隔离电源模块.pdf",
     "PCB/电路分析/电容的特性.md",
     "PCB/选错二极管，RTC功耗增大10~1000倍.md",
@@ -177,13 +185,11 @@
     "射频方案/分析/微波电路仿真和实际为什么差距那么大.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "EDA软件/NAND芯片内部阵列结构,为什么将晶体管串联.pdf",
-    "Power/BMS电池管理系统.md",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
     "存储设备/内存和闪存.md",
     "MCU/MRAM.md",
     "芯片技能树/芯片全流程制造.md",
-    "芯片技能树",
     "芯片封装/名词解释/为什么射频芯片很多依然采用金丝键合？.md",
     "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
@@ -199,7 +205,6 @@
     "射频方案/功放测试方法与指标详解.md",
     "PCB/常用电子元器件/陶瓷电容MLCC的三大特性.md",
     "PCB/常用电子元器件/eFuse.md",
-    "PCB/BOOST的VIN与VOUT接近会怎么样.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
