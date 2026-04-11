@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "29baa0eb82788e84",
+        "id": "b54ab77b872500ad",
         "type": "tabs",
         "children": [
           {
-            "id": "e789c4f01cb3682b",
+            "id": "238906cf4c69af27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "常见芯片/为何高端SOC内部没有高性能ADC.md",
-                "mode": "source",
-                "source": false
+                "file": "射频方案/分析/相位噪音.pdf"
               },
-              "icon": "lucide-file",
-              "title": "为何高端SOC内部没有高性能ADC"
+              "icon": "lucide-file-text",
+              "title": "相位噪音"
             }
           }
         ]
@@ -94,13 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见芯片/为何高端SOC内部没有高性能ADC.md",
+                "file": "射频方案/分析/相位噪音.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "为何高端SOC内部没有高性能ADC 的大纲"
+              "title": "相位噪音 的大纲"
             }
           },
           {
@@ -167,10 +165,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e789c4f01cb3682b",
+  "active": "238906cf4c69af27",
   "lastOpenFiles": [
-    "README.md",
+    "射频方案/分析/相位噪音.pdf",
+    "PCB/电路分析/案例/3io控制6灯.md",
+    "Pasted image 20260411202553.png",
+    "PCB/电路分析/案例",
     "常见芯片/为何高端SOC内部没有高性能ADC.md",
+    "README.md",
     "Power/BMS电池管理系统.md",
     "PCB/常用电子元器件/隔离电源模块.pdf",
     "PCB/电路分析/电容的特性.md",
@@ -184,7 +186,6 @@
     "存储设备/NAND内存阵列串联结构如何进行数据读写？.pdf",
     "射频方案/分析/微波电路仿真和实际为什么差距那么大.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
-    "EDA软件/NAND芯片内部阵列结构,为什么将晶体管串联.pdf",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
     "存储设备/内存和闪存.md",
@@ -203,8 +204,6 @@
     "射频方案/doherty是如何实现效率提升.md",
     "射频方案/Doherty 功率放大器技术解析.md",
     "射频方案/功放测试方法与指标详解.md",
-    "PCB/常用电子元器件/陶瓷电容MLCC的三大特性.md",
-    "PCB/常用电子元器件/eFuse.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
