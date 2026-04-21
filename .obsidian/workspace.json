@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b54ab77b872500ad",
+        "id": "f2ce2eb5c062a24f",
         "type": "tabs",
         "children": [
           {
-            "id": "238906cf4c69af27",
+            "id": "8d55da0e79768698",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "射频方案/分析/相位噪音.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "相位噪音"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -92,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/分析/相位噪音.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "相位噪音 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -165,8 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "238906cf4c69af27",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
+    "PCB/滤波方法/GND平面交错改善隔离电源共模噪音.pdf",
     "射频方案/分析/相位噪音.pdf",
     "PCB/电路分析/案例/3io控制6灯.md",
     "Pasted image 20260411202553.png",
@@ -184,7 +182,6 @@
     "芯片技能树/2019年之前的嵌入式",
     "芯片技能树/新建文件夹",
     "存储设备/NAND内存阵列串联结构如何进行数据读写？.pdf",
-    "射频方案/分析/微波电路仿真和实际为什么差距那么大.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
