@@ -11,10 +11,12 @@
             "id": "8d55da0e79768698",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "CarSystem/汽车热管理.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "汽车热管理"
             }
           }
         ]
@@ -90,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CarSystem/汽车热管理.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "汽车热管理 的大纲"
             }
           },
           {
@@ -162,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "8d55da0e79768698",
   "lastOpenFiles": [
+    "CarSystem/汽车热管理.pdf",
     "PCB/滤波方法/GND平面交错改善隔离电源共模噪音.pdf",
     "射频方案/分析/相位噪音.pdf",
     "PCB/电路分析/案例/3io控制6灯.md",
@@ -181,7 +185,6 @@
     "芯片技能树/2019before",
     "芯片技能树/2019年之前的嵌入式",
     "芯片技能树/新建文件夹",
-    "存储设备/NAND内存阵列串联结构如何进行数据读写？.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
