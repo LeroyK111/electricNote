@@ -165,8 +165,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8d55da0e79768698",
+  "active": "67b78641b3a44b34",
   "lastOpenFiles": [
+    "Power/使用人工智能优化你的供电网络.pdf",
     "PCB/Buck极限占空比.pdf",
     "PCB/常用电子元器件/SiC MOSFET 体二极管特性及死区时间选择.pdf",
     "CarSystem/汽车热管理.pdf",
@@ -184,7 +185,6 @@
     "PCB/为STM32的串口ISP烧录打造专属硬件自动下载电路.pdf",
     "PCB/常用工具/电流采样电阻.pdf",
     "芯片技能树/2019before/芯片上开个“天窗”？用紫外线给单片机擦数据，上古时代的硬核编程！.pdf",
-    "芯片技能树/2019before",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
