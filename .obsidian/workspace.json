@@ -11,12 +11,14 @@
             "id": "8d55da0e79768698",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CarSystem/汽车热管理.pdf"
+                "file": "射频方案/射频基础—时域和频域的区别.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "汽车热管理"
+              "icon": "lucide-file",
+              "title": "射频基础—时域和频域的区别"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soc",
+                "query": "时域",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CarSystem/汽车热管理.pdf",
+                "file": "射频方案/射频基础—时域和频域的区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "汽车热管理 的大纲"
+              "title": "射频基础—时域和频域的区别 的大纲"
             }
           },
           {
@@ -165,12 +168,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "8d55da0e79768698",
   "lastOpenFiles": [
+    "CPU/3d-v-cache缓存.md",
+    "CarSystem/汽车热管理.pdf",
     "Power/使用人工智能优化你的供电网络.pdf",
     "PCB/Buck极限占空比.pdf",
     "PCB/常用电子元器件/SiC MOSFET 体二极管特性及死区时间选择.pdf",
-    "CarSystem/汽车热管理.pdf",
     "PCB/滤波方法/GND平面交错改善隔离电源共模噪音.pdf",
     "射频方案/分析/相位噪音.pdf",
     "PCB/电路分析/案例/3io控制6灯.md",
@@ -184,7 +188,6 @@
     "PCB/选错二极管，RTC功耗增大10~1000倍.md",
     "PCB/为STM32的串口ISP烧录打造专属硬件自动下载电路.pdf",
     "PCB/常用工具/电流采样电阻.pdf",
-    "芯片技能树/2019before/芯片上开个“天窗”？用紫外线给单片机擦数据，上古时代的硬核编程！.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
