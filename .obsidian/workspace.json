@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ce2eb5c062a24f",
+        "id": "f85494d03f5f154c",
         "type": "tabs",
         "children": [
           {
-            "id": "8d55da0e79768698",
+            "id": "b9ed1d28a3e831b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "射频方案/射频开关的基础知识.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "射频开关的基础知识"
+              "title": "新标签页"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -94,13 +92,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "射频方案/射频开关的基础知识.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "射频开关的基础知识 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,8 +164,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "67b78641b3a44b34",
+  "active": "b9ed1d28a3e831b2",
   "lastOpenFiles": [
+    "EDA软件/AI辅助设计/趋势.md",
+    "射频方案/射频开关的基础知识.md",
+    "EDA软件/AI辅助设计",
     "射频方案/分析/射频开关基础知识与选型指南.pdf",
     "存储设备/存储芯片全景图.md",
     "Pasted image 20260523225742.png",
@@ -189,8 +189,6 @@
     "PCB/常用电子元器件/隔离电源模块.pdf",
     "PCB/电路分析/电容的特性.md",
     "PCB/选错二极管，RTC功耗增大10~1000倍.md",
-    "PCB/为STM32的串口ISP烧录打造专属硬件自动下载电路.pdf",
-    "PCB/常用工具/电流采样电阻.pdf",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
     "Power/800v服务器.md",
     "常见芯片/4—20mA的电流来传输模拟量.md",
@@ -206,7 +204,6 @@
     "射频方案/学习方式/射频入门.md",
     "存储设备/嵌入式非易失性存储器.md",
     "射频方案/学习方式/功放的保护方法.md",
-    "存储设备/存储盘.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
