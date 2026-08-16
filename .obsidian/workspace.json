@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f85494d03f5f154c",
+        "id": "6b521f6f22210df9",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ed1d28a3e831b2",
+            "id": "9edad6469db3df4f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,14 +164,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b9ed1d28a3e831b2",
+  "active": "9edad6469db3df4f",
   "lastOpenFiles": [
+    "README.md",
+    "readme.assets/Pasted image 20260523225742.png",
     "EDA软件/AI辅助设计/趋势.md",
     "射频方案/射频开关的基础知识.md",
     "EDA软件/AI辅助设计",
     "射频方案/分析/射频开关基础知识与选型指南.pdf",
     "存储设备/存储芯片全景图.md",
-    "Pasted image 20260523225742.png",
     "射频方案/射频基础—时域和频域的区别.md",
     "CPU/3d-v-cache缓存.md",
     "CarSystem/汽车热管理.pdf",
@@ -184,7 +185,6 @@
     "Pasted image 20260411202553.png",
     "PCB/电路分析/案例",
     "常见芯片/为何高端SOC内部没有高性能ADC.md",
-    "README.md",
     "Power/BMS电池管理系统.md",
     "PCB/常用电子元器件/隔离电源模块.pdf",
     "PCB/电路分析/电容的特性.md",
@@ -203,7 +203,6 @@
     "射频方案/AGC 启动前后链路工作机制详解.md",
     "射频方案/学习方式/射频入门.md",
     "存储设备/嵌入式非易失性存储器.md",
-    "射频方案/学习方式/功放的保护方法.md",
     "readme.assets/Pasted image 20251025133744.png",
     "readme.assets/Pasted image 20251025131908.png",
     "readme.assets/Pasted image 20251025131545.png",
