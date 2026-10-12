@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b521f6f22210df9",
+        "id": "5401c601a88ac484",
         "type": "tabs",
         "children": [
           {
-            "id": "9edad6469db3df4f",
+            "id": "41bd59a3b474efc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/常用工具/优利德UT61E+使用指南.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "优利德UT61E+使用指南"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "射频开",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/常用工具/优利德UT61E+使用指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,10 +169,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9edad6469db3df4f",
+  "active": "41bd59a3b474efc5",
   "lastOpenFiles": [
+    "assets/Pasted image 20261012002921.png",
+    "PCB/常用工具/优利德UT61E+使用指南.md",
+    "assets",
+    "assets/Pasted image 20261012011622.png",
+    "assets/Pasted image 20261012151400.png",
+    "assets/Pasted image 20261012151328.png",
+    "assets/Pasted image 20261012151317.png",
+    "assets/Pasted image 20261012143110.png",
+    "PCB/非标自动化/各种设备.md",
+    "assets/Pasted image 20261012012715.png",
+    "assets/Pasted image 20261012012638.png",
+    "assets/Pasted image 20261012012551.png",
+    "assets/Pasted image 20261012012404.png",
+    "PCB/非标自动化",
+    "射频方案/射频面试/2025射频面试.md",
     "README.md",
-    "readme.assets/Pasted image 20260523225742.png",
     "EDA软件/AI辅助设计/趋势.md",
     "射频方案/射频开关的基础知识.md",
     "EDA软件/AI辅助设计",
@@ -182,11 +201,8 @@
     "PCB/滤波方法/GND平面交错改善隔离电源共模噪音.pdf",
     "射频方案/分析/相位噪音.pdf",
     "PCB/电路分析/案例/3io控制6灯.md",
-    "Pasted image 20260411202553.png",
-    "PCB/电路分析/案例",
     "常见芯片/为何高端SOC内部没有高性能ADC.md",
     "Power/BMS电池管理系统.md",
-    "PCB/常用电子元器件/隔离电源模块.pdf",
     "PCB/电路分析/电容的特性.md",
     "PCB/选错二极管，RTC功耗增大10~1000倍.md",
     "ChipInstructionSet/RISC-V/模拟开发环境.md",
@@ -199,17 +215,6 @@
     "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
     "存储设备/存储卡.md",
-    "存储设备/存储设备.md",
-    "射频方案/AGC 启动前后链路工作机制详解.md",
-    "射频方案/学习方式/射频入门.md",
-    "存储设备/嵌入式非易失性存储器.md",
-    "readme.assets/Pasted image 20251025133744.png",
-    "readme.assets/Pasted image 20251025131908.png",
-    "readme.assets/Pasted image 20251025131545.png",
-    "readme.assets/Pasted image 20251023191004.png",
-    "Pasted image 20251023191004.png",
-    "Pasted image 20250923212901.png",
-    "readme.assets/Pasted image 20250904235543.png",
-    "readme.assets/Pasted image 20250904235628.png"
+    "存储设备/存储设备.md"
   ]
 }

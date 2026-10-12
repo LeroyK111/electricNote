@@ -2,5 +2,7 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current"
 }
