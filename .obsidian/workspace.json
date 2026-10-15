@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5401c601a88ac484",
+        "id": "8e4f9c47b255fb0a",
         "type": "tabs",
         "children": [
           {
-            "id": "41bd59a3b474efc5",
+            "id": "917e8b5ccb3fe712",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCB/常用工具/优利德UT61E+使用指南.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "优利德UT61E+使用指南"
+              "title": "新标签页"
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCB/常用工具/优利德UT61E+使用指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,10 +164,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "41bd59a3b474efc5",
+  "active": "917e8b5ccb3fe712",
   "lastOpenFiles": [
-    "assets/Pasted image 20261012002921.png",
+    "PCB/常用工具/六合一USB串口.pdf",
+    "芯片封装/工序/TC过程中物体表面凝霜是怎么产生的.pdf",
     "PCB/常用工具/优利德UT61E+使用指南.md",
+    "PCB/常用工具/四种直流电流采样方法.pdf",
+    "PCB/常用工具/6合1串口调试工具.md",
+    "assets/Pasted image 20261012002921.png",
     "assets",
     "assets/Pasted image 20261012011622.png",
     "assets/Pasted image 20261012151400.png",
@@ -198,8 +197,6 @@
     "Power/使用人工智能优化你的供电网络.pdf",
     "PCB/Buck极限占空比.pdf",
     "PCB/常用电子元器件/SiC MOSFET 体二极管特性及死区时间选择.pdf",
-    "PCB/滤波方法/GND平面交错改善隔离电源共模噪音.pdf",
-    "射频方案/分析/相位噪音.pdf",
     "PCB/电路分析/案例/3io控制6灯.md",
     "常见芯片/为何高端SOC内部没有高性能ADC.md",
     "Power/BMS电池管理系统.md",
@@ -214,7 +211,6 @@
     "芯片封装/名词解释/为什么射频芯片很多依然采用金丝键合？.md",
     "芯片封装/名词解释/ASM焊线机参数发展变化——contact、base、release等参数阶段到底有什么特殊含义？.md",
     "芯片封装/名词解释/器件考核MSL通过后意味着什么？.md",
-    "存储设备/存储卡.md",
-    "存储设备/存储设备.md"
+    "存储设备/存储卡.md"
   ]
 }

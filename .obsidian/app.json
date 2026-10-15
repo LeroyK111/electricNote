@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./assets",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }
