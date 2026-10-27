@@ -124,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCB/隔离原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "隔离原理 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -147,7 +146,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "917e8b5ccb3fe712",
+  "active": "e6a361641627a074",
   "lastOpenFiles": [
     "PCB/FPC柔性板/fpc设计细节.pdf",
     "PCB/FPC柔性板",
