@@ -166,6 +166,7 @@
   },
   "active": "917e8b5ccb3fe712",
   "lastOpenFiles": [
+    "FPGA/CLB开始MCU内置FPGA.pdf",
     "Power/DCDC换上低ESR电容.pdf",
     "PCB/FPC柔性板/fpc设计细节.pdf",
     "PCB/FPC柔性板",
@@ -189,7 +190,6 @@
     "assets/Pasted image 20261012012638.png",
     "assets/Pasted image 20261012012551.png",
     "assets/Pasted image 20261012012404.png",
-    "PCB/非标自动化",
     "射频方案/射频面试/2025射频面试.md",
     "README.md",
     "EDA软件/AI辅助设计/趋势.md",
