@@ -164,8 +164,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e6a361641627a074",
+  "active": "917e8b5ccb3fe712",
   "lastOpenFiles": [
+    "Power/DCDC换上低ESR电容.pdf",
     "PCB/FPC柔性板/fpc设计细节.pdf",
     "PCB/FPC柔性板",
     "PCB/FPC柔性版",
@@ -193,7 +194,6 @@
     "README.md",
     "EDA软件/AI辅助设计/趋势.md",
     "射频方案/射频开关的基础知识.md",
-    "EDA软件/AI辅助设计",
     "存储设备/存储芯片全景图.md",
     "射频方案/射频基础—时域和频域的区别.md",
     "CPU/3d-v-cache缓存.md",
