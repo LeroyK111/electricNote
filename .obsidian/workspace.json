@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4f9c47b255fb0a",
+        "id": "bb348b8c4e6aa90a",
         "type": "tabs",
         "children": [
           {
-            "id": "917e8b5ccb3fe712",
+            "id": "0a65f6bff9510c65",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "917e8b5ccb3fe712",
+  "active": "0a65f6bff9510c65",
   "lastOpenFiles": [
     "FPGA/CLB开始MCU内置FPGA.pdf",
     "Power/DCDC换上低ESR电容.pdf",
