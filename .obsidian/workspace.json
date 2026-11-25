@@ -11,10 +11,14 @@
             "id": "0a65f6bff9510c65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PCB/常用工具/工具推荐.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "工具推荐"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PCB/常用工具/工具推荐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PCB/常用工具/工具推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,8 +152,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,6 +171,8 @@
   },
   "active": "0a65f6bff9510c65",
   "lastOpenFiles": [
+    "README.md",
+    "PCB/常用工具/工具推荐.md",
     "FPGA/CLB开始MCU内置FPGA.pdf",
     "Power/DCDC换上低ESR电容.pdf",
     "PCB/FPC柔性板/fpc设计细节.pdf",
@@ -179,7 +186,6 @@
     "PCB/常用工具/四种直流电流采样方法.pdf",
     "PCB/常用工具/6合1串口调试工具.md",
     "assets/Pasted image 20261012002921.png",
-    "assets",
     "assets/Pasted image 20261012011622.png",
     "assets/Pasted image 20261012151400.png",
     "assets/Pasted image 20261012151328.png",
@@ -191,7 +197,6 @@
     "assets/Pasted image 20261012012551.png",
     "assets/Pasted image 20261012012404.png",
     "射频方案/射频面试/2025射频面试.md",
-    "README.md",
     "EDA软件/AI辅助设计/趋势.md",
     "射频方案/射频开关的基础知识.md",
     "存储设备/存储芯片全景图.md",
